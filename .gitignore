@@ -1,0 +1,10 @@
+# DJANGO
+*.log
+*.pot
+venv
+db.sqlite3
+__pycache__/
+
+# VSCode
+.vscode/
+
