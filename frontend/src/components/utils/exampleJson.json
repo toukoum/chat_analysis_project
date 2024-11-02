@@ -1,0 +1,12 @@
+{
+	"messages":[
+		 {
+				"message_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+				"text":"Can you rephrase this sentence to make it easier to understand?",
+				"lang":"en",
+				"detoxify":{
+					 "toxicity":0.0023501887917518616
+				}
+		 } 
+	]
+}

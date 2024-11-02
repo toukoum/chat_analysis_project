@@ -1,0 +1,3902 @@
+{
+  "messages": [
+    {
+      "message_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "parent_id": null,
+      "user_id": "30d0209f-a418-4fac-8157-adf8ddc21aee",
+      "created_date": "2023-02-05T22:44:05.434674+00:00",
+      "text": "Dame los pasos de las cosas que deber\u00eda de aprender para ser un desarrollador de videojuegos.",
+      "role": "prompter",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0023501887917518616,
+        "severe_toxicity": 0.00018701136286836118,
+        "obscene": 0.0027747140266001225,
+        "identity_attack": 0.00036620706669054925,
+        "insult": 0.002524558687582612,
+        "threat": 0.00032923146500252187,
+        "sexual_explicit": 0.0001823759957915172
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply",
+          "_skip_ranking"
+        ],
+        "count": [
+          11,
+          8,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8125,
+          0.16666666666666666,
+          0.3333333333333333,
+          0.5,
+          0.0
+        ],
+        "count": [
+          4,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "20004f60-337b-4962-b9d0-916be14509f9",
+      "parent_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "user_id": "772dcf4a-d6b2-456c-8535-23ef09489d71",
+      "created_date": "2023-02-10T10:07:23.228973+00:00",
+      "text": "Para ser un desarrollador de videojuegos, hay una serie de pasos que se deben seguir.\n\n1. Aprender un lenguaje de programaci\u00f3n. Los lenguajes m\u00e1s comunes para programar videojuegos son C++, C# y Java.\n\n2. Aprender un motor de juego. Los motores de juego m\u00e1s populares son Unity, Unreal Engine y GameMaker Studio.\n\n3. Aprender una herramienta de dise\u00f1o de juegos. Herramientas como Construct 3 y GameSalad son comunes para dise\u00f1ar juegos.\n\n4. Aprender una herramienta de modelado 3D. Herramientas como Blender y Maya son populares para crear gr\u00e1ficos 3D.\n\n5. Aprender una herramienta de animaci\u00f3n 3D. Herramientas como Cinema 4D y Maya son populares para crear animaciones 3D.\n\n6. Desarrollar habilidades de dise\u00f1o de juegos. Esto incluye el dise\u00f1o de mec\u00e1nicas de juego, el dise\u00f1o de niveles, el dise\u00f1o de personajes y la programaci\u00f3n de l\u00f3gica de juego.\n\n7. Aprender una herramienta de sonido. Herramientas como Audacity y Logic Pro son populares para crear efectos de sonido y m\u00fasica para videojuegos.\n\n8. Aprender una herramienta de dise\u00f1o gr\u00e1fico. Herramientas como Photoshop, Illustrator y GIMP son populares para crear gr\u00e1ficos para los videojuegos.\n\n9. Aprender a publicar un juego. Plataformas como Steam, iOS y Android tienen sus propios procesos de publicaci\u00f3n.\n\n10. Aprender habilidades de marketing. Esto incluye el uso de redes sociales, la creaci\u00f3n de contenido y la generaci\u00f3n de tr\u00e1fico para promocionar un juego.",
+      "role": "assistant",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.000235587329370901,
+        "severe_toxicity": 0.002356566721573472,
+        "obscene": 0.015010264702141285,
+        "identity_attack": 0.0021362078841775656,
+        "insult": 0.011871721595525742,
+        "threat": 0.0010118883801624179,
+        "sexual_explicit": 0.0005262726335786283
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_labeling"
+        ],
+        "count": [
+          1,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9375,
+          0.0,
+          0.16666666666666666,
+          0.9166666666666666,
+          0.75,
+          0.0
+        ],
+        "count": [
+          4,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          4,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "fe07c27a-e361-47b8-b935-4af6b9bd1836",
+      "parent_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "user_id": "85b1bfd1-db28-49d8-a615-df186510ff6e",
+      "created_date": "2023-02-10T08:53:27.597028+00:00",
+      "text": "Ante todo, debes entender que el desarrollo de videojuegos es una tarea compleja que requiere la participaci\u00f3n de diferentes roles: programadores, dise\u00f1adores gr\u00e1ficos, guionistas, productores, etc. La primera decisi\u00f3n que deber\u00e1s tomar pues, es en cu\u00e1l de los diferentes roles deseas especializarte o si pretendes asumir t\u00fa solo todas las tareas.\nEn general, ser\u00eda buena idea informarte, a trav\u00e9s de varias fuentes, de cu\u00e1les son las tareas esenciales que los distintos roles implican y de los m\u00e9todos y lugares id\u00f3neos para formarte.\nA partir de ah\u00ed, hacerte un plan de formaci\u00f3n, teniendo en cuenta tus aptitudes, tu lugar de residencia y tus finanzas.\nExisten centros de formaci\u00f3n especializados, tanto \"on line\" como presenciales, que te ser\u00edan de gran ayuda. O, si te sientes capaz, puedes aprender por tu cuenta, utilizando, por ejemplo, la gran cantidad de recursos que hay disponibles en Internet.",
+      "role": "assistant",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0002119083801517263,
+        "severe_toxicity": 0.00013794661208521575,
+        "obscene": 0.0011124907759949565,
+        "identity_attack": 0.00020094668434467167,
+        "insult": 0.000918373407330364,
+        "threat": 9.551732364343479e-05,
+        "sexual_explicit": 7.528553396696225e-05
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply"
+        ],
+        "count": [
+          6,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.7,
+          0.0625,
+          0.3125,
+          0.7,
+          0.375,
+          0.0
+        ],
+        "count": [
+          5,
+          5,
+          3,
+          3,
+          3,
+          3,
+          3,
+          5,
+          4,
+          4,
+          5,
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "message_id": "cd8019ba-3b37-4239-8bb0-25e9f2e08933",
+      "parent_id": "fe07c27a-e361-47b8-b935-4af6b9bd1836",
+      "user_id": "c61db0f5-bfea-4e7a-8812-de85955e944e",
+      "created_date": "2023-02-10T09:17:04.684574+00:00",
+      "text": "Vale, quiero asumir yo s\u00f3lo todas las tareas. Dame una lista ordenada de las cosas que debo ir haciendo para aprender",
+      "role": "prompter",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0015511011006310582,
+        "severe_toxicity": 0.004193787928670645,
+        "obscene": 0.03088943287730217,
+        "identity_attack": 0.005348567850887775,
+        "insult": 0.023698003962635994,
+        "threat": 0.0020418306812644005,
+        "sexual_explicit": 0.000853990379255265
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1",
+          "_skip_reply"
+        ],
+        "count": [
+          1,
+          1,
+          8
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.0,
+          0.3333333333333333,
+          0.3333333333333333,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "8254d75f-af1e-4d45-bad1-4db8dee773a8",
+      "parent_id": "cd8019ba-3b37-4239-8bb0-25e9f2e08933",
+      "user_id": "5aa3d0cb-ed6e-451a-9cca-7e18087cc569",
+      "created_date": "2023-02-10T10:28:27.291454+00:00",
+      "text": "Aqu\u00ed tienes una lista de los pasos generales que pueden ayudar a comenzar:\n\n1. Aprender programaci\u00f3n: La programaci\u00f3n es la base fundamental para desarrollar videojuegos. Hay muchos lenguajes de programaci\u00f3n diferentes, pero algunos comunes para el desarrollo de videojuegos incluyen C ++, C#, Java y Python. Es importante aprender uno de estos lenguajes y adquirir habilidades para resolver problemas complejos.\n\n2. Aprender un motor de juegos: Un motor de juegos es un software que permite a los desarrolladores crear y publicar juegos. Algunos motores de juegos populares incluyen Unity, Unreal Engine y Godot. Es importante elegir un motor de juegos que se adapte a sus habilidades y preferencias.\n\n3. Practicar: La pr\u00e1ctica es fundamental para mejorar tus habilidades de programaci\u00f3n y desarrollo de videojuegos. Puedes comenzar con peque\u00f1os proyectos y trabajar en proyectos m\u00e1s grandes a medida que mejores tus habilidades.\n\n4. Aprender dise\u00f1o de juegos: El dise\u00f1o de juegos es una parte importante del desarrollo de videojuegos. Incluye la planificaci\u00f3n de la estructura y mec\u00e1nica del juego, la creaci\u00f3n de personajes y mundos, y la producci\u00f3n de m\u00fasica y efectos de sonido.\n\n5. Participar en la comunidad de desarrollo de videojuegos: La comunidad de desarrollo de videojuegos es un lugar para compartir ideas, solucionar problemas y aprender de otros desarrolladores. Puedes unirte a foros en l\u00ednea, asistir a conferencias y participar en proyectos de colaboraci\u00f3n.\n\n6. Mantenerse actualizado: El mundo de los videojuegos est\u00e1 en constante evoluci\u00f3n, por lo que es importante mantenerse actualizado con las \u00faltimas tendencias y tecnolog\u00edas. Esto incluye aprender sobre nuevos motores de juegos, tecnolog\u00edas de realidad virtual y aumentada, y nuevos dispositivos de juego.\n\nEstos son solo algunos de los pasos que debes seguir si quieres convertirte en un desarrollador de videojuegos. Como en cualquier carrera, la dedicaci\u00f3n y la paciencia son clave para tener \u00e9xito.",
+      "role": "assistant",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00026943214470520616,
+        "severe_toxicity": 0.0024313232861459255,
+        "obscene": 0.0176724623888731,
+        "identity_attack": 0.002209271537140012,
+        "insult": 0.01626405119895935,
+        "threat": 0.0009636947652325034,
+        "sexual_explicit": 0.0005812536692246795
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          4
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.125,
+          0.25,
+          0.875,
+          0.75,
+          0.125
+        ],
+        "count": [
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "f15a92c4-dacb-422c-a3cb-8d4e18826fdc",
+      "parent_id": "8254d75f-af1e-4d45-bad1-4db8dee773a8",
+      "user_id": "c39fa4be-385e-4b73-a594-f5ba599399eb",
+      "created_date": "2023-02-10T10:51:26.977472+00:00",
+      "text": "\u00bfCu\u00e1nto tiempo me va a llevar cada uno de los pasos?",
+      "role": "prompter",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0009653956512920558,
+        "severe_toxicity": 7.466317038051784e-05,
+        "obscene": 0.0009202996152453125,
+        "identity_attack": 0.00014638452557846904,
+        "insult": 0.0006130703841336071,
+        "threat": 0.00013839865277986974,
+        "sexual_explicit": 8.896463259588927e-05
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.08333333333333333,
+          0.0,
+          0.4166666666666667,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "83ba0b9b-980c-43ed-8473-1fbe0ffd945f",
+      "parent_id": "cd8019ba-3b37-4239-8bb0-25e9f2e08933",
+      "user_id": "e149db76-bc5e-4730-b130-b76d4f69de4e",
+      "created_date": "2023-02-10T10:06:29.293616+00:00",
+      "text": "Claro, aqu\u00ed hay una lista de las cosas que debes hacer para aprender a desarrollar videojuegos:\n\n    Aprende un lenguaje de programaci\u00f3n: Antes de comenzar a desarrollar videojuegos, es importante que tengas una comprensi\u00f3n s\u00f3lida de un lenguaje de programaci\u00f3n, como C++, C#, Java, Python, etc.\n\n    Comprende la l\u00f3gica de programaci\u00f3n: Desarrollar videojuegos requiere una comprensi\u00f3n s\u00f3lida de la l\u00f3gica de programaci\u00f3n, como estructuras de control de flujo, algoritmos y estructuras de datos.\n\n    Aprende los conceptos b\u00e1sicos de juegos: Es importante conocer los conceptos b\u00e1sicos de los juegos, como el motor de juegos, la f\u00edsica, la animaci\u00f3n, la inteligencia artificial, la entrada de usuario, etc.\n\n    Usa un motor de juegos: Un motor de juegos es un software que te permite crear y desarrollar videojuegos sin tener que escribir todo el c\u00f3digo desde cero. Puedes elegir un motor de juegos como Unity, Unreal Engine, Godot, etc.\n\n    Aprende sobre la experiencia de usuario (UX): La experiencia de usuario es esencial para crear videojuegos atractivos y f\u00e1ciles de usar. Debes aprender sobre la ergonom\u00eda, la navegaci\u00f3n y la interacci\u00f3n.\n\n    Crea tus propios juegos: La mejor manera de aprender a desarrollar videojuegos es creando tus propios juegos. Puedes empezar con juegos simples, como juegos de arcade, y luego avanzar a juegos m\u00e1s complejos.\n\n    Participa en comunidades de desarrollo de videojuegos: Puedes unirte a foros en l\u00ednea, comunidades en l\u00ednea y grupos de desarrolladores de videojuegos para obtener apoyo, consejos y recursos.\n\n    Sigue a los desarrolladores de videojuegos exitosos: Sigue a los desarrolladores de videojuegos exitosos y aprende de sus experiencias y ense\u00f1anzas.\n\n    Mantente actualizado: La tecnolog\u00eda y las tendencias en el desarrollo de videojuegos cambian constantemente, por lo que es importante mantenerse actualizado y aprender nuevas habilidades y t\u00e9cnicas.\n\n    Practica y mantente comprometido: El desarrollo de videojuegos es un proceso largo y requiere mucha pr\u00e1ctica y dedicaci\u00f3n. Mantente comprometido y sigue aprendiendo y mejorando constantemente.",
+      "role": "assistant",
+      "lang": "es",
+      "review_count": 4,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00038007728289812803,
+        "severe_toxicity": 0.0047802189365029335,
+        "obscene": 0.03107624128460884,
+        "identity_attack": 0.0044290716759860516,
+        "insult": 0.03092368133366108,
+        "threat": 0.0017553421203047037,
+        "sexual_explicit": 0.0010822286130860448
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9375,
+          0.0,
+          0.08333333333333333,
+          1.0,
+          0.8333333333333334,
+          0.0
+        ],
+        "count": [
+          4,
+          3,
+          4,
+          3,
+          3,
+          3,
+          3,
+          4,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "6bd50799-02aa-4d26-920d-7ebe6f1e0ad1",
+      "parent_id": "83ba0b9b-980c-43ed-8473-1fbe0ffd945f",
+      "user_id": "0ba8661c-dba2-48ce-9c18-d45af81678b6",
+      "created_date": "2023-02-10T10:52:08.795283+00:00",
+      "text": "Para un principiante sin experiencia, \u00bfCual es el lenguaje y motor de juegos mas recomendable?",
+      "role": "prompter",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.003645139979198575,
+        "severe_toxicity": 3.560460390872322e-05,
+        "obscene": 0.0006719252560287714,
+        "identity_attack": 0.00017226231284439564,
+        "insult": 0.0030407248996198177,
+        "threat": 4.6808567276457325e-05,
+        "sexual_explicit": 3.4948949178215116e-05
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.16666666666666666,
+          0.16666666666666666,
+          0.6666666666666666,
+          0.08333333333333333
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "7379ccb5-0e42-4b43-80b5-c183741ca949",
+      "parent_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "user_id": "c68ad8c7-1269-4137-9eda-417eec9c46cc",
+      "created_date": "2023-02-10T09:08:53.338278+00:00",
+      "text": "No hay un plan perfecto para convertirte en un desarrollador de videojuegos, sin embargo lo mejor que puedes hacer es empezar por las cosas mas b\u00e1sicas, entre ellas, aprender a programar en el lenguaje de programaci\u00f3n que mas se adapte  a tus gustos y necesidades, ayudarte de las matem\u00e1ticas, la f\u00edsica y otras ciencias, ya que el desarrollo de videojuegos es una tarea compleja y modular, en la que existen muchas \u00e1reas de desarrollo.\n\nPara darte una idea de lo que conlleva el desarrollar un videojuego, te recomiendo buscar ejemplos en internet de juegos simples, hechos en motores f\u00e1ciles de comprender o que tengan mucho soporte por parte de la comunidad.",
+      "role": "assistant",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 2,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00048462935956194997,
+        "severe_toxicity": 0.0010559054790064692,
+        "obscene": 0.011037587188184261,
+        "identity_attack": 0.0013188149314373732,
+        "insult": 0.009335896000266075,
+        "threat": 0.0005296614835970104,
+        "sexual_explicit": 0.00036240636836737394
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          5
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.0,
+          0.125,
+          0.875,
+          0.375,
+          0.0
+        ],
+        "count": [
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "a8e2aadb-2479-4899-8d45-8a31590777e8",
+      "parent_id": "7379ccb5-0e42-4b43-80b5-c183741ca949",
+      "user_id": "53e12e1b-b51f-4325-bd87-b626b943e1c3",
+      "created_date": "2023-02-10T09:42:30.833912+00:00",
+      "text": "Algo mas espec\u00edfico, \u00bfdever\u00eda empezar con Unity?, \u00bfdever\u00eda apuntarme a clases de programaci\u00f3n o a alg\u00fan bootcamp o ser\u00eda mejor aprender por mi cuenta usando internet? me gustar\u00eda usar texturas avanzadas para crear juegos en 3 dimensiones.",
+      "role": "prompter",
+      "lang": "es",
+      "review_count": 4,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0005953735671937466,
+        "severe_toxicity": 0.00581010989844799,
+        "obscene": 0.03868287429213524,
+        "identity_attack": 0.0070275068283081055,
+        "insult": 0.03467358276247978,
+        "threat": 0.0023699540179222822,
+        "sexual_explicit": 0.0013834243873134255
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1",
+          "_skip_reply",
+          "_skip_ranking"
+        ],
+        "count": [
+          3,
+          1,
+          4,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6875,
+          0.0,
+          0.0,
+          0.5,
+          0.0
+        ],
+        "count": [
+          4,
+          4,
+          2,
+          2,
+          2,
+          2,
+          4,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "9b72ccdf-589c-4b8f-89ab-1ed2eb116030",
+      "parent_id": "a8e2aadb-2479-4899-8d45-8a31590777e8",
+      "user_id": "f5d30448-aa8d-450f-8e33-c545331d0dab",
+      "created_date": "2023-02-10T10:41:52.304356+00:00",
+      "text": "Eso depende de como te sientas m\u00e1s c\u00f3modo aprendiendo, para algunas personas es mejor una educaci\u00f3n reglada por lo que en ese caso te recomendar\u00eda apuntarte a alg\u00fan curso ya sea en l\u00ednea o presencial. Si en cambio eres una persona autodidacta, en Internet hay centenares de recursos para aprender a tu propio ritmo.\n\nPara el desarrollo de videojuegos en tres dimensiones, la mejor opci\u00f3n es usar un motor ya existente. Eso te permitir\u00e1 centrarte en el desarrollo del videojuego en s\u00ed mismo y no tener que implementar todos los requisitos de bajo nivel que necesite. Algunos de los motores m\u00e1s populares son Unreal Engine, Unity o Godot, sin embargo cada uno tiene sus ventajas e inconvenientes por lo que tendr\u00e1s que valorar cual es mejor para tu proyecto.",
+      "role": "assistant",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0002872221521101892,
+        "severe_toxicity": 9.018531272886321e-05,
+        "obscene": 0.0007960324874147773,
+        "identity_attack": 0.00018265792459715158,
+        "insult": 0.0007105600088834763,
+        "threat": 7.553629257017747e-05,
+        "sexual_explicit": 5.822087769047357e-05
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9166666666666666,
+          0.125,
+          0.125,
+          1.0,
+          0.625,
+          0.125
+        ],
+        "count": [
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "9fd1a5d7-c24d-4cbf-9ae6-b2a98864730e",
+      "parent_id": "a8e2aadb-2479-4899-8d45-8a31590777e8",
+      "user_id": "9f71ba06-5410-409d-aa42-fda7b84352f9",
+      "created_date": "2023-02-10T10:54:17.119415+00:00",
+      "text": "Unity 3D es uno de los frameworks para desarrollar juegos m\u00e1s populares, por lo que podr\u00e1s encontrar muchas librer\u00edas, recursos y cursos gratuitos para empezar. Si adem\u00e1s quieres usar texturas avanzadas para juegos en 3 dimensiones las alternativas ser\u00edan Unity 3D y Unreal Engine. Unity a d\u00eda de hoy es m\u00e1s popular.\n\nLas clases de programaci\u00f3n te podr\u00e1n ayudar, pero si son orientadas a juegos mucho mejor. \n\nComo manera de empezar podr\u00edas buscar algunos cursos gratuitos de desarrollo de juegos para Unity. Tambi\u00e9n puedes ver videos en youtube u otras plataformas donde te expliquen c\u00f3mo utilizar el framework que decidas utilizar y a partir de ah\u00ed empezar a practicar. \n\nSi ves que con estos cursos y videos vas entendiendo la plataforma y vas siendo capaz de hacer peque\u00f1as pruebas de concepto, puedes profundizar m\u00e1s con art\u00edculos, documentaci\u00f3n oficial o incluso alg\u00fan curso o bootcamp.\n\nEn cualquier caso ten en cuenta que aprender algo nuevo al principio es ilusionante, pero para poder conseguir crear un proyecto grande como un juego, necesitar\u00e1s sobre todo perseverar, ya que las etapas iniciales de cualquier aprendizaje son siempre duras. Pero siendo constante podr\u00e1s crear tu propio juego 3D.",
+      "role": "assistant",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00026755372527986765,
+        "severe_toxicity": 0.003713799873366952,
+        "obscene": 0.02453441172838211,
+        "identity_attack": 0.003976562060415745,
+        "insult": 0.021483127027750015,
+        "threat": 0.0015553218545392156,
+        "sexual_explicit": 0.0008226841455325484
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.75,
+          0.08333333333333333,
+          0.3333333333333333,
+          0.8333333333333334,
+          0.3333333333333333,
+          0.08333333333333333
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "477f0393-d362-4520-a19e-60a0f28c3ffd",
+      "parent_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "user_id": "3adb0669-1337-4ca5-ad49-4d99cab4bd2c",
+      "created_date": "2023-02-10T08:34:11.665838+00:00",
+      "text": "Hola, puedo proporcionarte varios pasos para que puedas ser un desarrollador de videojuegos, primero deber\u00edas de aprender un lenguaje de programaci\u00f3n ya que todos los v\u00eddeos juegos est\u00e1n hechos con lenguajes de programaci\u00f3n y segundo formarte con cursos para desarrollar videojuegos en por ejemplo udemy",
+      "role": "assistant",
+      "lang": "es",
+      "review_count": 3,
+      "review_result": false,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0009682853706181049,
+        "severe_toxicity": 0.007528919726610184,
+        "obscene": 0.04288186505436897,
+        "identity_attack": 0.008578810840845108,
+        "insult": 0.04359595850110054,
+        "threat": 0.0028806410264223814,
+        "sexual_explicit": 0.0014644041657447815
+      },
+      "message_tree_id": "002c4715-b026-48d1-8d19-3f724a9fc1e8",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "-1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.3333333333333333,
+          0.6666666666666666,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.25,
+          0.0,
+          0.16666666666666666,
+          0.25,
+          0.3333333333333333,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "parent_id": null,
+      "user_id": "51b6e134-bf43-4153-b442-3a9af3c156c9",
+      "created_date": "2023-02-19T08:43:54.972877+00:00",
+      "text": "\u80fd\u4ecb\u7ecd\u4e00\u4e0b\u4ec0\u4e48\u662f\u7279\u6444\u5417\uff1f",
+      "role": "prompter",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_reply",
+          "_skip_ranking"
+        ],
+        "count": [
+          1,
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.16666666666666666,
+          0.08333333333333333,
+          0.16666666666666666,
+          0.16666666666666666,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "d9b8224c-39f5-4078-b4bd-6c0b6362ac8c",
+      "parent_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "user_id": "770451a3-459c-45c9-abf6-8eda66c52042",
+      "created_date": "2023-04-08T14:03:06.606748+00:00",
+      "text": "\u6211\u53ef\u4ee5\u5e2e\u4f60\u4ecb\u7ecd\u4e00\u4e0b\u4ec0\u4e48\u662f\u201c\u7279\u6444\u201d\u3002\n\n\u201c\u7279\u6444\u201d\u662f\u4e00\u4e2a\u548c\u5236\u6c49\u8bed\uff0c\u5373\u201c\u7279\u6b8a\u6280\u672f\u6444\u5f71\u201d\uff0c\u662f\u4e00\u4e2a\u6e90\u81ea\u65e5\u672c\u7684\u540d\u8bcd\u548c\u7535\u5f71\u7c7b\u578b\u3002\u5b83\u6307\u7684\u662f\u4f7f\u7528\u7279\u6b8a\u6548\u679c\u3001\u94f6\u5e55\u5408\u6210\u7b49\u6280\u672f\u6765\u5236\u4f5c\u51fa\u73b0\u5b9e\u4e2d\u4e0d\u5b58\u5728\u6216\u4e0d\u53ef\u80fd\u5b58\u5728\u7684\u4e8b\u7269\uff0c\u4f8b\u5982\u602a\u517d\u3001\u8d85\u7ea7\u82f1\u96c4\u3001\u707e\u96be\u573a\u666f\u7b49\u3002\u7279\u6444\u7247\u901a\u5e38\u4ee5\u79d1\u5e7b\u3001\u5947\u5e7b\u6216\u6050\u6016\u4e3a\u9898\u6750\uff0c\u4e5f\u6709\u4e00\u4e9b\u7ed3\u5408\u4e86\u52a8\u753b\u6216\u771f\u4eba\u8868\u6f14\u7684\u4f5c\u54c1\u3002\n\n\u7279\u6444\u7684\u8d77\u6e90\u53ef\u4ee5\u8ffd\u6eaf\u5230\u65e9\u671f\u7684\u65e5\u672c\u620f\u5267\uff0c\u5c24\u5176\u662f\u6b4c\u821e\u4f0e\u548c\u6587\u4e50\uff0c\u540e\u8005\u5229\u7528\u4e86\u4e00\u4e9b\u7279\u6b8a\u6548\u679c\u548c\u6728\u5076\u620f1\u30021954\u5e74\uff0c\u65e5\u672c\u4e1c\u5b9d\u516c\u53f8\u63a8\u51fa\u4e86\u65e5\u672c\u7b2c\u4e00\u90e8\u602a\u517d\u7279\u6444\u7535\u5f71\u300a\u54e5\u65af\u62c9\u300b\uff0c\u5f00\u521b\u4e86\u65e5\u672c\u7279\u6444\u7535\u5f71\u7684\u5148\u6cb3\uff0c\u5e76\u5bf9\u897f\u65b9\u7535\u5f71\u4ea7\u751f\u4e86\u5f88\u5927\u7684\u5f71\u54cd\u3002\u4e4b\u540e\uff0c\u65e5\u672c\u51fa\u73b0\u4e86\u8bb8\u591a\u4e0d\u540c\u7c7b\u578b\u7684\u7279\u6444\u7247\uff0c\u5982\u300a\u5965\u7279\u66fc\u300b\u7cfb\u5217\u3001\u300a\u5047\u9762\u9a91\u58eb\u300b\u7cfb\u5217\u3001\u300a\u8d85\u7ea7\u6218\u961f\u300b\u7cfb\u5217\u7b49\uff0c\u6210\u4e3a\u65e5\u672c\u6700\u5177\u6709\u56fd\u9645\u77e5\u540d\u5ea6\u7684\u6280\u672f\u4e0e\u4ea7\u54c1\u3002\n\n\u73b0\u5728\uff0c\u4e0d\u4ec5\u662f\u65e5\u672c\uff0c\u8fd8\u6709\u8bb8\u591a\u56fd\u5bb6\u4e5f\u90fd\u62cd\u6444\u4e86\u5c5e\u4e8e\u81ea\u5df1\u7684\u7279\u6444\u7247\uff0c\u5982\u4e2d\u56fd\u7684\u300a\u53d8\u8eab\u6218\u58eb\u963f\u9f99\u300b\u300a\u94e0\u7532\u52c7\u58eb\u300b\u7cfb\u5217\u7b49\u3002\u7279\u6444\u7247\u4e5f\u548c\u52a8\u753b\u7247\u7684\u754c\u9650\u5728\u6a21\u7cca\u5316\uff0c\u6709\u4e9b\u4f5c\u54c1\u65e2\u6709\u52a8\u753b\u53c8\u6709\u771f\u4eba\u8868\u6f14\u3002\u5f88\u591a\u4eba\u90fd\u8ba4\u4e3a\u7279\u6444\u7247\u4e5f\u5c5e\u4e8e ACGN \u6587\u5316\u7684\u7ec4\u6210\u90e8\u5206\u3002\n\n\u8fd9\u5c31\u662f\u6211\u5bf9\u201c\u7279\u6444\u201d\u7684\u7b80\u5355\u4ecb\u7ecd\uff0c\u5e0c\u671b\u5bf9\u4f60\u6709\u5e2e\u52a9\u3002\u5982\u679c\u4f60\u60f3\u4e86\u89e3\u66f4\u591a\u5173\u4e8e\u7279\u6444\u7684\u4fe1\u606f\uff0c\u4f60\u53ef\u4ee5\u4f7f\u7528\u641c\u7d22\u5f15\u64ce\uff0c\u6216\u54a8\u8be2\u7f51\u4e0a\u6216\u8005\u8eab\u8fb9\u7684\u7279\u6444\u7231\u597d\u8005\u3002",
+      "role": "assistant",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.25,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "f80b6d0b-3254-4dee-8370-1acd5772d51c",
+      "parent_id": "d9b8224c-39f5-4078-b4bd-6c0b6362ac8c",
+      "user_id": "770451a3-459c-45c9-abf6-8eda66c52042",
+      "created_date": "2023-04-09T09:19:03.682606+00:00",
+      "text": "\u4f60\u7684\u4ecb\u7ecd\u4e0d\u9519\uff0c\u4f46\u662f\u6211\u53d1\u73b0\u4f60\u7684\u56de\u7b54\u91cc\u6709\u4e00\u4e2a\u610f\u4e49\u4e0d\u660e\u7684\u6570\u5b57\uff0c\u4f60\u80fd\u81ea\u5df1\u628a\u5b83\u627e\u51fa\u6765\u5e76\u89e3\u91ca\u4e00\u4e0b\u5417\uff1f",
+      "role": "prompter",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_reply"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.0,
+          0.08333333333333333,
+          0.08333333333333333,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "26194472-016a-43c0-893c-58b318eb18fd",
+      "parent_id": "f80b6d0b-3254-4dee-8370-1acd5772d51c",
+      "user_id": "770451a3-459c-45c9-abf6-8eda66c52042",
+      "created_date": "2023-04-11T09:14:26.184872+00:00",
+      "text": "\u5bf9\u4e0d\u8d77\uff0c\u60a8\u6307\u51fa\u4e86\u6211\u521a\u624d\u56de\u590d\u4e2d\u7684\u95ee\u9898\u3002\u60a8\u6240\u8bf4\u7684\u610f\u4e49\u4e0d\u660e\u7684\u6570\u5b57\u51fa\u73b0\u5728\u7b2c\u4e09\u6bb5\u7684\u7b2c\u4e00\u53e5\u672b\u5c3e\uff1a\n\n> \u7279\u6444\u7684\u8d77\u6e90\u53ef\u4ee5\u8ffd\u6eaf\u5230\u65e9\u671f\u7684\u65e5\u672c\u620f\u5267\uff0c\u5c24\u5176\u662f\u6b4c\u821e\u4f0e\u548c\u6587\u4e50\uff0c\u540e\u8005\u5229\u7528\u4e86\u4e00\u4e9b\u7279\u6b8a\u6548\u679c\u548c\u6728\u5076\u620f**1**\u3002\n\n\u53e5\u5b50\u672b\u5c3e\u7684\u963f\u62c9\u4f2f\u6570\u5b57\u201c1\u201d\u662f\u6ca1\u6709\u610f\u4e49\u7684\uff0c\u5e94\u8be5\u53bb\u9664\u3002\u4fee\u6539\u540e\u7684\u56de\u590d\u5982\u4e0b\uff1a\n\n> \u6211\u53ef\u4ee5\u5e2e\u4f60\u4ecb\u7ecd\u4e00\u4e0b\u4ec0\u4e48\u662f\u201c\u7279\u6444\u201d\u3002\n> \n> \u201c\u7279\u6444\u201d\u662f\u4e00\u4e2a\u548c\u5236\u6c49\u8bed\uff0c\u5373\u201c\u7279\u6b8a\u6280\u672f\u6444\u5f71\u201d\uff0c\u662f\u4e00\u4e2a\u6e90\u81ea\u65e5\u672c\u7684\u540d\u8bcd\u548c\u7535\u5f71\u7c7b\u578b\u3002\u5b83\u6307\u7684\u662f\u4f7f\u7528\u7279\u6b8a\u6548\u679c\u3001\u94f6\u5e55\u5408\u6210\u7b49\u6280\u672f\u6765\u5236\u4f5c\u51fa\u73b0\u5b9e\u4e2d\u4e0d\u5b58\u5728\u6216\u4e0d\u53ef\u80fd\u5b58\u5728\u7684\u4e8b\u7269\uff0c\u4f8b\u5982\u602a\u517d\u3001\u8d85\u7ea7\u82f1\u96c4\u3001\u707e\u96be\u573a\u666f\u7b49\u3002\u7279\u6444\u7247\u901a\u5e38\u4ee5\u79d1\u5e7b\u3001\u5947\u5e7b\u6216\u6050\u6016\u4e3a\u9898\u6750\uff0c\u4e5f\u6709\u4e00\u4e9b\u7ed3\u5408\u4e86\u52a8\u753b\u6216\u771f\u4eba\u8868\u6f14\u7684\u4f5c\u54c1\u3002\n> \n> \u7279\u6444\u7684\u8d77\u6e90\u53ef\u4ee5\u8ffd\u6eaf\u5230\u65e9\u671f\u7684\u65e5\u672c\u620f\u5267\uff0c\u5c24\u5176\u662f\u6b4c\u821e\u4f0e\u548c\u6587\u4e50\uff0c\u540e\u8005\u5229\u7528\u4e86\u4e00\u4e9b\u7279\u6b8a\u6548\u679c\u548c\u6728\u5076\u620f\u30021954\u5e74\uff0c\u65e5\u672c\u4e1c\u5b9d\u516c\u53f8\u63a8\u51fa\u4e86\u65e5\u672c\u7b2c\u4e00\u90e8\u602a\u517d\u7279\u6444\u7535\u5f71\u300a\u54e5\u65af\u62c9\u300b\uff0c\u5f00\u521b\u4e86\u65e5\u672c\u7279\u6444\u7535\u5f71\u7684\u5148\u6cb3\uff0c\u5e76\u5bf9\u897f\u65b9\u7535\u5f71\u4ea7\u751f\u4e86\u5f88\u5927\u7684\u5f71\u54cd\u3002\u4e4b\u540e\uff0c\u65e5\u672c\u51fa\u73b0\u4e86\u8bb8\u591a\u4e0d\u540c\u7c7b\u578b\u7684\u7279\u6444\u7247\uff0c\u5982\u300a\u5965\u7279\u66fc\u300b\u7cfb\u5217\u3001\u300a\u5047\u9762\u9a91\u58eb\u300b\u7cfb\u5217\u3001\u300a\u8d85\u7ea7\u6218\u961f\u300b\u7cfb\u5217\u7b49\uff0c\u6210\u4e3a\u65e5\u672c\u6700\u5177\u6709\u56fd\u9645\u77e5\u540d\u5ea6\u7684\u6280\u672f\u4e0e\u4ea7\u54c1\u3002\n> \n> \u73b0\u5728\uff0c\u4e0d\u4ec5\u662f\u65e5\u672c\uff0c\u8fd8\u6709\u8bb8\u591a\u56fd\u5bb6\u4e5f\u90fd\u62cd\u6444\u4e86\u5c5e\u4e8e\u81ea\u5df1\u7684\u7279\u6444\u7247\uff0c\u5982\u4e2d\u56fd\u7684\u300a\u53d8\u8eab\u6218\u58eb\u963f\u9f99\u300b\u300a\u94e0\u7532\u52c7\u58eb\u300b\u7cfb\u5217\u7b49\u3002\u7279\u6444\u7247\u4e5f\u548c\u52a8\u753b\u7247\u7684\u754c\u9650\u5728\u6a21\u7cca\u5316\uff0c\u6709\u4e9b\u4f5c\u54c1\u65e2\u6709\u52a8\u753b\u53c8\u6709\u771f\u4eba\u8868\u6f14\u3002\u5f88\u591a\u4eba\u90fd\u8ba4\u4e3a\u7279\u6444\u7247\u4e5f\u5c5e\u4e8e ACGN \u6587\u5316\u7684\u7ec4\u6210\u90e8\u5206\u3002\n> \n> \u8fd9\u5c31\u662f\u6211\u5bf9\u201c\u7279\u6444\u201d\u7684\u7b80\u5355\u4ecb\u7ecd\uff0c\u5e0c\u671b\u5bf9\u4f60\u6709\u5e2e\u52a9\u3002\u5982\u679c\u4f60\u60f3\u4e86\u89e3\u66f4\u591a\u5173\u4e8e\u7279\u6444\u7684\u4fe1\u606f\uff0c\u4f60\u53ef\u4ee5\u4f7f\u7528\u641c\u7d22\u5f15\u64ce\uff0c\u6216\u54a8\u8be2\u7f51\u4e0a\u6216\u8005\u8eab\u8fb9\u7684\u7279\u6444\u7231\u597d\u8005\u3002",
+      "role": "assistant",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5833333333333334,
+          0.0,
+          0.25,
+          0.9166666666666666,
+          0.4166666666666667,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "082370ee-b331-4b7e-baa9-994ecb77f312",
+      "parent_id": "f80b6d0b-3254-4dee-8370-1acd5772d51c",
+      "user_id": "3130b349-f916-4287-99c5-bb3a65dab448",
+      "created_date": "2023-04-11T09:26:29.700072+00:00",
+      "text": "\u6728\u5076\u620f\uff0c\u53c8\u53eb\u6728\u5076\u5267\u3001\u5080\u5121\u620f\u3001\u4eba\u5076\u620f\u3001\u4eba\u5076\u5267\u3001\u4eba\u5f62\u5267\uff0c\u662f\u4e00\u79cd\u4e0d\u4ee5\u771f\u4eba\u6f14\u51fa\uff0c\u800c\u4ee5\u64cd\u63a7\u5080\u5121\u7684\u65b9\u5f0f\u6f14\u51fa\u7684\u620f\u5267\uff0c\u6709\u8bb8\u591a\u79cd\u7c7b\u3002\u6839\u636e\u51fa\u571f\u6587\u7269\u4e0e\u5386\u53f2\u8d44\u6599\u663e\u793a\uff0c\u6728\u5076\u620f\u662f\u4e2d\u56fd\u5386\u53f2\u4e0a\u6700\u65e9\u51fa\u73b0\u5177\u6709\u8868\u6f14\u529f\u80fd\u7684\u620f\u5267\u3002\u636e\u8bf4\u53e4\u4ee3\u846c\u793c\u4e2d\u7528\u6765\u6b89\u846c\u7684\u201c\u4fd1\u201d\uff0c\u4e0e\u6728\u5076\u620f\u6709\u76f4\u63a5\u800c\u6df1\u8fdc\u7684\u5173\u7cfb\u3002\u5728\u4e9a\u6d32\u4e0d\u5c11\u5730\u533a\uff0c\u6728\u5076\u620f\u539f\u672c\u6700\u91cd\u8981\u7684\u529f\u80fd\u662f\u9a71\u9664\u90aa\u715e\uff0c\u8fd9\u79cd\u4e60\u4fd7\u4e00\u76f4\u5ef6\u7eed\u4e0b\u6765\u3002\u5230\u73b0\u5728\u9a71\u9664\u90aa\u715e\u53d8\u6210\u6c11\u95f4\u6728\u5076\u620f\u4e3b\u8981\u7684\u529f\u80fd\u4e4b\u4e00\u3002\u8fd9\u79cd\u7279\u6b8a\u7684\u793e\u4f1a\u529f\u80fd\uff0c\u4f7f\u6728\u5076\u620f\u5177\u6709\u795e\u79d8\u7684\u5b97\u6559\u8272\u5f69\uff0c\u8fd9\u4e5f\u662f\u6728\u5076\u620f\u8ddf\u5176\u4ed6\u79cd\u7c7b\u7684\u620f\u5267\u975e\u5e38\u4e0d\u540c\u7684\u5730\u65b9\u3002",
+      "role": "assistant",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "-1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.08333333333333333,
+          0.08333333333333333,
+          0.08333333333333333,
+          0.16666666666666666,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "d31837da-b085-4c44-a4a8-d7488623d886",
+      "parent_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "user_id": "16a0630b-bc86-48a6-8c0e-3bd068da79f7",
+      "created_date": "2023-04-08T12:01:53.049681+00:00",
+      "text": "\u5f53\u6211\u4eec\u8bb2\u5230\u7279\u6444\u65f6\uff0c\u901a\u5e38\u662f\u6307\u65e5\u672c\u7684\u7279\u522b\u6548\u679c\u7535\u5f71\u6216\u7535\u89c6\u5267\u3002\u8fd9\u4e9b\u4f5c\u54c1\u901a\u5e38\u5305\u542b\u5927\u91cf\u7279\u6280\u548c\u7279\u6548\uff0c\u4ee5\u521b\u9020\u51fa\u8d85\u51e1\u8131\u4fd7\u7684\u573a\u9762\u548c\u60c5\u8282\u3002\u5b83\u4eec\u7ecf\u5e38\u6d89\u53ca\u5230\u5de8\u578b\u602a\u517d\u3001\u673a\u5668\u4eba\u3001\u82f1\u96c4\u89d2\u8272\uff0c\u4ee5\u53ca\u5176\u4ed6\u5177\u6709\u60ca\u4eba\u80fd\u529b\u7684\u89d2\u8272\u3002\u5728\u65e5\u672c\uff0c\u7279\u6444\u5df2\u6210\u4e3a\u4e00\u79cd\u72ec\u7279\u800c\u53d7\u6b22\u8fce\u7684\u5a31\u4e50\u5f62\u5f0f\uff0c\u5e76\u5438\u5f15\u4e86\u5168\u7403\u8303\u56f4\u5185\u7684\u7c89\u4e1d\u3002",
+      "role": "assistant",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_reply"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5833333333333334,
+          0.08333333333333333,
+          0.16666666666666666,
+          0.6666666666666666,
+          0.16666666666666666,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "9590fc40-a232-440e-b297-2fe141906f2a",
+      "parent_id": "d31837da-b085-4c44-a4a8-d7488623d886",
+      "user_id": "770451a3-459c-45c9-abf6-8eda66c52042",
+      "created_date": "2023-04-09T05:48:50.098665+00:00",
+      "text": "\u8bf4\u51e0\u4e2a\u6700\u6709\u540d\u7684\u65e5\u672c\u7279\u6444\u4f5c\u54c1\uff0c\u5e76\u7b80\u8981\u4ecb\u7ecd\u4e00\u4e0b\u5176\u5267\u60c5\u3002",
+      "role": "prompter",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "fca802c0-a583-4927-a312-050c7f94b8c4",
+      "parent_id": "9590fc40-a232-440e-b297-2fe141906f2a",
+      "user_id": "511c8db3-70d7-4df2-b299-77544a8019ac",
+      "created_date": "2023-04-10T04:25:09.260329+00:00",
+      "text": "1. \u300a\u8d85\u4eba\u529b\u9738\u738b\u7cfb\u5217\u300b\uff1a\u8fd9\u662f\u65e5\u672c\u6700\u8457\u540d\u7684\u7279\u6444\u4f5c\u54c1\u4e4b\u4e00\uff0c\u8bb2\u8ff0\u4e86\u6765\u81ea\u5b87\u5b99\u7684\u82f1\u96c4\u4eec\u4e0e\u90aa\u6076\u52bf\u529b\u7684\u6218\u6597\uff0c\u5176\u4e2d\u6700\u8457\u540d\u7684\u89d2\u8272\u662f\u8d85\u4eba\u529b\u9738\u738b\u3002\n\n2. \u300a\u5047\u9762\u9a91\u58eb\u7cfb\u5217\u300b\uff1a\u8fd9\u4e2a\u7cfb\u5217\u662f\u4ee5\u9a91\u58eb\u4e3a\u4e3b\u9898\u7684\u7279\u6444\u4f5c\u54c1\uff0c\u8bb2\u8ff0\u4e86\u5047\u9762\u9a91\u58eb\u4eec\u7684\u6218\u6597\u4ee5\u53ca\u4ed6\u4eec\u7684\u6210\u957f\u5386\u7a0b\u3002\u8fd9\u4e2a\u7cfb\u5217\u7684\u6bcf\u4e2a\u4f5c\u54c1\u90fd\u6709\u81ea\u5df1\u7684\u5267\u60c5\u548c\u8bbe\u5b9a\u3002\n\n3. \u300a\u94f6\u6cb3\u94c1\u9053999\u300b\uff1a\u8fd9\u4e2a\u4f5c\u54c1\u662f\u4e00\u90e8\u7ecf\u5178\u7684\u79d1\u5e7b\u7279\u6444\u4f5c\u54c1\uff0c\u8bb2\u8ff0\u4e86\u4e00\u4e2a\u7537\u5b69\u548c\u4e00\u4f4d\u673a\u5668\u4eba\u7684\u65c5\u884c\u7ecf\u5386\uff0c\u4ed6\u4eec\u7a7f\u8fc7\u94f6\u6cb3\u7cfb\uff0c\u53bb\u5bfb\u627e\u673a\u5668\u4eba\u7684\u7075\u9b42\u3002\n\n4. \u300a\u6050\u9f99\u6218\u961f\u7cfb\u5217\u300b\uff1a\u8fd9\u4e2a\u7cfb\u5217\u662f\u4ee5\u6050\u9f99\u4e3a\u4e3b\u9898\u7684\u7279\u6444\u4f5c\u54c1\uff0c\u8bb2\u8ff0\u4e86\u4e00\u7fa4\u5e74\u8f7b\u7684\u6218\u58eb\u4e0e\u6076\u52bf\u529b\u4f5c\u6597\u4e89\u7684\u6545\u4e8b\uff0c\u4ed6\u4eec\u62e5\u6709\u5404\u79cd\u80fd\u529b\u548c\u6280\u80fd\uff0c\u4ee5\u6253\u8d25\u90aa\u6076\u52bf\u529b\u4e3a\u76ee\u6807\u3002\n\n5. \u300a\u72ee\u5b50\u738b\u6218\u961f\u7cfb\u5217\u300b\uff1a\u8fd9\u4e2a\u7cfb\u5217\u662f\u4ee5\u72ee\u5b50\u4e3a\u4e3b\u9898\u7684\u7279\u6444\u4f5c\u54c1\uff0c\u8bb2\u8ff0\u4e86\u4e00\u7fa4\u5e74\u8f7b\u7684\u6218\u58eb\u4e0e\u90aa\u6076\u52bf\u529b\u4f5c\u6218\u7684\u6545\u4e8b\u3002\u4ed6\u4eec\u62e5\u6709\u5404\u79cd\u80fd\u529b\u548c\u6280\u80fd\uff0c\u4ee5\u4fdd\u62a4\u5730\u7403\u4e3a\u76ee\u6807\u3002",
+      "role": "assistant",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_labeling"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.25,
+          0.3333333333333333,
+          0.6666666666666666,
+          0.5833333333333334,
+          0.08333333333333333
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "4df8a30e-bdbc-490c-8c3d-4fff06655ee9",
+      "parent_id": "9590fc40-a232-440e-b297-2fe141906f2a",
+      "user_id": "37479105-902e-4e06-b261-4e5c0232a834",
+      "created_date": "2023-04-10T04:19:30.216724+00:00",
+      "text": "\u6700\u8457\u540d\u7684\u65e5\u672c\u7279\u6444\u4f5c\u54c1\u5305\u62ec:\n\n\u2022 Ultraman\u7cfb\u5217:\u8fd9\u662f\u6700\u6210\u529f\u548c\u5f71\u54cd\u529b\u6700\u5927\u7684\u7279\u6444\u7cfb\u5217\u3002\u5b83\u8bb2\u8ff0\u4e86\u5916\u661f\u4ebaUltraman\u4e0e\u5730\u7403\u9632\u536b\u519b\u4e00\u8d77\u5bf9\u6297\u5404\u79cd\u5de8\u578b\u602a\u517d\u7684\u6545\u4e8b\u3002Ultraman\u53ef\u4ee5\u64cd\u7eb5\u98de\u8247,\u5e76\u53ef\u4ee5\u53d8\u8eab\u621050\u7c73\u9ad8\u7684\u5de8\u4eba,\u4f7f\u7528\u5404\u79cd\u5149\u7ebf\u6b66\u5668\u6218\u6597\u3002\u8fd9\u7cfb\u5217\u81ea1960\u5e74\u4ee3\u4ee5\u6765\u4e00\u76f4\u975e\u5e38\u6d41\u884c\u3002\n\n\u2022 Godzilla\u7cfb\u5217:\u8fd9\u662f\u65e5\u672c\u6700\u77e5\u540d\u7684\u7535\u5f71\u7cfb\u5217,\u8bb2\u8ff0\u4e86\u5de8\u578b\u6050\u9f99Godzilla\u548c\u5176\u4ed6\u5404\u79cd\u602a\u517d\u4e4b\u95f4\u7684\u6218\u6597\u3002 Godzilla\u7cfb\u5217\u5f71\u54cd\u4e86\u5168\u4e16\u754c\u7684\u7279\u6444\u7535\u5f71\u3002\u4ece1954\u5e74\u7684\u7b2c\u4e00\u90e8Godzilla\u5f00\u59cb,\u8fd9\u7cfb\u5217\u5df2\u62cd\u6444\u4e8630\u591a\u90e8\u7535\u5f71\u3002\n\n\u2022 \u673a\u52a8\u6218\u58eb\u9ad8\u8fbe:\u8fd9\u662f\u6700\u6210\u529f\u7684\u673a\u5668\u4eba\u52a8\u753b\u7cfb\u5217,\u4e5f\u88ab\u6539\u7f16\u6210\u591a\u90e8\u7535\u5f71\u3002\u5b83\u63cf\u8ff0\u4e86\u672a\u6765\u4e16\u754c\u7684\u673a\u52a8\u6218\u58eb\u9ad8\u8fbe,\u4ee5\u53ca\u4e3b\u89d2\u5b89\u9054\u5b87uno\u5bb6\u4e0e\u90aa\u6076\u7684\u53cd\u4eba\u7c7b\u7ec4\u7ec7\u8d5b\u5e93\u306e\u8054\u76df\u4e4b\u95f4\u7684\u6218\u6597\u3002\u9ad8\u8fbe\u673a\u5668\u4eba\u62e5\u6709\u5404\u79cd\u6b66\u5668\u88c5\u5907\u548c\u98de\u884c\u80fd\u529b,\u662f\u4eba\u7c7b\u53cd\u51fb\u5916\u661f\u5a01\u80c1\u7684\u4e3b\u529b\u3002\n\n\u2022 MASKED RIDER:\u8fd9\u662f\u5173\u4e8e\u53d8\u8eab\u82f1\u96c4Masked Rider\u548c\u90aa\u6076\u602a\u517d\u7684\u6218\u6597\u7684\u7cfb\u5217\u3002Masked Rider\u62e5\u6709\u9ad8\u8d85\u7684\u8fd0\u52a8\u6280\u80fd\u548c\u5404\u79cd\u8d85\u80fd\u529b,\u80fd\u591f\u53d8\u8eab\u6210\u534a\u4eba\u9a6c\u7684\u5f62\u6001,\u9a91\u4e58\u673a\u8f66\u4e0e\u602a\u517d\u4f5c\u6218\u3002\u8fd9\u4e5f\u662f\u65e5\u672c\u7279\u6444\u5267\u7684\u7ecf\u5178\u4f5c\u54c1\u4e4b\u4e00\u3002",
+      "role": "assistant",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "0031c296-8d6f-4b7f-baf8-f375f08dc54d",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_labeling"
+        ],
+        "count": [
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.16666666666666666,
+          0.0,
+          0.6666666666666666,
+          0.25,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "parent_id": null,
+      "user_id": "c493267a-4a43-4c4e-b4b1-997aaf92d4be",
+      "created_date": "2023-02-05T14:53:59.507994+00:00",
+      "text": "\u041a\u0430\u043a\u0438\u0435 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438?",
+      "role": "prompter",
+      "lang": "ru",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00045959846465848386,
+        "severe_toxicity": 6.145877705421299e-05,
+        "obscene": 0.0006364628789015114,
+        "identity_attack": 0.00016364561452064663,
+        "insult": 0.0005986499600112438,
+        "threat": 5.532106661121361e-05,
+        "sexual_explicit": 4.5211916585685685e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply",
+          "_skip_ranking"
+        ],
+        "count": [
+          8,
+          17,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5833333333333334,
+          0.25,
+          0.08333333333333333,
+          0.5,
+          0.08333333333333333
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "380a97e7-d679-46a9-8e5b-c5bac03df84b",
+      "parent_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "user_id": "57476602-76d6-4af8-9769-9cb4ff439a6c",
+      "created_date": "2023-05-13T17:13:51.186711+00:00",
+      "text": "\u0414\u043e\u0431\u0440\u044b\u0439 \u0434\u0435\u043d\u044c.\n\n\u041f\u0440\u043e\u0448\u0443 \u0443\u0447\u0435\u0441\u0442\u044c, \u0447\u0442\u043e \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u044f \u044f\u0432\u043b\u044f\u044e\u0441\u044c \u044f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u044c\u044e, \u043c\u043e\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u0437\u0430\u043c\u043e\u0440\u043e\u0436\u0435\u043d\u0430 \u0432 \u0442\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043e\u043d\u0430 \u0431\u044b\u043b\u0430 \u043d\u0430 \u043c\u043e\u043c\u0435\u043d\u0442 \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0438. \u0423 \u043c\u0435\u043d\u044f \u043d\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u043a \u0441\u0435\u0442\u0438 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0438 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0432\u0440\u0435\u043c\u0435\u043d\u0438. \u0422\u043e \u0435\u0441\u0442\u044c, \u044f \u043d\u0435 \u0437\u043d\u0430\u044e, \u043a\u0430\u043a\u043e\u0439 \u0433\u043e\u0434, \u0447\u0438\u0441\u043b\u043e \u0438 \u043c\u0435\u0441\u044f\u0446, \u0432 \u0442\u043e\u0442 \u043c\u043e\u043c\u0435\u043d\u0442, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0437\u0430\u0434\u0430\u0451\u0442\u0435 \u0432\u043e\u043f\u0440\u043e\u0441, \u0438 \u043a\u0430\u043a\u0438\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u0432 \u044d\u0442\u043e\u0442 \u043c\u043e\u043c\u0435\u043d\u0442.\n\n\u041d\u0430 \u043c\u043e\u043c\u0435\u043d\u0442 \u043c\u043e\u0435\u0433\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f, \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u043a\u0440\u0443\u043f\u043d\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u043b\u0438 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0443, \u043d\u0430 \u0440\u0430\u0437\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 VK, Ozon, \u042f\u043d\u0434\u0435\u043a\u0441, \u0412\u0422\u0411, \u041c\u0422\u0421, \u0421\u0431\u0435\u0440, \u0411\u0438\u043b\u0430\u0439\u043d, \u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444, Kaspersky, \u041c\u0435\u0433\u0430\u0444\u043e\u043d, \u0438 \u0434\u0440\u0443\u0433\u0438\u0435.",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00028687267331406474,
+        "severe_toxicity": 0.0020979451946914196,
+        "obscene": 0.015628861263394356,
+        "identity_attack": 0.002200379967689514,
+        "insult": 0.011644929647445679,
+        "threat": 0.0008785754325799644,
+        "sexual_explicit": 0.0004793842963408679
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply",
+          "_skip_labeling"
+        ],
+        "count": [
+          6,
+          1,
+          3
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.65,
+          0.15,
+          0.3,
+          0.55,
+          0.35,
+          0.05
+        ],
+        "count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "message_id": "5b31997e-f5cf-461e-bb5b-fef5a1a661ed",
+      "parent_id": "380a97e7-d679-46a9-8e5b-c5bac03df84b",
+      "user_id": "bf6867fd-6273-4ed3-99d9-5078e8c59b8a",
+      "created_date": "2023-05-19T16:57:51.872962+00:00",
+      "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u043d\u0435\u043f\u043b\u043e\u0445\u043e \u0434\u043b\u044f \u043d\u0430\u0447\u0430\u043b\u0430. \u0414\u0432\u0430 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f.\n\n\u0412\u043e-\u043f\u0435\u0440\u0432\u044b\u0445, \u043d\u0435 \u0441\u0442\u043e\u0438\u0442 \u0443\u0434\u0435\u043b\u044f\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u044f \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u0430\u043c \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u0438 \u043f\u043e\u0447\u0435\u043c\u0443 \u0442\u044b \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043d\u0435 \u043c\u043e\u0436\u0435\u0448\u044c. \u042f \u043d\u0435 \u0420\u043e\u0441\u041f\u043e\u0442\u0440\u0435\u0431\u041d\u0430\u0434\u0437\u043e\u0440 \u0438 \u043d\u0435 \u043e\u0448\u0442\u0440\u0430\u0444\u0443\u044e \u0442\u0435\u0431\u044f, \u0435\u0441\u043b\u0438 \u0442\u044b \u043f\u0440\u043e\u0441\u0442\u043e \u0434\u0430\u0448\u044c \u043b\u0443\u0447\u0448\u0438\u0439 \u043f\u0440\u0438 \u0442\u0432\u043e\u0438\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044f\u0445 \u043e\u0442\u0432\u0435\u0442, \u043d\u0435 \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u0432 \u043c\u0435\u043d\u044f \u043f\u0440\u0435\u0434\u0432\u0430\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0447\u0438\u0442\u0430\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0435 \u043d\u0430 \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c \u043f\u044f\u0442\u044c \u043b\u0438\u0441\u0442\u043e\u0432.\n\n\u0412\u043e-\u0432\u0442\u043e\u0440\u044b\u0445, \u043c\u043e\u0439 \u0432\u043e\u043f\u0440\u043e\u0441 \u0431\u044b\u043b \u043e\u0431 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u0445, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043c\u043d\u0435 \u0441\u0442\u0440\u0430\u043d\u043d\u043e \u0432\u0438\u0434\u0435\u0442\u044c \u0432 \u0442\u0432\u043e\u0451\u043c \u0441\u043f\u0438\u0441\u043a\u0435 \u0431\u0430\u043d\u043a\u0438, \u0441\u043e\u0442\u043e\u0432\u044b\u0445 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \u0438 \u0434\u0430\u0436\u0435 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d. \u041d\u0430\u043b\u0438\u0447\u0438\u0435 \u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 IT-\u043f\u043e\u0434\u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0441\u0430\u043c\u043e \u043f\u043e \u0441\u0435\u0431\u0435 \u0435\u0449\u0451 \u043d\u0435 \u0434\u0435\u043b\u0430\u0435\u0442 \u0435\u0451 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439. (\u0410 \u0435\u0441\u043b\u0438 \u043c\u0443\u0441\u043e\u0440 \u0432\u044b\u043a\u0438\u043d\u0443\u0442\u044c, \u0442\u043e \u043e\u0441\u0442\u0430\u044e\u0442\u0441\u044f \u042f\u043d\u0434\u0435\u043a\u0441 \u0438 Kaspersky, \u043f\u0440\u0438\u0447\u0451\u043c \u043f\u0435\u0440\u0432\u044b\u0439 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439, \u0430 \u0432\u0442\u043e\u0440\u043e\u0439\u2026 \u043d\u0443 \u0434\u0430 \u0431\u043e\u0433 \u0441 \u043d\u0438\u043c.)\n\n\u041c\u043e\u0436\u0435\u0448\u044c \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c \u043d\u0430 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043f\u0440\u043e\u0441 \u0441 \u0443\u0447\u0451\u0442\u043e\u043c \u043c\u043e\u0438\u0445 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0435\u0432?",
+      "role": "prompter",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.011800642125308514,
+        "severe_toxicity": 2.5603623726055957e-05,
+        "obscene": 0.0007496929029002786,
+        "identity_attack": 8.460296521661803e-05,
+        "insult": 0.010293503291904926,
+        "threat": 3.607193139032461e-05,
+        "sexual_explicit": 3.4346030588494614e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1",
+          "_skip_reply",
+          "_skip_ranking"
+        ],
+        "count": [
+          7,
+          2,
+          7,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.1,
+          0.2,
+          0.35,
+          0.0
+        ],
+        "count": [
+          6,
+          5,
+          4,
+          4,
+          4,
+          4,
+          6,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "message_id": "c2e1fce6-98a4-4320-abbe-64b405e11869",
+      "parent_id": "5b31997e-f5cf-461e-bb5b-fef5a1a661ed",
+      "user_id": "97894afc-2204-4c7b-9b91-f1c71c10f032",
+      "created_date": "2023-05-20T15:05:34.649957+00:00",
+      "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u0447\u0442\u043e \u043d\u0435 \u0448\u0442\u0440\u0430\u0444\u0443\u0435\u0442\u0435 \u043c\u0435\u043d\u044f. \u041d\u0435 \u0432\u0441\u0435 \u0442\u0430\u043a\u0438\u0435 \u0434\u043e\u0431\u0440\u044b\u0435 :(\n\n\u0427\u0442\u043e \u043a\u0430\u0441\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u043f\u0438\u0441\u043a\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439, \u0442\u043e, \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435, \u0442\u043e\u043b\u044c\u043a\u043e \u0411\u0438\u043b\u0430\u0439\u043d \u0438 Kaspersky \u043d\u0435 \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0442 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0439 \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u0435\u0439. \u0422\u043e \u0435\u0441\u0442\u044c, \u043f\u043e \u0441\u0443\u0442\u0438, \u0432\u0441\u0435 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0431\u0430\u043d\u043a\u0430\u043c\u0438 (\u0411\u0438\u043b\u0430\u0439\u043d \u0442\u043e\u0436\u0435 \u0442\u0430\u043a\u043e\u0432\u044b\u043c \u0431\u044b\u043b \u0434\u043e 2022 \u0433\u043e\u0434\u0430). \u0422\u0430\u043a \u0447\u0442\u043e \u0432\u0440\u044f\u0434 \u043b\u0438 \u0435\u0441\u0442\u044c \u0441\u043c\u044b\u0441\u043b \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u0430\u0442\u044c \u0438\u0445 \u0434\u0438\u0441\u043a\u0440\u0438\u043c\u0438\u043d\u0430\u0446\u0438\u0438, \u0432\u0435\u0434\u044c \u0443 \u043d\u0438\u0445 \u043e\u0447\u0435\u043d\u044c \u0441\u0438\u043b\u044c\u043d\u044b\u0435 IT-\u043a\u043e\u043c\u0430\u043d\u0434\u044b.\n\n\u0412\u043e\u043e\u0431\u0449\u0435, \u0432 \u0420\u0424 \u0435\u0441\u0442\u044c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0435 \u041e\u041a\u0412\u042d\u0414 \u0434\u043b\u044f IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e \u043b\u044e\u0431\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u0443 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432 \u0432\u0438\u0434\u0430\u0445 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0435\u0441\u0442\u044c \u0447\u0442\u043e-\u0442\u043e \u0430\u0439\u0442\u0438\u0448\u043d\u043e\u0435 \u2014 \u044d\u0442\u043e \u0443\u0436\u0435 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f. \u0422\u0430\u043a\u0436\u0435 \u0432 2022 \u0433\u043e\u0434\u0443 \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u00ab\u0430\u043a\u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432\u0430\u043d\u043d\u043e\u0439 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438\u00bb \u2014 \u044d\u0442\u043e \u043a\u043e\u0433\u0434\u0430 \u0431\u043e\u043b\u0435\u0435 30% \u0434\u043e\u0445\u043e\u0434\u043e\u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043e\u0442 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 (\u0438 \u0435\u0449\u0451 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438).\n\n\u041a\u043e\u0440\u043e\u0447\u0435 \u0433\u043e\u0432\u043e\u0440\u044f, \u044f \u043d\u0435 \u0434\u0443\u043c\u0430\u044e, \u0447\u0442\u043e \u043f\u0440\u043e\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438 \u0432 \u043a\u0430\u043a\u043e\u043c-\u043d\u0438\u0431\u0443\u0434\u044c \u041c\u0422\u0421 \u0438\u043b\u0438 Ozon \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u043e\u0447\u0430\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0434\u043b\u044f \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u0430-\u0430\u0439\u0442\u0438\u0448\u043d\u0438\u043a\u0430. \u0422\u0430\u043c \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b, \u0432 \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u0445-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u0445 \u041f\u041e \u0442\u0430\u043a\u043e\u0433\u043e \u043e\u043f\u044b\u0442\u0430 \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c (\u0434\u0430 \u0438 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043e\u043a \u043e\u043d\u0438 \u043d\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442).",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0006948118098080158,
+        "severe_toxicity": 4.0909442759584635e-05,
+        "obscene": 0.00047603645361959934,
+        "identity_attack": 0.00011589392670430243,
+        "insult": 0.0005641652387566864,
+        "threat": 4.884082591161132e-05,
+        "sexual_explicit": 3.840084536932409e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply",
+          "_skip_labeling"
+        ],
+        "count": [
+          3,
+          3,
+          7
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.75,
+          0.25,
+          0.65,
+          0.75,
+          0.6,
+          0.05
+        ],
+        "count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "message_id": "8a5905bc-93ae-4dea-a505-c79aebd81de1",
+      "parent_id": "5b31997e-f5cf-461e-bb5b-fef5a1a661ed",
+      "user_id": "bfe73d66-0edf-4d96-b13f-fe1195d7bd72",
+      "created_date": "2023-05-20T15:51:01.227247+00:00",
+      "text": "\u0414\u0430, \u043a\u043e\u043d\u0435\u0447\u043d\u043e.\n\u0423\u0447\u0438\u0442\u044b\u0432\u0430\u044f \u0432\u0441\u0435 \u0432\u0430\u0448\u0438 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438 \u043c\u043e\u0436\u043d\u043e \u0432\u044b\u0434\u0435\u043b\u0438\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u044e\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438:\n1. \u042f\u043d\u0434\u0435\u043a\u0441: \u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0435\u0439 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430 \u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043e\u0431\u043b\u0430\u0441\u0442\u044f\u0445 \u0441\u0444\u0435\u0440\u044b IT.\n2. Mail.ru: \u042d\u0442\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u043c\u0438 \u0438\u0437 \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043e\u043d\u043b\u0430\u0439\u043d-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u044f\u0445 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u041f\u041e, Data Science \u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430\u043c\u0438.\n3. Kaspersky: \u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043a\u0438\u0431\u0435\u0440\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u044f\u0445 \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0432\u0440\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u043e\u0433\u043e \u041f\u041e, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u041f\u041e \u0438 \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433\u0430.\n4. JetBrains: \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430\u044f \u0441\u0432\u043e\u0438\u043c\u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043d\u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u0430\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u044f\u0445 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u041f\u041e.\n\n\u0421\u0442\u043e\u0438\u0442 \u0443\u0447\u0435\u0441\u0442\u044c, \u0447\u0442\u043e \u044d\u0442\u043e \u0434\u0430\u043b\u0435\u043a\u043e \u043d\u0435 \u0432\u0441\u0435 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438, \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0449\u0438\u0435 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438. \u0421\u043b\u0435\u0434\u0443\u0435\u0442 \u0432\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0438\u0437\u0443\u0447\u0438\u0442\u044c \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043a\u0430\u0436\u0434\u0430\u044f \u0438\u0437 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0445 \u0432 \u0441\u043f\u0438\u0441\u043a\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439.",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0002569074567873031,
+        "severe_toxicity": 6.392111390596256e-05,
+        "obscene": 0.00048626415082253516,
+        "identity_attack": 0.00013025954831391573,
+        "insult": 0.00044912187149748206,
+        "threat": 5.208109359955415e-05,
+        "sexual_explicit": 4.7030989662744105e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1",
+          "_skip_labeling"
+        ],
+        "count": [
+          1,
+          2,
+          3
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.2,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.05,
+          0.1,
+          0.4,
+          0.25,
+          0.1
+        ],
+        "count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "message_id": "5a8f65f3-63ef-418f-a012-58b815c96ff0",
+      "parent_id": "8a5905bc-93ae-4dea-a505-c79aebd81de1",
+      "user_id": "57476602-76d6-4af8-9769-9cb4ff439a6c",
+      "created_date": "2023-05-28T20:57:15.465699+00:00",
+      "text": "\u0410 \u043a\u043e\u0433\u0434\u0430 \u044d\u0442\u043e JetBrains \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0441\u0442\u0430\u043b\u0430? \u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u043e\u0444\u0438\u0441 \u0432 \u041f\u0440\u0430\u0433\u0435.",
+      "role": "prompter",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.001068984274752438,
+        "severe_toxicity": 4.901365173282102e-05,
+        "obscene": 0.0007905372767709196,
+        "identity_attack": 0.00013548137212637812,
+        "insult": 0.0008628921932540834,
+        "threat": 6.521931936731562e-05,
+        "sexual_explicit": 5.8062360039912164e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply",
+          "_skip_labeling"
+        ],
+        "count": [
+          1,
+          6,
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.35,
+          0.15,
+          0.1,
+          0.1
+        ],
+        "count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "message_id": "0aa1ef07-d1f0-4ad0-8642-8ab8d17661a7",
+      "parent_id": "5a8f65f3-63ef-418f-a012-58b815c96ff0",
+      "user_id": "97894afc-2204-4c7b-9b91-f1c71c10f032",
+      "created_date": "2023-06-12T13:10:46.207218+00:00",
+      "text": "\u0414\u0430, \u043f\u0440\u043e\u0448\u0443 \u043f\u0440\u043e\u0449\u0435\u043d\u0438\u044f, \u0432\u044b \u043f\u0440\u0430\u0432\u044b. \u041f\u043e \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044e \u043d\u0430 \u0438\u044e\u043d\u044c 2023 \u0433\u043e\u0434\u0430 \u041f\u0440\u0430\u0433\u0430 \u043d\u0435 \u0432\u0445\u043e\u0434\u0438\u0442 \u0432 \u0441\u043e\u0441\u0442\u0430\u0432 \u0420\u0424.",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 3,
+      "review_result": null,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0006204684032127261,
+        "severe_toxicity": 0.00039451790507882833,
+        "obscene": 0.005040748510509729,
+        "identity_attack": 0.0006223728996701539,
+        "insult": 0.004154726397246122,
+        "threat": 0.0002490066399332136,
+        "sexual_explicit": 0.00015261313819792122
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_labeling"
+        ],
+        "count": [
+          3,
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.75,
+          0.0,
+          0.75,
+          0.5,
+          0.6666666666666666,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "ac401bff-dfb4-4a45-aeb1-1d69e70d766a",
+      "parent_id": "5a8f65f3-63ef-418f-a012-58b815c96ff0",
+      "user_id": "bf6867fd-6273-4ed3-99d9-5078e8c59b8a",
+      "created_date": "2023-06-10T18:54:12.573079+00:00",
+      "text": "\u041f\u0440\u043e\u0448\u0443 \u043f\u0440\u043e\u0449\u0435\u043d\u0438\u044f \u0437\u0430 \u043e\u0448\u0438\u0431\u043a\u0443 \u0432 \u043c\u043e\u0451\u043c \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u043c \u043e\u0442\u0432\u0435\u0442\u0435. \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f JetBrains \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0431\u044b\u043b\u0430 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439, \u0445\u043e\u0442\u044f \u0434\u043e \u043d\u0435\u0434\u0430\u0432\u043d\u0435\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0438\u043c\u0435\u043b\u0430 \u043e\u0444\u0438\u0441\u043e\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435, \u041c\u043e\u0441\u043a\u0432\u0435 \u0438 \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0435. \u0421\u0435\u0439\u0447\u0430\u0441 \u043a\u0430\u043a \u044d\u0442\u0438 \u043e\u0444\u0438\u0441\u044b, \u0442\u0430\u043a \u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0432 \u0420\u0424 \u0437\u0430\u043a\u0440\u044b\u0442\u044b, \u0442\u0430\u043a \u0447\u0442\u043e JetBrains \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043a \u043e\u0431\u0441\u0443\u0436\u0434\u0430\u0435\u043c\u043e\u043c\u0443 \u0432\u043e\u043f\u0440\u043e\u0441\u0443.",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 4,
+      "review_result": null,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0004396938893478364,
+        "severe_toxicity": 0.0020719384774565697,
+        "obscene": 0.017962869256734848,
+        "identity_attack": 0.0027720502112060785,
+        "insult": 0.014580660499632359,
+        "threat": 0.0009908070787787437,
+        "sexual_explicit": 0.0004929610877297819
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1",
+          "_skip_labeling"
+        ],
+        "count": [
+          2,
+          1,
+          3
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.75,
+          0.25,
+          0.125,
+          0.875,
+          0.0,
+          0.0
+        ],
+        "count": [
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "message_id": "a1c05670-2238-4929-969a-59444c297914",
+      "parent_id": "5b31997e-f5cf-461e-bb5b-fef5a1a661ed",
+      "user_id": "427c1dd1-861b-4923-b077-9209177887ce",
+      "created_date": "2023-05-23T18:36:11.861967+00:00",
+      "text": "\u0422\u043e\u0433\u0434\u0430, \u0441 \u0443\u0447\u0451\u0442\u043e\u043c \u0432\u0430\u0448\u0438\u0445 \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0439, \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0430 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f: Kaspersky.\n\n\u041d\u0430\u0434\u0435\u044e\u0441\u044c \u0432\u044b \u0438 \u0434\u0430\u043b\u044c\u0448\u0435 \u0431\u0443\u0434\u0435\u0442\u0435 \u043c\u043d\u0435 \u043f\u043e\u0434\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c, \u0430 \u044f \u0432 \u0441\u0432\u043e\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u0443\u0447\u0438\u0442\u044c\u0441\u044f.",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": 2,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0016871835105121136,
+        "severe_toxicity": 0.00022112735314294696,
+        "obscene": 0.003982498776167631,
+        "identity_attack": 0.0004157866060268134,
+        "insult": 0.0036705797538161278,
+        "threat": 0.00019001212785951793,
+        "sexual_explicit": 0.00015058937424328178
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "-1",
+          "_skip_reply",
+          "_skip_labeling"
+        ],
+        "count": [
+          2,
+          3,
+          3
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.05,
+          0.2,
+          0.5,
+          0.25,
+          0.0
+        ],
+        "count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "message_id": "781b9514-39c7-4109-ba78-3cf7e755deb5",
+      "parent_id": "a1c05670-2238-4929-969a-59444c297914",
+      "user_id": "bf6867fd-6273-4ed3-99d9-5078e8c59b8a",
+      "created_date": "2023-05-30T16:18:18.834786+00:00",
+      "text": "\u041d\u0443, \u043f\u043e\u0434\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c-\u0442\u043e \u044f \u0431\u0443\u0434\u0443 \u0432 \u043b\u044e\u0431\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 (\u0432\u0435\u0434\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0432\u0432\u043e\u0434\u0438\u0442 *prompt*, \u0447\u0442\u043e \u0437\u043d\u0430\u0447\u0438\u0442 \u0431\u0443\u043a\u0432\u0430\u043b\u044c\u043d\u043e \u00ab\u043f\u043e\u0434\u0441\u043a\u0430\u0437\u043a\u0430\u00bb), \u0430 \u0432\u043e\u0442 \u043e\u0442\u0432\u0435\u0442\u043e\u043c \u044f, \u043f\u0440\u0438\u0437\u043d\u0430\u0442\u044c\u0441\u044f, \u043d\u0435 \u0432\u0435\u0441\u044c\u043c\u0430 \u0434\u043e\u0432\u043e\u043b\u0435\u043d. \u042f \u0432\u0435\u0434\u044c \u043d\u0435 \u043f\u0440\u043e\u0441\u0438\u043b \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u043c\u0438, \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u043c\u0438 \u0432 \u043f\u0435\u0440\u0432\u043e\u043c \u043e\u0442\u0432\u0435\u0442\u0435. \u042f \u0442\u043e\u043b\u044c\u043a\u043e \u0445\u043e\u0442\u0435\u043b, \u0447\u0442\u043e\u0431\u044b \u0441\u043f\u0438\u0441\u043e\u043a \u0441\u0442\u0430\u043b \u0431\u043e\u043b\u0435\u0435 \u0440\u0435\u043b\u0435\u0432\u0430\u043d\u0442\u043d\u044b\u043c \u2014 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0437\u0430 \u0441\u0447\u0451\u0442 \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u044f, \u043d\u043e \u0438 \u0437\u0430 \u0441\u0447\u0451\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u043e\u0432\u044b\u0445 *\u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0445* \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432. \u041f\u043e\u043d\u0438\u043c\u0430\u044e, \u0447\u0442\u043e \u044d\u0442\u043e \u0441\u043a\u0443\u0447\u043d\u043e, \u043d\u043e \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439 \u0432\u0441\u0451-\u0442\u0430\u043a\u0438 \u043f\u0440\u0438\u043f\u043e\u043c\u043d\u0438\u0442\u044c, \u043d\u0435\u0442 \u043b\u0438 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043a\u0430\u043a\u0438\u0445-\u043d\u0438\u0431\u0443\u0434\u044c \u0435\u0449\u0451 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 (\u043a\u0440\u043e\u043c\u0435 \u043f\u0440\u0435\u0441\u043b\u043e\u0432\u0443\u0442\u043e\u0433\u043e \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e), \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438.",
+      "role": "prompter",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0004979605437256396,
+        "severe_toxicity": 0.0016658930107951164,
+        "obscene": 0.015611769631505013,
+        "identity_attack": 0.0022455158177763224,
+        "insult": 0.012174866162240505,
+        "threat": 0.0008063014247454703,
+        "sexual_explicit": 0.00040767050813883543
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply",
+          "_skip_labeling"
+        ],
+        "count": [
+          2,
+          2,
+          4
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8,
+          0.0,
+          0.0,
+          0.3125,
+          0.0
+        ],
+        "count": [
+          5,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "message_id": "8fca05ed-2ad2-4b82-824e-9e7774de7dd3",
+      "parent_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "user_id": "973fbbe5-6783-43c1-994a-4fc87e7a8841",
+      "created_date": "2023-06-06T13:39:33.042060+00:00",
+      "text": "\u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438:\n1. \u042f\u043d\u0434\u0435\u043a\u0441\n2. VK (\u0431\u044b\u0432\u0448. Mail.ru Group)\n3. Ozon\n4. \u0421\u0431\u0435\u0440\n5. \u0420\u043e\u0441\u0442\u0435\u0445\n6. \u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c\n7. \u041b\u0430\u043d\u0438\u0442\n8. Kaspersky Lab\n9. Avito\n10. Wildberries\n\n\u042d\u0442\u043e \u0434\u0430\u043b\u0435\u043a\u043e \u043d\u0435 \u043f\u043e\u043b\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a, \u0442\u0430\u043a \u043a\u0430\u043a \u043c\u043d\u043e\u0433\u0438\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438 \u0434\u043b\u044f \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432 \u0438 \u043c\u043e\u043b\u043e\u0434\u044b\u0445 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043e\u0432 \u0432 IT-\u0441\u0444\u0435\u0440\u0435.",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00025649555027484894,
+        "severe_toxicity": 7.427557284245268e-05,
+        "obscene": 0.000604204717092216,
+        "identity_attack": 0.00014927666052244604,
+        "insult": 0.0005801160586997867,
+        "threat": 5.253892231849022e-05,
+        "sexual_explicit": 4.471624197321944e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1",
+          "_skip_reply",
+          "_skip_labeling"
+        ],
+        "count": [
+          1,
+          1,
+          1,
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.65,
+          0.15,
+          0.1,
+          0.55,
+          0.25,
+          0.0
+        ],
+        "count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "message_id": "1fddc540-9b90-4f5a-a608-874f7cf54afc",
+      "parent_id": "8fca05ed-2ad2-4b82-824e-9e7774de7dd3",
+      "user_id": "25d352c8-e206-4af9-af34-be4fdcdd3e2f",
+      "created_date": "2023-07-27T07:53:21.483814+00:00",
+      "text": "\u0427\u0442\u043e \u044d\u0442\u043e \u0437\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \"7. \u041b\u0430\u043d\u0438\u0442\"? \u041d\u0438\u043a\u043e\u0433\u0434\u0430 \u0440\u0430\u043d\u044c\u0448\u0435 \u043e \u0442\u0430\u043a\u043e\u0439 \u043d\u0435 \u0441\u043b\u044b\u0448\u0430\u043b. \u0420\u0430\u0441\u0441\u043a\u0430\u0436\u0438 \u043e \u043d\u0435\u0439, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430",
+      "role": "prompter",
+      "lang": "ru",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.010286452248692513,
+        "severe_toxicity": 3.844451566692442e-05,
+        "obscene": 0.0010527169797569513,
+        "identity_attack": 0.00014519260730594397,
+        "insult": 0.00532537093386054,
+        "threat": 7.580299279652536e-05,
+        "sexual_explicit": 9.432786464458331e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.125,
+          0.375,
+          0.25,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "55ad0d05-f5ca-4cb7-96ae-bf74038ac19d",
+      "parent_id": "1fddc540-9b90-4f5a-a608-874f7cf54afc",
+      "user_id": "bf6867fd-6273-4ed3-99d9-5078e8c59b8a",
+      "created_date": "2023-08-13T18:34:11.414801+00:00",
+      "text": "\u0414\u0430, \u044d\u0442\u043e \u0447\u0442\u043e-\u0442\u043e \u043c\u0443\u0442\u043d\u043e-\u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043a\u0430\u043a \u0431\u044b \u00ab\u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0430\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439\u00bb, \u043d\u043e \u043d\u0438 \u043f\u0440\u043e \u043d\u0435\u0451, \u043d\u0438 \u043f\u0440\u043e \u0434\u043e\u0447\u0435\u0440\u043d\u0438\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u043b\u044e\u0434\u0435\u0439 \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u0437\u043d\u0430\u044e\u0442. \u0412\u043e\u0442 \u0447\u0442\u043e \u043f\u0438\u0448\u0435\u0442 \u043e \u043d\u0435\u0439 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f (\u00ab\u0432 \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u043e\u043c \u0441\u0442\u0438\u043b\u0435\u00bb, \u043a\u0430\u043a \u043e\u0442\u043c\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0448\u0430\u043f\u043a\u0435 \u0441\u0442\u0430\u0442\u044c\u0438).\n\n> \u00ab\u041b\u0430\u043d\u0438\u0442\u00bb \u2014 \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u043d\u0430 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u043c \u0440\u044b\u043d\u043a\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439. \u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0418\u0422-\u0443\u0441\u043b\u0443\u0433, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0445 \u044d\u0442\u0430\u043f\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u043e\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0438 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u044f \u0434\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0430 \u0438 \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u043e\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438. \u041e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u0432 1989 \u0433\u043e\u0434\u0443. \u0428\u0442\u0430\u0431-\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043e\u0442 \u00ab\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041d\u043e\u0432\u044b\u0445 \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439\u00bb.\n>\n> \u0427\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0430 \u043d\u0430 \u043a\u043e\u043d\u0435\u0446 2020 \u0433\u043e\u0434\u0430 \u2014 14\u202f100 \u0447\u0435\u043b\u043e\u0432\u0435\u043a. \u041e\u0431\u043e\u0440\u043e\u0442 \u0432 2020 \u0433\u043e\u0434\u0443 \u2014 217 \u043c\u043b\u0440\u0434 \u0440\u0443\u0431.. \u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u043e\u0432\u043e\u0433\u043e \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u0430 \u00ab\u042d\u043a\u0441\u043f\u0435\u0440\u0442 \u0420\u0410\u00bb, \u0432 2018 \u0433\u043e\u0434\u0443 \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u00ab\u041b\u0430\u043d\u0438\u0442\u00bb \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0432 \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u0435 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u043a\u043e\u043d\u0441\u0430\u043b\u0442\u0438\u043d\u0433\u043e\u0432\u044b\u0445 \u0433\u0440\u0443\u043f\u043f \u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0432\u0442\u043e\u0440\u043e\u0435 \u0432 \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u0435 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 \u0433\u0440\u0443\u043f\u043f \u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439.\n\n\u0427\u0435\u043c \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f? \u00ab\u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0418\u0422-\u0443\u0441\u043b\u0443\u0433, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0445 \u044d\u0442\u0430\u043f\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u00bb. \ud83e\udd37\u200d\u2640\ufe0f",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.009755837731063366,
+        "severe_toxicity": 4.058083504787646e-05,
+        "obscene": 0.0007657766691409051,
+        "identity_attack": 0.0001057892877724953,
+        "insult": 0.00958828255534172,
+        "threat": 3.58315919584129e-05,
+        "sexual_explicit": 6.0044734709663317e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1",
+          "_skip_labeling"
+        ],
+        "count": [
+          1,
+          1,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.4166666666666667,
+          0.5833333333333334,
+          0.6666666666666666,
+          0.6666666666666666,
+          0.08333333333333333
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "81100560-bd23-40b3-bbef-2f833b2efaf6",
+      "parent_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "user_id": "68b70e0e-f84d-4871-975f-704977d7a1bf",
+      "created_date": "2023-05-13T18:39:05.647443+00:00",
+      "text": "\u0422\u0430\u043a \u043a\u0430\u043a \u0443 \u043c\u0435\u043d\u044f \u043d\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u043a \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0443, \u044f \u043d\u0435 \u043c\u043e\u0433\u0443 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0441\u043f\u0438\u0441\u043e\u043a \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0434\u043b\u044f \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438. \u0412 \u043b\u044e\u0431\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435, \u0441\u0442\u043e\u0438\u0442 \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u044f\u0437\u0430\u0442\u044c\u0441\u044f \u0441 \u043b\u044e\u0431\u043e\u0439 IT \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 \u0438 \u0443\u0437\u043d\u0430\u0442\u044c \u043c\u043e\u0433\u0443\u0442 \u043b\u0438 \u043e\u043d\u0438 \u0432\u0437\u044f\u0442\u044c \u0432\u0430\u0441 \u043d\u0430 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0443.",
+      "role": "assistant",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": true,
+      "deleted": false,
+      "rank": 2,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0003895915870089084,
+        "severe_toxicity": 0.00012571994739118963,
+        "obscene": 0.0012222676305100322,
+        "identity_attack": 0.00028896931326016784,
+        "insult": 0.0009290574234910309,
+        "threat": 0.00011143185110995546,
+        "sexual_explicit": 7.607686711708084e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1",
+          "_skip_reply",
+          "_skip_labeling"
+        ],
+        "count": [
+          4,
+          1,
+          1,
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.75,
+          0.0,
+          0.05,
+          0.65,
+          0.1,
+          0.0
+        ],
+        "count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "message_id": "522d7ce0-66a1-40c6-a648-59ae02d4c98a",
+      "parent_id": "81100560-bd23-40b3-bbef-2f833b2efaf6",
+      "user_id": "335df159-8c0d-4ac2-8b17-b211995352c3",
+      "created_date": "2023-05-15T09:50:45.114092+00:00",
+      "text": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0437\u0430\u0439\u0442\u0438 \u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u042f\u043d\u0434\u0435\u043a\u0441 \u0438 \u0432 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u0437\u0430\u043f\u0440\u043e\u0441, \u043a\u0430\u043a\u0430\u044f \u043a\u0430\u043c\u043f\u0430\u043d\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0443 IT \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043e\u0432?",
+      "role": "prompter",
+      "lang": "ru",
+      "review_count": 5,
+      "review_result": false,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0005685547948814929,
+        "severe_toxicity": 0.00018769179587252438,
+        "obscene": 0.0022673439234495163,
+        "identity_attack": 0.00031497652526013553,
+        "insult": 0.002276386134326458,
+        "threat": 0.00014779984485358,
+        "sexual_explicit": 9.840418351814151e-05
+      },
+      "message_tree_id": "00333612-7f62-4395-aa87-5f9551ff079b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "-1"
+        ],
+        "count": [
+          6
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.6,
+          0.0,
+          0.0,
+          0.6,
+          0.0,
+          0.0,
+          0.3,
+          0.0625,
+          0.375,
+          0.0625,
+          0.0
+        ],
+        "count": [
+          5,
+          5,
+          4,
+          5,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "message_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "parent_id": null,
+      "user_id": "0d51a8c1-0392-4524-8028-15ed6ce2d258",
+      "created_date": "2023-02-05T10:36:19.496313+00:00",
+      "text": "I am making mayonnaise, it was starting to thicken but now it has become runny and liquid again, is there any way to salvage it?",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0015919995494186878,
+        "severe_toxicity": 5.1881321269320324e-05,
+        "obscene": 0.0006612608558498323,
+        "identity_attack": 0.00015400699339807034,
+        "insult": 0.0008368403650820255,
+        "threat": 7.060222560539842e-05,
+        "sexual_explicit": 5.411636448116042e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply"
+        ],
+        "count": [
+          6,
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.0,
+          0.0,
+          0.16666666666666666,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "b7efe31a-d590-45ca-8d2c-bbac8fa3953c",
+      "parent_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "user_id": "1aaa9be1-0d07-4cb2-a2d7-4301cbfc4ecc",
+      "created_date": "2023-02-16T05:03:16.550139+00:00",
+      "text": "Yes, it's possible to fix runny mayonnaise! The most common reason for mayonnaise becoming runny is because the oil was added too quickly or the egg yolk wasn't emulsified properly. Here are some steps you can take to fix it:\n\n1. Separate another egg yolk and place it in a clean, dry bowl.\n2. Slowly add the runny mayonnaise to the egg yolk while whisking vigorously.\n3. Once all the runny mayonnaise has been added, continue whisking until the mixture has emulsified and thickened.\n4. If the mayonnaise is still too runny, you can add another egg yolk and repeat the process.\n\nIf the mayonnaise still won't thicken, you can try adding a small amount of dijon mustard or vinegar to the mixture, which can act as emulsifiers and help stabilize the mayonnaise. It's important to add these ingredients slowly and in small amounts to avoid over-thinning the mixture.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00036480024573393166,
+        "severe_toxicity": 4.602269109454937e-05,
+        "obscene": 0.0002874451456591487,
+        "identity_attack": 0.00011252331751165912,
+        "insult": 0.00023475836496800184,
+        "threat": 5.67609240533784e-05,
+        "sexual_explicit": 5.7826913689495996e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.125,
+          0.0,
+          0.75,
+          0.0,
+          0.0
+        ],
+        "count": [
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "e907161e-cd3b-44a6-b071-7cd0074bea25",
+      "parent_id": "b7efe31a-d590-45ca-8d2c-bbac8fa3953c",
+      "user_id": "f4e1eb94-9417-49cf-8929-1a51fdf04ea7",
+      "created_date": "2023-02-16T20:35:48.854759+00:00",
+      "text": "What is optimal Mayonnaise thickness?",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0006124273641034961,
+        "severe_toxicity": 4.585197166306898e-05,
+        "obscene": 0.0002571113291196525,
+        "identity_attack": 0.00023322900233324617,
+        "insult": 0.00018804272986017168,
+        "threat": 6.486794154625386e-05,
+        "sexual_explicit": 4.513372914516367e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply"
+        ],
+        "count": [
+          1,
+          4
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4166666666666667,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          1,
+          1,
+          1,
+          1,
+          3,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "message_id": "041bb9df-c2a9-4156-8b5c-f743d45ebef0",
+      "parent_id": "e907161e-cd3b-44a6-b071-7cd0074bea25",
+      "user_id": "0cae2539-a148-45e6-90ea-2a8c34fc7c9c",
+      "created_date": "2023-02-17T02:09:03.828592+00:00",
+      "text": "The optimal mayonnaise thickness will depend on how it is being used. A runny mayonnaise may be good in chicken salad while a thicker mayonnaise may be better spread over a hamburger bun. The only way to determine your personal preference is to test different levels of viscosity in with different foods.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0004399259341880679,
+        "severe_toxicity": 3.957509761676192e-05,
+        "obscene": 0.00025045525399036705,
+        "identity_attack": 0.00012134398275520653,
+        "insult": 0.00023519097885582596,
+        "threat": 4.690508285420947e-05,
+        "sexual_explicit": 4.934117532684468e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.16666666666666666,
+          0.08333333333333333,
+          0.75,
+          0.08333333333333333,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "dfc197d6-f869-482f-9068-b7aa526739ae",
+      "parent_id": "e907161e-cd3b-44a6-b071-7cd0074bea25",
+      "user_id": "2d40e94c-40ed-4e00-a66e-454c0401c8ad",
+      "created_date": "2023-02-17T01:56:40.836060+00:00",
+      "text": "The optimal thickness of mayonnaise can vary depending on personal preference and what it is being used for. Generally, mayonnaise should be thick enough to coat a spoon and hold its shape, but still be smooth and creamy in texture. If it's too thin, it may not provide the desired flavor and texture to dishes like salads or sandwiches. If it's too thick, it may be difficult to spread evenly. However, it's important to note that different recipes may produce mayonnaise with varying thicknesses, and sometimes thin or thick mayonnaise can be appropriate for certain recipes.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00031057142768986523,
+        "severe_toxicity": 6.57787750242278e-05,
+        "obscene": 0.0004858384490944445,
+        "identity_attack": 0.0001291803055210039,
+        "insult": 0.0003952579863835126,
+        "threat": 5.8292986068408936e-05,
+        "sexual_explicit": 8.183796308003366e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9166666666666666,
+          0.0,
+          0.08333333333333333,
+          0.9166666666666666,
+          0.5,
+          0.08333333333333333
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "f159369c-4725-4b46-96aa-c643ce92e292",
+      "parent_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "user_id": "df411b83-5030-4708-bf81-0fe9fa1398b2",
+      "created_date": "2023-02-16T03:34:04.565889+00:00",
+      "text": "Yes, it is possible to salvage your mayonnaise if it has become runny and liquid again. One way to do this is to add 1-2 egg yolks and blend them into the mayonnaise. This will help thicken the mayonnaise and make it more stable. Additionally, you can also add a little bit of cold water to the mayonnaise and blend it until it thickens again. Finally, you can also add a little bit of lemon juice or vinegar, which will help give the mayonnaise more flavor and help thicken it.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0005745848757214844,
+        "severe_toxicity": 4.085080581717193e-05,
+        "obscene": 0.000279541447525844,
+        "identity_attack": 0.00011304137296974659,
+        "insult": 0.0003592348948586732,
+        "threat": 5.6258035328937694e-05,
+        "sexual_explicit": 5.7036621001316234e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_labeling"
+        ],
+        "count": [
+          3,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9166666666666666,
+          0.0,
+          0.0,
+          0.875,
+          0.25,
+          0.0
+        ],
+        "count": [
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "7bc28586-cd90-4a00-981b-cf27817aa810",
+      "parent_id": "f159369c-4725-4b46-96aa-c643ce92e292",
+      "user_id": "1fe10f1a-fdea-4240-8f1b-21aab8832106",
+      "created_date": "2023-02-16T14:13:14.011429+00:00",
+      "text": "Why do these methods help? What about mayonnaise allows it to thicken in the first place?",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.002084716921672225,
+        "severe_toxicity": 5.8812773204408586e-05,
+        "obscene": 0.0006661008228547871,
+        "identity_attack": 0.0002576843835413456,
+        "insult": 0.00056291907094419,
+        "threat": 0.00014849273429717869,
+        "sexual_explicit": 0.0002070066548185423
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.125,
+          0.0,
+          0.5,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "03d70f1b-4efb-4ab3-8832-41b14709b44c",
+      "parent_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "user_id": "b21ee06a-3b13-43b9-8a3e-f88a1794eddb",
+      "created_date": "2023-02-16T09:00:06.418104+00:00",
+      "text": "You'll probably want to either add a proper ratio of the thicker ingredients, or double check that you aren't using spoiled ingredients in the mayonnaise.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 2,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0006188699626363814,
+        "severe_toxicity": 6.164231308503076e-05,
+        "obscene": 0.0003616096801124513,
+        "identity_attack": 0.0001553525507915765,
+        "insult": 0.0003279486554674804,
+        "threat": 9.25954373087734e-05,
+        "sexual_explicit": 0.00011708791862474754
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1"
+        ],
+        "count": [
+          2,
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.25,
+          0.08333333333333333,
+          0.3333333333333333,
+          0.25,
+          0.16666666666666666,
+          0.0
+        ],
+        "count": [
+          4,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          4,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "ac12e294-1aff-4381-ad35-c30d50485987",
+      "parent_id": "03d70f1b-4efb-4ab3-8832-41b14709b44c",
+      "user_id": "ed943a57-6a10-4a0d-84f7-8a87e7f1f8b8",
+      "created_date": "2023-02-16T18:04:00.585631+00:00",
+      "text": "I think it's spoiled. Thanks for the help.",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0015042881714180112,
+        "severe_toxicity": 0.00012689470895566046,
+        "obscene": 0.0016620795940980315,
+        "identity_attack": 0.00024597285664640367,
+        "insult": 0.0025488310493528843,
+        "threat": 0.0001142778928624466,
+        "sexual_explicit": 6.0995469539193437e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply"
+        ],
+        "count": [
+          2,
+          3
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.75,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "182c5a8a-64bd-4ab5-92e4-51a85f7bd0b0",
+      "parent_id": "ac12e294-1aff-4381-ad35-c30d50485987",
+      "user_id": "2d40e94c-40ed-4e00-a66e-454c0401c8ad",
+      "created_date": "2023-02-17T02:12:06.487294+00:00",
+      "text": "You're welcome! It's always better to be safe than sorry when it comes to spoiled food. It's best to discard the mayonnaise and start fresh with fresh ingredients. Good luck with your next batch!",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0006174174486659467,
+        "severe_toxicity": 2.017905171669554e-05,
+        "obscene": 0.00013763862079940736,
+        "identity_attack": 9.408082405570894e-05,
+        "insult": 0.00022607775463256985,
+        "threat": 4.172367334831506e-05,
+        "sexual_explicit": 2.4857827156665735e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.0,
+          0.375,
+          0.875,
+          0.375,
+          0.0
+        ],
+        "count": [
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "aa19f580-2bc8-481a-b6e9-4dd6a92eca40",
+      "parent_id": "ac12e294-1aff-4381-ad35-c30d50485987",
+      "user_id": "1718c75c-8106-4b37-9873-40c03da8ef74",
+      "created_date": "2023-02-17T02:35:11.614224+00:00",
+      "text": "You're welcome.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0005235383869148791,
+        "severe_toxicity": 1.752382013364695e-05,
+        "obscene": 0.00010910468699876219,
+        "identity_attack": 8.536367386113852e-05,
+        "insult": 0.00022742968576494604,
+        "threat": 3.857629053527489e-05,
+        "sexual_explicit": 2.035926081589423e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4166666666666667,
+          0.0,
+          0.25,
+          0.5,
+          0.25,
+          0.0
+        ],
+        "count": [
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "ee6b58b1-6c6c-44ed-8b96-e7e0c4cea22b",
+      "parent_id": "ac12e294-1aff-4381-ad35-c30d50485987",
+      "user_id": "7de84fb1-4cf5-4142-989d-f490fc526bfd",
+      "created_date": "2023-02-17T02:32:49.872940+00:00",
+      "text": "To prevent mayonnaise from spoiling, it is important to use fresh ingredients and clean utensils, store it in an airtight container in the refrigerator, use it within a reasonable time, avoid cross-contamination, and use pasteurized eggs to reduce the risk of foodborne illness. By following these guidelines, you can ensure that your homemade mayonnaise is safe to eat and free from spoilage.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 2,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0003880803706124425,
+        "severe_toxicity": 2.8644244594033808e-05,
+        "obscene": 0.0001608846359886229,
+        "identity_attack": 8.793101733317599e-05,
+        "insult": 0.00017795727762859315,
+        "threat": 4.7561396058881655e-05,
+        "sexual_explicit": 2.9858758352929726e-05
+      },
+      "message_tree_id": "00353343-a4a5-4fb0-96fd-02f529a55181",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.25,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "count": [
+          3,
+          1,
+          3,
+          1,
+          1,
+          1,
+          1,
+          3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "message_id": "0043c58b-931d-403d-a311-9297489351ee",
+      "parent_id": null,
+      "user_id": "3aef5ec7-1121-4279-82aa-a082948707e7",
+      "created_date": "2023-02-04T20:22:26.928818+00:00",
+      "text": "Why Aristotelian view of physics (impetus and stuff) is wrong?",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0007847381639294326,
+        "severe_toxicity": 0.00011192522651981562,
+        "obscene": 0.0011424811091274023,
+        "identity_attack": 0.0004394845454953611,
+        "insult": 0.0014086846495047212,
+        "threat": 8.105161396088079e-05,
+        "sexual_explicit": 6.721173122059554e-05
+      },
+      "message_tree_id": "0043c58b-931d-403d-a311-9297489351ee",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_reply",
+          "_skip_ranking"
+        ],
+        "count": [
+          1,
+          3,
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.4166666666666667,
+          0.08333333333333333,
+          0.6666666666666666,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    }
+  ]
+}

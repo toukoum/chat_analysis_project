@@ -1,8 +1,10 @@
 // src/pages/UploadPage.tsx
 import React, { useState } from "react";
 import FileDropzone from "../components/FileDropzone";
+import ExampleJson from "../components/ExampleJson";
 import { useNavigate } from "react-router-dom";
 import { useToast } from "@/hooks/use-toast"
+import { Loader2 } from "lucide-react";
 
 
 const UploadPage: React.FC = () => {
@@ -62,8 +64,8 @@ const UploadPage: React.FC = () => {
         JSON Chat Analyser
       </p>
       <FileDropzone onFileUpload={handleFileUpload} isError={isError} />
-			{isLoading && <p className="z-1000 text-lg text-gray-700 mt-4">Uploading...</p>}
-
+			{isLoading && <p className="flex items-center gap-2 z-1000 text-lg text-gray-700 mt-4">Uploading <Loader2 className="mr-2 h-4 w-4 animate-spin" /></p>}
+			<ExampleJson />
     </div>
   );
 };

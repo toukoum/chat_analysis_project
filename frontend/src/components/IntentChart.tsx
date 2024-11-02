@@ -28,6 +28,7 @@ const chartConfig = {
 	"paraphrasing": { label: "Paraphrasing", color: "hsl(var(--chart-3))" },
 	"roleplay": { label: "Role-play", color: "hsl(var(--chart-4))" },
 	"miscellaneous": { label: "Miscellaneous", color: "hsl(var(--chart-5))" },
+	"unknown": { label: "Unknown", color: "hex(#ccc)" },
 } satisfies ChartConfig
 
 const colorsIntent: { [key: string]: string } = {
@@ -36,6 +37,7 @@ const colorsIntent: { [key: string]: string } = {
 	"Paraphrasing": "hsl(var(--chart-3))",
 	"Role-play": "hsl(var(--chart-4))",
 	"Miscellaneous": "hsl(var(--chart-5))",
+	"Unknown": "hex(#ccc)",
 }
 
 
@@ -51,6 +53,10 @@ export default function Component({ intentData }) {
 
 	// Calculer le nb de catégories d'intentions
 	const totalIntent = chartData.length
+
+	const unknownIntents = intentData["Unknown"] || 0;
+	const totalClassified = chartData.reduce((acc, { count }) => acc + count, 0) - unknownIntents;
+
 
 	return (
 		<Card className="flex flex-col">
@@ -70,8 +76,8 @@ export default function Component({ intentData }) {
 						/>
 						<Pie
 							data={chartData}
-							dataKey="count"      // Correction : correspond à la valeur dans chartData
-							nameKey="intent"     // Correction : correspond à l'intention dans chartData
+							dataKey="count"
+							nameKey="intent"
 							innerRadius={60}
 							strokeWidth={5}
 						>
@@ -110,10 +116,10 @@ export default function Component({ intentData }) {
 			</CardContent>
 			<CardFooter className="flex-col items-start gap-2 text-sm">
         <div className="flex items-center gap-2 font-medium leading-none">
-          The average is 30% <TrendingUp className="h-4 w-4" />
+          Total classified intents: { totalClassified }
         </div>
         <div className="leading-none text-muted-foreground">
-          Showing intent distribution for all user messages
+          with { unknownIntents } unknown intents
         </div>
       </CardFooter>
 		</Card>

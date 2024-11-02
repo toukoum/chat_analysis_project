@@ -48,6 +48,8 @@ export default function Component({ langData }) {
     count: langData[language],  // Nombre de messages dans chaque langue
   }))
 
+	const most_spoken = chartData.reduce((a, b) => a.count > b.count ? a : b)
+	const less_spoken = chartData.reduce((a, b) => a.count < b.count ? a : b)
 
   return (
     <Card>
@@ -90,10 +92,10 @@ export default function Component({ langData }) {
       </CardContent>
       <CardFooter className="flex-col items-start gap-2 text-sm">
         <div className="flex gap-2 font-medium leading-none">
-          The most talk language is English
+          The most talk language is { most_spoken.language }
         </div>
         <div className="leading-none text-muted-foreground">
-          The less one is French
+          The less one is { less_spoken.language }
         </div>
       </CardFooter>
     </Card>
