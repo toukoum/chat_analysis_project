@@ -1,19 +1,18 @@
-import { TrendingUp } from "lucide-react"
 import { Bar, BarChart, CartesianGrid, LabelList, XAxis } from "recharts"
 
 import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
+	Card,
+	CardContent,
+	CardDescription,
+	CardFooter,
+	CardHeader,
+	CardTitle,
 } from "@/components/ui/card"
 import {
-  ChartConfig,
-  ChartContainer,
-  ChartTooltip,
-  ChartTooltipContent,
+	ChartConfig,
+	ChartContainer,
+	ChartTooltip,
+	ChartTooltipContent,
 } from "@/components/ui/chart"
 
 export const description = "A bar chart with a label"
@@ -31,21 +30,17 @@ export interface LangData {
 	[key: string]: number
 }
 
-export default function Component({ langData }) {
-	//const chartData = [
-	//	{ month: "January", desktop: 4000 },
-	//	{ month: "February", desktop: 3000 },
-	//	{ month: "March", desktop: 2000 },
-	//	{ month: "April", desktop: 2780 },
-	//	{ month: "May", desktop: 1890 },
-	//	{ month: "June", desktop: 2390 },
-	//]
+interface LangProps {
+	langData: { [key: string]: number };
+}
+
+export default function LangChart({ langData: langData }: LangProps) {
 
 	console.log(langData)
 
 	const chartData = Object.keys(langData).map((language) => ({
-    language: language,        // Utilise chaque langue comme label de catégorie
-    count: langData[language],  // Nombre de messages dans chaque langue
+    language: language,
+    count: langData[language],
   }))
 
 	const most_spoken = chartData.reduce((a, b) => a.count > b.count ? a : b)

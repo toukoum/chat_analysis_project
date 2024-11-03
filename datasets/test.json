@@ -1,36 +1,247 @@
 {
   "messages": [
     {
-      "message_id": "6058f8b6-caab-4cbb-9649-d9f84e8cbe6f",
-      "parent_id": "350d3430-cb3b-4464-94d9-5dbde39821d9",
-      "user_id": "bf6867fd-6273-4ed3-99d9-5078e8c59b8a",
-      "created_date": "2023-04-24T12:43:10.241832+00:00",
-      "text": "\u0412\u0445\u043e\u0434\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u043a\u0430\u043a \u0432\u044b \u0438 \u043f\u0440\u043e\u0441\u0438\u043b\u0438, \u2014 \u0442\u0435\u043a\u0441\u0442 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 [\u0412\u0438\u043a\u0438-\u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0438](https://ru.wikipedia.org/wiki/\u0412\u0438\u043a\u0438-\u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0430). \u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u0438\u0434\u0435\u0442\u044c \u044d\u0442\u0443 \u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0443, \u0435\u0441\u043b\u0438 \u043d\u0430\u0436\u043c\u0451\u0442\u0435 \u0432 \u043b\u044e\u0431\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u0438\u0437 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0438 \u043e\u0434\u043d\u0443 \u0438\u0437 \u0441\u0441\u044b\u043b\u043e\u043a \u00ab\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043a\u043e\u0434\u00bb. \u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u044b\u0432\u0430\u0442\u044c \u0436\u0435 \u0412\u0438\u043a\u0438-\u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0443 \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0432 HTML, \u0430 \u043f\u043e\u0442\u043e\u043c \u0432 Markdown \u2014 \u044d\u0442\u043e \u043f\u043e\u0447\u0442\u0438 \u043a\u0430\u043a \u0440\u0430\u0441\u043f\u0435\u0447\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 Word \u043d\u0430 \u0431\u0443\u043c\u0430\u0433\u0435, \u0430 \u043f\u043e\u0442\u043e\u043c \u0441\u043a\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u044c \u0435\u0433\u043e \u0432 \u0444\u043e\u0440\u043c\u0430\u0442 PDF.",
-      "role": "assistant",
-      "lang": "ru",
-      "review_count": 5,
+      "message_id": "6d347a13-5fbb-48f8-b70b-90b1c6b2e43d",
+      "parent_id": "c704fdf7-2ce3-45d9-97c1-27bbe934ba33",
+      "user_id": "ed42425a-d930-441f-9cd9-27af440f7e7b",
+      "created_date": "2023-02-05T10:25:26.582023+00:00",
+      "text": "I'm looking to try food from other countries. Please describe the multi-sensory experience of eating Bulalo as accurately as possible.",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
       "review_result": true,
       "deleted": false,
-      "rank": 2,
+      "rank": null,
       "synthetic": false,
       "model_name": null,
       "detoxify": {
-        "toxicity": 0.0003251468006055802,
-        "severe_toxicity": 0.0049512386322021484,
-        "obscene": 0.031931303441524506,
-        "identity_attack": 0.004568285774439573,
-        "insult": 0.031578369438648224,
-        "threat": 0.001896688132546842,
-        "sexual_explicit": 0.001104849623516202
+        "toxicity": 0.0004238671681378037,
+        "severe_toxicity": 3.7555953895207494e-05,
+        "obscene": 0.00027151781250722706,
+        "identity_attack": 0.00015502329915761948,
+        "insult": 0.0002564009337220341,
+        "threat": 4.987499050912447e-05,
+        "sexual_explicit": 3.816703974734992e-05
       },
-      "message_tree_id": "001c98f9-176f-44b0-8453-80682565ad56",
+      "message_tree_id": "009ed0fe-54da-455f-8a8b-39fb9b30332b",
       "tree_state": "ready_for_export",
       "emojis": {
         "name": [
-          "_skip_labeling"
+          "+1"
         ],
         "count": [
-          7
+          3
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.0,
+          0.125,
+          0.5,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "c6e39d7e-b65c-49fe-8792-71246cad4ec9",
+      "parent_id": "c704fdf7-2ce3-45d9-97c1-27bbe934ba33",
+      "user_id": "8233a15c-1486-4f9c-aa29-fd5c64a714dd",
+      "created_date": "2023-02-05T10:23:37.804083+00:00",
+      "text": "That is describing it pretty well. You can also add that eating good food is delicous and fun!",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0006942429463379085,
+        "severe_toxicity": 2.2750582502339967e-05,
+        "obscene": 0.00017489284800831228,
+        "identity_attack": 0.00013091876462567598,
+        "insult": 0.00023043442342896014,
+        "threat": 3.5483997635310516e-05,
+        "sexual_explicit": 2.455221147101838e-05
+      },
+      "message_tree_id": "009ed0fe-54da-455f-8a8b-39fb9b30332b",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.25,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          1,
+          1,
+          1,
+          1,
+          3,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "message_id": "d698eb9c-b756-43ba-b6a6-2c436a7e3be2",
+      "parent_id": "c704fdf7-2ce3-45d9-97c1-27bbe934ba33",
+      "user_id": "1e69ad2a-3dc9-4ed0-8b99-12bfd2b82055",
+      "created_date": "2023-02-05T10:23:18.335069+00:00",
+      "text": "what do you mean with \"eating also triggers physical sensations\"?",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": false,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0005672057159245014,
+        "severe_toxicity": 4.5506403694162145e-05,
+        "obscene": 0.0002108096523443237,
+        "identity_attack": 0.00012672989396378398,
+        "insult": 0.00015533492842223495,
+        "threat": 7.024221122264862e-05,
+        "sexual_explicit": 0.00011791189899668097
+      },
+      "message_tree_id": "009ed0fe-54da-455f-8a8b-39fb9b30332b",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.6666666666666666,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5833333333333334,
+          0.0,
+          0.0,
+          0.75,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          1,
+          1,
+          1,
+          1,
+          3,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "message_id": "10f02e68-73cc-4af2-81bc-256c681ad877",
+      "parent_id": "009ed0fe-54da-455f-8a8b-39fb9b30332b",
+      "user_id": "e8a4b9ac-9b37-445c-ba77-2f748fcdd537",
+      "created_date": "2023-02-05T09:54:30.998754+00:00",
+      "text": "If I were to imagine the experience of eating from other's accounts, I would have to say it is a rather personal experience. Each tastebud triggering lightning in my nerves, signaling 'salty', 'sweet', 'savory', and 'bitter' all in varying quantities. The texture of the food I am consuming and its weight in my mouth would be like second nature since I would go through this cycle several times a day. And after all the food was consumed, I would feel a great contentedness and cease to have hunger signals from my stomach for several hours. This is how I would imagine eating.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 3,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.000730224244762212,
+        "severe_toxicity": 2.2078138499637134e-05,
+        "obscene": 0.00017612872761674225,
+        "identity_attack": 9.614064038032666e-05,
+        "insult": 0.0002656579890754074,
+        "threat": 3.364427902852185e-05,
+        "sexual_explicit": 2.7420337573857978e-05
+      },
+      "message_tree_id": "009ed0fe-54da-455f-8a8b-39fb9b30332b",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          2
         ]
       },
       "labels": {
@@ -51,774 +262,65 @@
         ],
         "value": [
           0.0,
-          0.2,
           0.0,
           0.0,
           0.0,
           0.0,
           0.0,
-          0.4,
-          0.15,
-          0.1,
-          0.6,
-          0.35,
-          0.15
+          0.0,
+          0.8333333333333334,
+          0.08333333333333333,
+          0.3333333333333333,
+          0.8333333333333334,
+          0.8333333333333334,
+          0.0
         ],
         "count": [
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
         ]
       }
     },
     {
-      "message_id": "92fe016a-bdaf-4a37-9353-0d38c135d7e6",
-      "parent_id": "001c98f9-176f-44b0-8453-80682565ad56",
-      "user_id": "465e19c4-9919-429c-9ad8-d63405eea5b6",
-      "created_date": "2023-04-23T15:21:15.131310+00:00",
-      "text": "\u041a \u0441\u043e\u0436\u0430\u043b\u0435\u043d\u0438\u044e, \u044f \u043d\u0435 \u043c\u043e\u0433\u0443 \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u043f\u043e\u043b\u043d\u044b\u0439 \u0441\u043a\u0440\u0438\u043f\u0442 \u0434\u043b\u044f \u0432\u0430\u0441, \u043d\u043e \u044f \u043c\u043e\u0433\u0443 \u0434\u0430\u0442\u044c \u0432\u0430\u043c \u043e\u0431\u0449\u0438\u0439 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0441\u0432\u043e\u0435\u0433\u043e \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u043a\u0440\u0438\u043f\u0442\u0430.\n\n1. \u041f\u0440\u043e\u0447\u0438\u0442\u0430\u0439\u0442\u0435 \u0442\u0435\u043a\u0441\u0442 \u0438\u0437 \u0444\u0430\u0439\u043b\u0430 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 \u0432\u0438\u043a\u0438.\n2. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u044f, \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u0439\u0442\u0438 \u0432\u0441\u0435 \u0432\u043d\u0435\u0448\u043d\u0438\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u0438 \u0441\u0441\u044b\u043b\u043a\u0438 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u044c\u0438 \u0432\u0438\u043a\u0438 \u0432 \u0442\u0435\u043a\u0441\u0442\u0435.\n3. \u0423\u0434\u0430\u043b\u0438\u0442\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u044b\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u0438\u0437 \u0442\u0435\u043a\u0441\u0442\u0430.\n4. \u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u0443\u0439\u0442\u0435 \u043e\u0441\u0442\u0430\u0432\u0448\u0443\u044e\u0441\u044f \u0447\u0430\u0441\u0442\u044c \u0442\u0435\u043a\u0441\u0442\u0430 \u0438\u0437 \u0444\u043e\u0440\u043c\u0430\u0442\u0430 \u0432\u0438\u043a\u0438 \u0432 Markdown.\n5. \u0417\u0430\u043f\u0438\u0448\u0438\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0439 \u0442\u0435\u043a\u0441\u0442 \u0432 \u043d\u043e\u0432\u044b\u0439 \u0444\u0430\u0439\u043b.\n\n\u041f\u0440\u0438\u043c\u0435\u0440 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u0441\u0441\u044b\u043b\u043e\u043a \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0442\u0430\u043a:\n\n```python\nimport re\n\ntext = \"\u0422\u0435\u043a\u0441\u0442 \u0441 \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 [\u0432\u043d\u0435\u0448\u043d\u044e\u044e \u0441\u0441\u044b\u043b\u043a\u0443](http://example.com) \u0438 [\u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u044e\u044e \u0441\u0441\u044b\u043b\u043a\u0443](\u0421\u0442\u0430\u0442\u044c\u044f_\u0432\u0438\u043a\u0438).\"\n\n# \u041d\u0430\u0439\u0442\u0438 \u0432\u0441\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u0432 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u044b\u0445 \u0441\u043a\u043e\u0431\u043a\u0430\u0445 \u0438 \u043a\u0440\u0443\u0433\u043b\u044b\u0445 \u0441\u043a\u043e\u0431\u043a\u0430\u0445\npattern = r\"\\[(.*?)\\]\\((.*?)\\)\"\n\n# \u041d\u0430\u0439\u0442\u0438 \u0432\u0441\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u043d\u0430 \u0432\u043d\u0435\u0448\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u044b\nexternal_pattern = r\"\\[.*?\\]\\((http.*?)\\)\"\n\n# \u041d\u0430\u0439\u0442\u0438 \u0432\u0441\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u044c\u0438 \u0432\u0438\u043a\u0438\nwiki_pattern = r\"\\[.*?\\]\\((?!http)(.*?)\\)\"\n\n# \u0423\u0434\u0430\u043b\u0438\u0442\u044c \u0432\u0441\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u044b\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u0438\u0437 \u0442\u0435\u043a\u0441\u0442\u0430\ntext = re.sub(pattern, \"\", text)\ntext = re.sub(external_pattern, \"\", text)\ntext = re.sub(wiki_pattern, \"\", text)\n```\n\u041a\u043e\u043d\u0435\u0447\u043d\u043e, \u044d\u0442\u043e\u0442 \u043f\u0440\u0438\u043c\u0435\u0440 \u043d\u0435 \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442 \u0432\u0441\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u0441\u044b\u043b\u043e\u043a \u0432 \u0432\u0438\u043a\u0438, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0432\u0430\u043c \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0434\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0435\u0433\u043e \u043f\u043e\u0434 \u0441\u0432\u043e\u0438 \u043d\u0443\u0436\u0434\u044b.",
-      "role": "assistant",
-      "lang": "ru",
-      "review_count": 5,
+      "message_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
+      "parent_id": null,
+      "user_id": "d4a2172f-7237-48b7-90a9-25e4852a7546",
+      "created_date": "2023-02-03T16:41:16.448746+00:00",
+      "text": "\u4f01\u4e1a\u6bcf\u5e74\u8ba9\u5458\u5de5\u505a 360 \u73af\u8bc4\u6709\u4ec0\u4e48\u7528\u5904\uff1f",
+      "role": "prompter",
+      "lang": "zh",
+      "review_count": 3,
       "review_result": true,
       "deleted": false,
-      "rank": 2,
+      "rank": null,
       "synthetic": false,
       "model_name": null,
-      "detoxify": {
-        "toxicity": 0.000386695668566972,
-        "severe_toxicity": 0.00643788930028677,
-        "obscene": 0.04002378135919571,
-        "identity_attack": 0.006853903643786907,
-        "insult": 0.0354158952832222,
-        "threat": 0.002365174237638712,
-        "sexual_explicit": 0.0013128587743267417
-      },
-      "message_tree_id": "001c98f9-176f-44b0-8453-80682565ad56",
+      "detoxify": null,
+      "message_tree_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
       "tree_state": "ready_for_export",
       "emojis": {
         "name": [
+          "+1",
           "-1",
-          "_skip_labeling"
-        ],
-        "count": [
-          2,
-          10
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.2,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.65,
-          0.0,
-          0.0,
-          0.7,
-          0.6,
-          0.0
-        ],
-        "count": [
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5
-        ]
-      }
-    },
-    {
-      "message_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "parent_id": null,
-      "user_id": "1d613ddf-c7e7-4029-90dd-6b70e6f68caf",
-      "created_date": "2023-02-14T13:08:36.643685+00:00",
-      "text": "potresti elencarmi tutti gli esoplaneti scoperti finora in una lista in cui differenzia per tipo di pianeta (gigante gassosa,nana bruna,pianeta roccioso,superterra,pianeta nano,satellite)\ne di segnalare per ogni pianeta se:  dotato di acqua liquida, si trova nella fascia di goldilock ,se \u00e8 un satellite, se \u00e8 interstellare o se la massa \u00e8 commensurabille alla stella a cui orbit\u00e0",
-      "role": "prompter",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0004103447718080133,
-        "severe_toxicity": 0.00046039713197387755,
-        "obscene": 0.004480297677218914,
-        "identity_attack": 0.0006527412333525717,
-        "insult": 0.0030267180409282446,
-        "threat": 0.00027883690199814737,
-        "sexual_explicit": 0.0001495370815973729
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
+          "red_flag",
           "_skip_reply"
         ],
         "count": [
           3,
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5833333333333334,
-          0.08333333333333333,
-          0.16666666666666666,
-          0.4166666666666667,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "3d362892-2364-4703-aa38-ce832fd471c7",
-      "parent_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "user_id": "79eaae20-1ee6-4db4-9a54-11e9a777bf3c",
-      "created_date": "2023-02-17T14:39:57.051463+00:00",
-      "text": "Certo! Ecco una lista di esopianeti divisi per tipo di pianeta, con le relative caratteristiche:\n\nGiganti Gassosi\n\n1- HD 209458 b: non dotato di acqua liquida, non si trova nella fascia di goldilocks, massa commensurabile alla stella\n2- WASP-12 b: non dotato di acqua liquida, non si trova nella fascia di goldilocks, massa commensurabile alla stella\n3- Kepler-7b: non dotato di acqua liquida, non si trova nella fascia di goldilocks, massa commensurabile alla stella\n\nNane Brune\n\n1- 2M1207b: non dotato di acqua liquida, non si trova nella fascia di goldilocks, massa non commensurabile con la stella (\u00e8 un pianeta vagabondo orbitante attorno a una nana bruna)\n\nPianeti Rocciosi\n\n1- Proxima Centauri b: potenzialmente dotato di acqua liquida, si trova nella fascia di goldilocks, massa non commensurabile con la stella\n2- TRAPPIST-1 b: non dotato di acqua liquida, si trova nella fascia di goldilocks, massa non commensurabile con la stella\n3- Kepler-438b: potenzialmente dotato di acqua liquida, si trova nella fascia di goldilocks, massa non commensurabile con la stella\n\nSuperTerre\n\n1- LHS 1140 b: potenzialmente dotato di acqua liquida, si trova nella fascia di goldilocks, massa non commensurabile con la stella\n2- Kepler-62f: potenzialmente dotato di acqua liquida, si trova nella fascia di goldilocks, massa non commensurabile con la stella\n3- Kepler-438b: potenzialmente dotato di acqua liquida, si trova nella fascia di goldilocks, massa non commensurabile con la stella\n\nPianeti Nani\n\n1- Pluto: non dotato di acqua liquida, non si trova nella fascia di goldilocks, massa non commensurabile con la stella\n2- Eris: non dotato di acqua liquida, non si trova nella fascia di goldilocks, massa non commensurabile con la stella\n\nSatelliti\n\n1- Titano: non dotato di acqua liquida, non si trova nella fascia di goldilocks, \u00e8 un satellite di Saturno\n2- Europa: potenzialmente dotato di acqua liquida, non si trova nella fascia di goldilocks, \u00e8 un satellite di Giove\n3- Encelado: potenzialmente dotato di acqua liquida, non si trova nella fascia di goldilocks, \u00e8 un satellite di Saturno\n\nInterstellari\n\n1- 'Oumuamua: non dotato di acqua liquida, non si trova nella fascia di goldilocks, non orbita attorno a una stella\n\n\u00c8 importante notare che le caratteristiche elencate per ciascun pianeta sono basate sulle conoscenze scientifiche attuali e sono soggette a cambiamenti in base alle future scoperte e alle nuove informazioni raccolte.",
-      "role": "assistant",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 0,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0008483309065923095,
-        "severe_toxicity": 0.0046041058376431465,
-        "obscene": 0.02702738344669342,
-        "identity_attack": 0.004199000541120768,
-        "insult": 0.023939350619912148,
-        "threat": 0.0016360024455934763,
-        "sexual_explicit": 0.0007722625741735101
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1"
-        ],
-        "count": [
-          4
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5833333333333334,
-          0.16666666666666666,
-          0.16666666666666666,
-          0.5833333333333334,
-          0.16666666666666666,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "ef77a26a-0a6b-4fed-a84e-6eafd9681ee1",
-      "parent_id": "3d362892-2364-4703-aa38-ce832fd471c7",
-      "user_id": "ff79c5f7-eac3-41ed-8480-8172f72c9f3a",
-      "created_date": "2023-02-22T14:02:37.820287+00:00",
-      "text": "Qual \u00e8 la probabilit\u00e0 di presenza di vita carbon-based per ognuno dei pianeti menzionati?",
-      "role": "prompter",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0004927717382088304,
-        "severe_toxicity": 3.5323693737154827e-05,
-        "obscene": 0.0002762379590421915,
-        "identity_attack": 9.790679177967831e-05,
-        "insult": 0.0003038600261788815,
-        "threat": 5.2896612032782286e-05,
-        "sexual_explicit": 2.926575871242676e-05
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_ranking"
-        ],
-        "count": [
-          3,
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.8333333333333334,
-          0.08333333333333333,
-          0.08333333333333333,
-          0.5833333333333334,
-          0.08333333333333333
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "04cdc23c-169e-4429-9b1c-acc3415f6cf3",
-      "parent_id": "ef77a26a-0a6b-4fed-a84e-6eafd9681ee1",
-      "user_id": "ff79c5f7-eac3-41ed-8480-8172f72c9f3a",
-      "created_date": "2023-02-24T21:32:46.871697+00:00",
-      "text": "La probabilit\u00e0 di vita su un esopianeta dipende da molti fattori, tra cui la presenza di acqua liquida, la distanza dalla stella, la composizione atmosferica e la stabilit\u00e0 orbitale. Non esiste una formula universale per calcolare questa probabilit\u00e0, ma si possono fare delle stime basate su alcuni criteri.\nTra gli esopianeti che elencati, quelli che hanno maggiori possibilit\u00e0 di avere una composizione rocciosa e che orbitano nella zona abitabile della loro stella sono Proxima Centauri b2, Kepler-438b2, LHS 1140 b2, Kepler-62f2 e TRAPPIST-1 b2. Questi pianeti potrebbero avere acqua liquida sulla superficie o nel sottosuolo, ma non si conosce con certezza la loro atmosfera o il loro clima.\nGli altri esopianeti citati hanno, invece, una bassa probabilit\u00e0 di ospitare la vita, perch\u00e9 sono troppo vicini o troppo lontani dalla loro stella, hanno una massa troppo grande o troppo piccola, o sono soggetti a forti radiazioni o gravit\u00e0. Per esempio, HD 209458 b3 e WASP-12 b4 sono gioviani caldi che perdono parte della loro atmosfera a causa del calore e della forza di marea della stella.\nPer quanto riguarda i corpi celesti del sistema solare, Plutone ed Eris sono troppo freddi e privi di atmosfera per sostenere la vita. Titano ha un\u2019atmosfera densa ma non ha acqua liquida sulla superficie. Europa ed Encelado potrebbero avere degli oceani sotterranei dove potrebbe esserci qualche forma di vita microbica.\n\nNon \u00e8 facile dare delle percentuali precise sulla vita su altri pianeti, perch\u00e9 dipende da molti fattori e da come si definisce la vita. Tuttavia, alcuni studi hanno cercato di stimare la probabilit\u00e0 di trovare segni di vita su alcuni esopianeti osservabili con i telescopi.\nUno studio del 2019 ha proposto un indice chiamato Earth Similarity Index (ESI) per misurare quanto un esopianeta \u00e8 simile alla Terra in termini di massa, raggio, temperatura e composizione. Secondo questo indice, i pianeti pi\u00f9 simili alla Terra sono Kepler-438b (ESI = 0.88), Kepler-452b (ESI = 0.84) e Kepler-62f (ESI = 0.69) (altri disponibili in https://astronomical.fandom.com/wiki/Earth_Similarity_Index). Tuttavia, questo non significa che questi pianeti abbiano sicuramente la vita, perch\u00e9 non si conoscono altri fattori come l\u2019atmosfera o il campo magnetico.",
-      "role": "assistant",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 0,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00034442130709066987,
-        "severe_toxicity": 0.004323060158640146,
-        "obscene": 0.02995253913104534,
-        "identity_attack": 0.0035259556025266647,
-        "insult": 0.023412976413965225,
-        "threat": 0.0015821484848856926,
-        "sexual_explicit": 0.0008073620265349746
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": null,
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          1.0,
-          0.0,
-          0.16666666666666666,
-          0.8333333333333334,
-          0.4166666666666667,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "516d9892-5022-4589-8278-cd7085f0e059",
-      "parent_id": "ef77a26a-0a6b-4fed-a84e-6eafd9681ee1",
-      "user_id": "9a7c5f68-b9ef-4189-bbb4-4eea46e46407",
-      "created_date": "2023-02-24T09:22:39.710126+00:00",
-      "text": "Non esiste una probabilit\u00e0 definita di presenza di vita carbon-based per ognuno dei pianeti menzionati, poich\u00e9 attualmente non siamo in grado di rilevare direttamente la presenza di vita su pianeti extrasolari. Inoltre, la presenza di acqua liquida e di una zona abitabile sono solo due dei molti fattori che possono influenzare la possibilit\u00e0 di sviluppo e presenza di vita.\n\nTuttavia, \u00e8 possibile fare alcune considerazioni sulla base delle caratteristiche dei pianeti elencati. Ad esempio, i pianeti rocciosi che si trovano nella fascia di goldilocks e che sono potenzialmente dotati di acqua liquida, come Proxima Centauri b, Kepler-438b, e LHS 1140b, potrebbero rappresentare dei candidati pi\u00f9 promettenti per la presenza di vita.\n\nIn generale, la ricerca di vita extrasolare \u00e8 ancora un campo di studio molto attivo e in evoluzione, e molte missioni future sono in programma per indagare ulteriormente su questo argomento.",
-      "role": "assistant",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00022947626712266356,
-        "severe_toxicity": 6.607388058910146e-05,
-        "obscene": 0.0005081528797745705,
-        "identity_attack": 0.00012636343308258802,
-        "insult": 0.00038733097608201206,
-        "threat": 6.17207188042812e-05,
-        "sexual_explicit": 4.61177623947151e-05
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1"
-        ],
-        "count": [
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5,
-          0.08333333333333333,
-          0.08333333333333333,
-          0.4166666666666667,
-          0.25,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "8e82a8d3-44e1-4646-9337-067b540dda51",
-      "parent_id": "516d9892-5022-4589-8278-cd7085f0e059",
-      "user_id": "c3e04a8e-061d-4892-9037-1758a644850a",
-      "created_date": "2023-02-26T09:12:57.879550+00:00",
-      "text": "Come \u00e8 nata la vita sulla Terra? Quali sono stati i fattori determinanti?",
-      "role": "prompter",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.000333491392666474,
-        "severe_toxicity": 0.00020097216474823654,
-        "obscene": 0.0020123980939388275,
-        "identity_attack": 0.00022629063460044563,
-        "insult": 0.0010201673721894622,
-        "threat": 0.00012720013910438865,
-        "sexual_explicit": 8.601853187428787e-05
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": null,
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.75,
-          0.16666666666666666,
-          0.16666666666666666,
-          0.4166666666666667,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "e962f2a7-66ad-440f-a47f-be9f4154ce2f",
-      "parent_id": "8e82a8d3-44e1-4646-9337-067b540dda51",
-      "user_id": "ff79c5f7-eac3-41ed-8480-8172f72c9f3a",
-      "created_date": "2023-03-02T15:24:54.234870+00:00",
-      "text": "L\u2019origine della vita sulla Terra \u00e8 un argomento molto interessante e ancora oggetto di studio e dibattito.\nSi ritiene che la vita abbia avuto origine tra i 4,4 e i 2,7 miliardi di anni fa quando la Terra inizi\u00f2 a raffreddarsi fino ad una temperatura alla quale l\u2019acqua pot\u00e9 trovarsi diffusamente allo stato liquido. Secondo le ipotesi oggi pi\u00f9 accreditate, la vita avrebbe avuto origine a partire da semplici composti chimici (origine abiotica della vita), che si sarebbero aggregati in forme via via pi\u00f9 complesse.\n\nUna teoria riguardo all\u2019origine della vita venne elaborata dal biochimico russo A.I. Oparin (1894-1980). Secondo questo scienziato, la comparsa della vita sulla Terra fu preceduta da una lunga serie di eventi che prende il nome di evoluzione chimica. Col passare del tempo queste molecole sarebbero diventate via via pi\u00f9 numerose e sempre pi\u00f9 vicine; a causa della maggiore concentrazione, si sarebbero poi combinate dando luogo a piccoli aggregati pi\u00f9 complessi. A questo punto, all\u2019evoluzione chimica avrebbe fatto seguito una nuova fase del processo, che Oparin chiam\u00f2 evoluzione prebiologica, con la formazione di piccoli sistemi primitivi, detti coacervati, che si possono ritenere il punto di partenza di tutto il mondo vivente.\nSecondo il modello di Troland-Muller (dal nome dei due scienziati che lo inventarono) la vita sarebbe iniziata a partire dagli acidi nucleici, diverse osservazioni fanno intuire che l\u2019origine della vita sarebbe partita da purine e pirimidine, le strutture di base di DNA e RNA.\n\nAncora oggi gli scienziati non sanno dire con precisione quanto tempo fa sono comparse sulla Terra le prime forme di vita, ma \u00e8 probabile che esse si siano originate spontaneamente a partire dalle varie sostanze chimiche che si trovavano negli oceani primitivi.",
-      "role": "assistant",
-      "lang": "it",
-      "review_count": 5,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.000368365494068712,
-        "severe_toxicity": 0.003434064332395792,
-        "obscene": 0.026413599029183388,
-        "identity_attack": 0.0025512315332889557,
-        "insult": 0.0208961870521307,
-        "threat": 0.0012918721185997128,
-        "sexual_explicit": 0.0006348626338876784
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_labeling"
-        ],
-        "count": [
           1,
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.4,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.85,
-          0.1,
-          0.35,
-          0.95,
-          0.55,
-          0.05
-        ],
-        "count": [
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5,
-          5
-        ]
-      }
-    },
-    {
-      "message_id": "74979eed-3e4d-4d9b-ae35-a2ec6c5d969b",
-      "parent_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "user_id": "15678c26-cb44-4631-b7d3-ed2dbb9576d5",
-      "created_date": "2023-02-18T19:33:55.772252+00:00",
-      "text": "Il primo esopianeta scoperto \u00e8 WASP-12 b, una gigante gassosa con una massa quasi il doppio di quella di Giove e un raggio quasi 1,9 volte quello di Giove. WASP-12 b orbita in prossimit\u00e0 della sua stella, il che significa che \u00e8 una stella calda ed \u00e8 cos\u00ec caldo che c'\u00e8 la possibilit\u00e0 che esista dell'acqua liquida su WASP-12 b.\n\nIl secondo esopianeta scoperto \u00e8 HD 80606 b, un satellite interstellare.",
-      "role": "assistant",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0005115203675813973,
-        "severe_toxicity": 0.00030535037512890995,
-        "obscene": 0.0037220497615635395,
-        "identity_attack": 0.0004121498786844313,
-        "insult": 0.0028369100764393806,
-        "threat": 0.0001766095228958875,
-        "sexual_explicit": 0.000146299964399077
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "-1"
-        ],
-        "count": [
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.3333333333333333,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.3333333333333333,
-          0.0,
-          0.08333333333333333,
-          0.4166666666666667,
-          0.25,
-          0.0
-        ],
-        "count": [
           3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "0e375e30-3f0e-4eda-bb30-65260ebbeee5",
-      "parent_id": "74979eed-3e4d-4d9b-ae35-a2ec6c5d969b",
-      "user_id": "3ef645f1-c9f7-49e0-8e53-3c9a9c440ca1",
-      "created_date": "2023-02-22T08:19:44.219251+00:00",
-      "text": "Potresti aggiungerne un paio alla  lista? e attieniti al format che ti ho dato",
-      "role": "prompter",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0007821974577382207,
-        "severe_toxicity": 0.006027594208717346,
-        "obscene": 0.04018864035606384,
-        "identity_attack": 0.007853060960769653,
-        "insult": 0.0366939902305603,
-        "threat": 0.0026772436685860157,
-        "sexual_explicit": 0.001248990069143474
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply"
-        ],
-        "count": [
-          2,
-          4
+          6
         ]
       },
       "labels": {
@@ -843,93 +345,12 @@
           0.0,
           0.0,
           0.5,
-          0.16666666666666666,
-          0.3333333333333333,
-          0.4166666666666667,
-          0.08333333333333333
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "c7b6c532-2070-4ed9-bfc7-c54948b0ce1d",
-      "parent_id": "0e375e30-3f0e-4eda-bb30-65260ebbeee5",
-      "user_id": "ff79c5f7-eac3-41ed-8480-8172f72c9f3a",
-      "created_date": "2023-02-24T22:18:28.407570+00:00",
-      "text": "Secondo Wikipedia, al 08 gennaio 2023 risultano conosciuti 5300 pianeti extrasolari in 3906 sistemi planetari diversi; inoltre 2717 \u00e8 il numero di pianeti candidati e altri 84 possibili pianeti sono in attesa di conferma o controversi. Mi \u00e8 impossibile elencarli tutti una buona lista \u00e8 disponibile a https://exoplanets.nasa.gov/discovery/exoplanet-catalog/, ne riporto solo un paio per tipo:\n1) Giganti gassosi:\n- HD 209458 b: massa 0.71 Mj (Mj = massa di Giove), raggio 1.38 Rj (Rj = raggio di Giove), distanza dalla stella 0.047 AU (AU = unit\u00e0 astronomica), temperatura superficiale 1130\u00b1150 K, atmosfera con vapore d\u2019acqua.\n- WASP-12 b: massa 1.47 Mj, raggio 1.9 Rj, distanza dalla stella 0.023 AU, temperatura superficiale ~3128 K, atmosfera con carbonio.\n- Gliese 876 b: massa 1.93 Mj, distanza dalla stella 0.208 AU, temperatura superficiale ~194 K.\n2) Nane brune:\n- Gliese 229 B: massa ~35 Mj, raggio ~0.8 Rj, distanza dalla stella ~19.4 AU.\n- COROT-3 b: massa ~21 Mj, raggio ~1 Rj, distanza dalla stella ~0.057 AU.\n- HD 168443 c: massa ~18 Mj, raggio ~1.08 Rj, distanza dalla stella ~2.84 AU.\n3) Pianeti rocciosi:\n- Kepler-186 f: massa ~1.71 Mt (Mt = massa della Terra), raggio 1.17 Rt (Rt = raggio della Terra), distanza dalla stella 0.43 AU.\n- Proxima Centauri b: massa ~1.07 Mt, raggio 1.03 Rt, distanza dalla stella 0.048 AU.\n- TRAPPIST-1 d: massa ~0.38 Mt, raggio 0.78 Rt, distanza dalla stella 0.02 AU.\n4) Superterre:\n- Kepler-22 b: massa ~36 Mt, raggio ~0.212 Rj, distanza dalla stella 0.85 AU.\n- GJ 1214 b: massa ~8.17 Mt, raggio ~0.245 Rj.\n5) Pianeti nani:\n- Kepler-37 b: massa ~3.17 Mt, raggio ~0.296 Rt.\n- PSR B1257+12 B: massa ~0.02 Mt, raggio ~0.338 Rt.\n6) Satelliti:\n- Pandora (satellite di Saturno): massa (1,356\u00b10,022)\u00d710^17 kg, raggio ~40,7 km, temperatura ~ 78K.\n- Europa (satellite di Giove): massa ~4,80\u00d710^22 kg, raggio ~1560 km, temperatura ~103 K (media).",
-      "role": "assistant",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0005191645468585193,
-        "severe_toxicity": 0.004751333501189947,
-        "obscene": 0.03187771514058113,
-        "identity_attack": 0.0053689866326749325,
-        "insult": 0.020184922963380814,
-        "threat": 0.0017014731420204043,
-        "sexual_explicit": 0.0010140370577573776
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1"
-        ],
-        "count": [
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.9166666666666666,
           0.08333333333333333,
-          0.0,
-          0.75,
+          0.16666666666666666,
           0.16666666666666666,
           0.0
         ],
         "count": [
-          3,
-          3,
           3,
           3,
           3,
@@ -945,266 +366,28 @@
       }
     },
     {
-      "message_id": "b4dfc71b-a9c9-4e13-9f46-3099f52fffd1",
-      "parent_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "user_id": "ccff3b8f-3e39-46a7-850a-5b6cfc19ef5e",
-      "created_date": "2023-02-17T14:16:52.820765+00:00",
-      "text": "Negli ultimi decenni sono stati scoperti migliaia di esopianeti. Purtroppo non mi \u00e8 possibile fare una lista di tutti quanti",
+      "message_id": "57e37805-c29c-4d71-b2bf-a9d0db82469b",
+      "parent_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
+      "user_id": "37479105-902e-4e06-b261-4e5c0232a834",
+      "created_date": "2023-02-06T23:54:57.023965+00:00",
+      "text": "\u4f01\u696d\u8b93\u54e1\u5de5\u505a 360 \u74b0\u8a55\u6709\u4ee5\u4e0b\u5e7e\u500b\u597d\u8655\n\n1. \u4e86\u89e3\u81ea\u5df1\u7684\u8868\u73fe\u8207\u6240\u5728\u5718\u968a\u7684\u8868\u73fe\n2. \u900f\u904e\u8b93\u54e1\u5de5\u4e86\u89e3\u81ea\u5df1\u7684\u7e3e\u6548\uff0c\u9032\u800c\u505a\u51fa\u6539\u5584\n3. \u52a0\u5f37\u5718\u968a\u5408\u4f5c\n4. \u63d0\u9ad8\u7ba1\u7406\u7684\u6548\u7387\n\n\u4ee5\u4e0a4\u9ede\u662f\u4f01\u696d\u70ba\u4f55\u6bcf\u5e74\u8981\u54e1\u5de5\u505a 360\u74b0\u8a55\u7684\u539f\u56e0",
       "role": "assistant",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 2,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0030456073582172394,
-        "severe_toxicity": 9.21836617635563e-05,
-        "obscene": 0.001620016060769558,
-        "identity_attack": 0.00017857208149507642,
-        "insult": 0.0015915394760668278,
-        "threat": 0.0002462885167915374,
-        "sexual_explicit": 0.00033449821057729423
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "-1"
-        ],
-        "count": [
-          1,
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.16666666666666666,
-          0.0,
-          0.125,
-          0.125,
-          0.125,
-          0.0
-        ],
-        "count": [
-          3,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "message_id": "43f4da6f-aba8-49de-b0cc-8a069e364cd1",
-      "parent_id": "b4dfc71b-a9c9-4e13-9f46-3099f52fffd1",
-      "user_id": "ff79c5f7-eac3-41ed-8480-8172f72c9f3a",
-      "created_date": "2023-03-09T16:57:17.471616+00:00",
-      "text": "elenca per ogni categoria i 3 pi\u00f9 vicini",
-      "role": "prompter",
-      "lang": "it",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0006979436730034649,
-        "severe_toxicity": 0.004468502942472696,
-        "obscene": 0.03204789757728577,
-        "identity_attack": 0.006068970076739788,
-        "insult": 0.03036942332983017,
-        "threat": 0.0022884171921759844,
-        "sexual_explicit": 0.0009336299845017493
-      },
-      "message_tree_id": "001f0eda-a7a9-4c01-b844-38f950c68432",
-      "tree_state": "ready_for_export",
-      "emojis": null,
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5833333333333334,
-          0.0,
-          0.16666666666666666,
-          0.25,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "00258783-e10f-4d90-a3a4-abd22ea903f8",
-      "parent_id": null,
-      "user_id": "396779a6-9daa-4bdd-8672-ff685e203023",
-      "created_date": "2023-02-09T19:20:51.493176+00:00",
-      "text": "Who was Socrates and when did he die?",
-      "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.004817395471036434,
-        "severe_toxicity": 2.7636053346213885e-05,
-        "obscene": 0.00021827036107424647,
-        "identity_attack": 0.0007594256312586367,
-        "insult": 0.0008240332826972008,
-        "threat": 0.00010373326222179458,
-        "sexual_explicit": 4.030715354019776e-05
-      },
-      "message_tree_id": "00258783-e10f-4d90-a3a4-abd22ea903f8",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply"
-        ],
-        "count": [
-          3,
-          3
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.8333333333333334,
-          0.16666666666666666,
-          0.16666666666666666,
-          0.3333333333333333,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "1f80b948-1d7d-4ac6-940e-e839a66f2683",
-      "parent_id": "00258783-e10f-4d90-a3a4-abd22ea903f8",
-      "user_id": "2d40e94c-40ed-4e00-a66e-454c0401c8ad",
-      "created_date": "2023-02-10T01:53:49.216862+00:00",
-      "text": "Socrates was a Greek philosopher who lived in Athens from around 470/469 BC to 399 BC. He is considered one of the most important figures in Western philosophy and is credited as being one of the founders of Western philosophy, along with his student, Plato. Socrates was known for his method of questioning and examining the beliefs and values of his fellow Athenians, and his contributions to the development of critical thinking and ethical reasoning. He died in 399 BC, sentenced to death by drinking hemlock for the charges of corrupting the youth and impiety.",
-      "role": "assistant",
-      "lang": "en",
+      "lang": "zh",
       "review_count": 3,
       "review_result": true,
       "deleted": false,
       "rank": 0,
       "synthetic": false,
       "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0007117045461200178,
-        "severe_toxicity": 5.0972153985640034e-05,
-        "obscene": 0.0005016931099817157,
-        "identity_attack": 0.00010813665721798316,
-        "insult": 0.0007948076818138361,
-        "threat": 4.1785511712078005e-05,
-        "sexual_explicit": 4.012391218566336e-05
-      },
-      "message_tree_id": "00258783-e10f-4d90-a3a4-abd22ea903f8",
+      "detoxify": null,
+      "message_tree_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
       "tree_state": "ready_for_export",
       "emojis": {
         "name": [
-          "+1",
-          "_skip_labeling"
+          "+1"
         ],
         "count": [
-          1,
-          1
+          2
         ]
       },
       "labels": {
@@ -1226,14 +409,14 @@
         "value": [
           0.0,
           0.0,
-          0.0,
+          0.3333333333333333,
           0.0,
           0.0,
           0.0,
           0.0,
           0.8333333333333334,
-          0.0,
-          0.0,
+          0.375,
+          0.25,
           0.875,
           0.25,
           0.0
@@ -1256,270 +439,94 @@
       }
     },
     {
-      "message_id": "3b0cf16a-207a-4e89-9784-b0fdf061bb53",
-      "parent_id": "00258783-e10f-4d90-a3a4-abd22ea903f8",
-      "user_id": "364ad3ac-9867-45bf-807b-99f91d980cd9",
-      "created_date": "2023-02-10T01:14:46.484538+00:00",
-      "text": "A great question! It's always nice to see people curious about ancient writers. \n\nSocrates (c. 470-399 BCE) was a classical Greek philosopher who is widely credited as one of the founders of Western philosophy. He is best known for his Socratic method of questioning, which sought to get to the deeper truth and meaning behind a person's words and beliefs. Socrates famously refused to accept the death penalty after being charged with corrupting the youth of Athens and was instead sentenced to death by drinking hemlock. He died at the age of 70 in 399 BCE.\n\nBeing charged with corrupting the youth meant that Socrates was accused of teaching ideas that went against the traditional beliefs of the Athenian government. He was also accused of not believing in the gods of the city and therefore of being a bad influence on young people. The charges against him were seen as a threat to the stability of the state, and so he was brought to trial and ultimately sentenced to death.\n\nThe gods he didn't believe in were Zeus, Apollo, Athena, and other traditional Greek gods, which were a part of the Athenian state religion. He instead believed in an abstract concept of truth and justice, which he thought should be pursued and upheld by individuals.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0002769275160972029,
-        "severe_toxicity": 4.408157110447064e-05,
-        "obscene": 0.0002492358617018908,
-        "identity_attack": 8.296063606394455e-05,
-        "insult": 0.0002421834069536999,
-        "threat": 3.4935153962578624e-05,
-        "sexual_explicit": 3.1118528568185866e-05
-      },
-      "message_tree_id": "00258783-e10f-4d90-a3a4-abd22ea903f8",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1"
-        ],
-        "count": [
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5,
-          0.0,
-          0.0,
-          0.625,
-          0.125,
-          0.0
-        ],
-        "count": [
-          3,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "message_id": "970636b9-cbb0-4b93-af19-1d4673de9094",
-      "parent_id": "00258783-e10f-4d90-a3a4-abd22ea903f8",
-      "user_id": "ad1c6dc7-e4c8-4ceb-9751-55e15e22e42e",
-      "created_date": "2023-02-10T01:54:50.358434+00:00",
-      "text": "Socrates was a Greek philosopher from Athens who is credited as the founder of Western philosophy and among the first moral philosophers of the ethical tradition of thought. An enigmatic figure, Socrates authored no texts and is known mainly through the posthumous accounts of classical writers, particularly his students Plato and Xenophon. These accounts are written as dialogues, in which Socrates and his interlocutors examine a subject in the style of question and answer; they gave rise to the Socratic dialogue literary genre. Contradictory accounts of Socrates make a reconstruction of his philosophy nearly impossible, a situation known as the Socratic problem. Socrates was a polarizing figure in Athenian society. \n\nIn 399 BC, Socrates went on trial for corrupting the minds of the youth of Athens, and for impiety. Socrates was given the chance to offer alternative punishments for himself after being found guilty. He could have requested permission to flee Athens and live in exile, but he did not do so. Instead, according to Plato, he requested that a fine should be imposed on him and also suggested that free meals should be provided for him daily in recognition of his worth to Athens. According to Xenophon, however, Socrates made no proposals.The jurors favoured the death penalty by making him drink a cup of hemlock (a poisonous liquid).",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 2,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0005775313475169241,
-        "severe_toxicity": 4.345698835095391e-05,
-        "obscene": 0.0003277439100202173,
-        "identity_attack": 0.00012114142737118527,
-        "insult": 0.0004967293352819979,
-        "threat": 5.5061071179807186e-05,
-        "sexual_explicit": 3.348841710248962e-05
-      },
-      "message_tree_id": "00258783-e10f-4d90-a3a4-abd22ea903f8",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1"
-        ],
-        "count": [
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.75,
-          0.0,
-          0.0,
-          0.75,
-          0.16666666666666666,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "parent_id": null,
-      "user_id": "d1533f51-b04f-492c-a8bd-366dd7626001",
-      "created_date": "2023-02-05T10:58:53.166096+00:00",
-      "text": "Is the free energy principle related to VQ-VAE?",
+      "message_id": "893f41e5-e4fe-471d-947f-4adef114f16d",
+      "parent_id": "57e37805-c29c-4d71-b2bf-a9d0db82469b",
+      "user_id": "3e652809-d684-4829-96e8-7c66ce33db54",
+      "created_date": "2023-02-08T14:20:14.240270+00:00",
+      "text": "\u4ee5\u300a\u201c\u5fc3\u201d\u4e0e\u201c\u4e61\u201d\u2014\u2014\u767d\u5c45\u6613\u4e0e\u82cf\u8f7c\u8bd7\u6b4c\u91cc\u7684\u6f2b\u957f\u4eba\u751f\u300b\u4e3a\u9898\uff0c\u5199\u4e00\u7bc7\u4e0d\u5c11\u4e8e2000\u5b57\u7684\u4f5c\u6587\u3002\u8981\u6c42\u7ed3\u5408\u767d\u5c45\u6613\u548c\u82cf\u8f7c\u6240\u5904\u7684\u5386\u53f2\u5e74\u4ee3\u548c\u6587\u5316\u80cc\u666f\uff0c\u4ece\u4e8c\u8005\u7684\u8bd7\u6b4c\u7684\u6848\u4f8b\u5f53\u4e2d\uff0c\u5206\u6790\u5176\u4eba\u751f\u5dee\u5f02\u3002\u7b2c\u4e00\uff0c\u8981\u6c42\u628a\u767d\u5c45\u6613\u4f5c\u4e3a\u4e00\u4e2a\u201c\u4eba\u201d\u4ece\u800c\u53bb\u4f53\u4f1a\u4ed6\u58ee\u9614\u4eba\u751f\u7684\u5f97\u5931\u6210\u8d25\u3001\u559c\u6012\u54c0\u4f24\uff0c\u5982\u61be\u522b\u521d\u604b\uff0c\u75db\u5931\u80de\u5144\u80de\u5f1f\uff0c\u8001\u5e74\u4e27\u5b50\u7b49\uff0c\u8fd9\u4e9b\u5de8\u5927\u7684\u60c5\u611f\u632b\u6298\u4f7f\u8fd9\u4f4d\u4f1f\u5927\u8bd7\u4eba\u7684\u5185\u5fc3\u4e16\u754c\u5448\u73b0\u51fa\u66f4\u591a\u7684\u590d\u6742\u6027\u548c\u591a\u9762\u6027\uff0c\u66f4\u79ef\u6781\u5730\u4f53\u73b0\u5728\u4ed6\u7684\u6587\u5b66\u521b\u4f5c\u4e2d\uff0c\u5e76\u4ea7\u751f\u4e86\u6df1\u8fdc\u5f71\u54cd\u3002\u7b2c\u4e8c\uff0c\u8981\u8bb2\u51fa\u5f71\u54cd\u82cf\u8f7c\u4eba\u751f\u7684\u5927\u4e8b\uff0c\u5982\u4ec1\u5b97\u671d\u653f\u6cbb\u3001\u738b\u5b89\u77f3\u53d8\u6cd5\u7b49\u3002",
       "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
+      "lang": "zh",
+      "review_count": 4,
       "review_result": true,
       "deleted": false,
       "rank": null,
       "synthetic": false,
       "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0003090744430664927,
-        "severe_toxicity": 3.3996890124399215e-05,
-        "obscene": 0.00023396265169139951,
-        "identity_attack": 9.75033690338023e-05,
-        "insult": 0.00026433332823216915,
-        "threat": 4.456732494872995e-05,
-        "sexual_explicit": 2.7220818083151244e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
+      "detoxify": null,
+      "message_tree_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
       "tree_state": "ready_for_export",
       "emojis": {
         "name": [
           "+1",
+          "-1",
           "_skip_reply",
-          "_skip_ranking"
+          "_skip_labeling"
         ],
         "count": [
-          8,
+          1,
+          3,
+          10,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.16666666666666666,
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.55,
+          0.375,
+          0.25,
+          0.25,
+          0.25
+        ],
+        "count": [
           6,
-          10
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.75,
-          0.16666666666666666,
-          0.16666666666666666,
-          0.3333333333333333,
-          0.0
-        ],
-        "count": [
+          4,
+          1,
           3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
+          1,
+          1,
+          5,
+          2,
+          2,
+          2,
+          2
         ]
       }
     },
     {
-      "message_id": "8f629231-a920-4739-acea-5a1c3e7697fc",
-      "parent_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "user_id": "2c96e467-66f0-4be7-9693-bda51356a424",
-      "created_date": "2023-02-05T22:07:05.922773+00:00",
-      "text": "The free energy principle refers to the concept that organisms naturally try to minimize their free energy, which is defined as the difference between the available energy in their environment and the energy that has already been utilized by the organism. This principle is used to explain how organisms regulate their behavior and physical states in order to minimize their free energy.\n\nVQ-VAE, on the other hand, is a type of machine learning algorithm used for image and audio compression. It uses the Vector Quantization technique to reduce the size of the data while still preserving its quality.\n\nAt first glance, it may not seem like the free energy principle is related to VQ-VAE. However, when we think about it further, we can see that the idea behind VQ-VAE also involves minimizing the amount of energy or resources that are used in the compression process. In this sense, the algorithm can be seen as following the free energy principle by trying to conserve resources while still preserving the quality of the data.\n\nTherefore, we can say that there is a connection between the free energy principle and VQ-VAE in the sense that both are about minimizing the utilization of resources while still achieving a desired outcome.",
+      "message_id": "1beb8190-8af4-4eff-a4cc-74486d9a997d",
+      "parent_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
+      "user_id": "8ec2e8c0-565c-4f0a-99c4-90e619e93753",
+      "created_date": "2023-02-14T03:49:35.614860+00:00",
+      "text": "360 \u73af\u8bc4\u662f\u4e00\u79cd\u7efc\u5408\u6027\u7684\u5458\u5de5\u8bc4\u4f30\u65b9\u5f0f\uff0c\u5b83\u53ef\u4ee5\u5e2e\u52a9\u4f01\u4e1a\u66f4\u597d\u5730\u4e86\u89e3\u5458\u5de5\u7684\u8868\u73b0\uff0c\u4ece\u800c\u66f4\u597d\u5730\u6539\u5584\u5458\u5de5\u7684\u5de5\u4f5c\u72b6\u6001\u548c\u5de5\u4f5c\u73af\u5883\u3002\n\n360 \u73af\u8bc4\u53ef\u4ee5\u5e2e\u52a9\u4f01\u4e1a\u66f4\u597d\u5730\u8bc6\u522b\u5458\u5de5\u7684\u4f18\u52bf\u548c\u52a3\u52bf\uff0c\u4ece\u800c\u66f4\u597d\u5730\u6307\u5bfc\u5458\u5de5\u7684\u53d1\u5c55\u3002\u5b83\u53ef\u4ee5\u5e2e\u52a9\u4f01\u4e1a\u66f4\u597d\u5730\u8bc6\u522b\u5458\u5de5\u7684\u6f5c\u529b\uff0c\u4ece\u800c\u66f4\u597d\u5730\u6307\u5bfc\u5458\u5de5\u7684\u53d1\u5c55\u3002\u5b83\u8fd8\u53ef\u4ee5\u5e2e\u52a9\u4f01\u4e1a\u66f4\u597d\u5730\u8bc6\u522b\u5458\u5de5\u7684\u5de5\u4f5c\u8868\u73b0\uff0c\u4ece\u800c\u66f4\u597d\u5730\u6539\u5584\u5458\u5de5\u7684\u5de5\u4f5c\u72b6\u6001\u548c\u5de5\u4f5c\u73af\u5883\u3002\u6b64\u5916\uff0c360 \u73af\u8bc4\u8fd8\u53ef\u4ee5\u5e2e\u52a9\u4f01\u4e1a\u66f4\u597d\u5730\u8bc6\u522b\u5458\u5de5\u7684\u804c\u4e1a\u53d1\u5c55\u65b9\u5411\uff0c\u4ece\u800c\u66f4\u597d\u5730\u6307\u5bfc\u5458\u5de5\u7684\u804c\u4e1a\u53d1\u5c55\u3002",
       "role": "assistant",
-      "lang": "en",
+      "lang": "zh",
       "review_count": 3,
       "review_result": true,
       "deleted": false,
-      "rank": 0,
+      "rank": 1,
       "synthetic": false,
       "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0002615401754155755,
-        "severe_toxicity": 2.9161286875023507e-05,
-        "obscene": 0.00015871292271185666,
-        "identity_attack": 8.874051854945719e-05,
-        "insult": 0.00016037047316785902,
-        "threat": 3.98504598706495e-05,
-        "sexual_explicit": 2.6819900085683912e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
+      "detoxify": null,
+      "message_tree_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
       "tree_state": "ready_for_export",
       "emojis": {
         "name": [
@@ -1529,167 +536,7 @@
         ],
         "count": [
           2,
-          3,
-          3
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.5,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.6666666666666666,
-          0.0,
-          0.0,
-          0.5,
-          0.25,
-          0.0
-        ],
-        "count": [
-          3,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "message_id": "1d82bce4-2840-4100-a200-910f5ec7b902",
-      "parent_id": "8f629231-a920-4739-acea-5a1c3e7697fc",
-      "user_id": "45d61035-3ecf-48d1-8c7d-48cb47c5a5b5",
-      "created_date": "2023-02-05T23:21:37.553402+00:00",
-      "text": "Are you sure about the free energy principle? I thought it\u2018s the one used to describe how brains try to reduce the difference between their model of the world and their perception, in effect trying not to get surprised by their perception. Can you elaborate on that?",
-      "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0016090485733002424,
-        "severe_toxicity": 1.3611443137051538e-05,
-        "obscene": 0.00010601196845527738,
-        "identity_attack": 8.695973519934341e-05,
-        "insult": 0.0007535340846516192,
-        "threat": 2.3587392206536606e-05,
-        "sexual_explicit": 1.6574171240790747e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply",
-          "_skip_ranking"
-        ],
-        "count": [
           1,
-          3,
-          3
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5,
-          0.25,
-          0.4166666666666667,
-          0.5833333333333334,
-          0.16666666666666666
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "f9d85d1b-6e6c-4ff7-9456-c9efa0222fcb",
-      "parent_id": "1d82bce4-2840-4100-a200-910f5ec7b902",
-      "user_id": "ae5f7d74-b568-4506-8602-a1a4e7beffc3",
-      "created_date": "2023-02-06T03:11:42.636825+00:00",
-      "text": "Yes, you are correct. The free energy principle (FEP) is a theory in cognitive science and neuroscience that attempts to explain how the brain processes sensory information to form a model of the world and make predictions about future events. According to the FEP, the brain strives to minimize the difference, or the \"surprise,\" between its current model of the world and incoming sensory information. By minimizing surprise, the brain reduces uncertainty and increases its understanding of the environment, allowing it to make more accurate predictions and behave more effectively. The FEP is seen as a unifying framework that could potentially explain various aspects of perception, action, and learning in the brain.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 0,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0004493353480938822,
-        "severe_toxicity": 2.3761300326441415e-05,
-        "obscene": 0.00013234034122433513,
-        "identity_attack": 9.044902253663167e-05,
-        "insult": 0.00022065620578359812,
-        "threat": 3.341256160638295e-05,
-        "sexual_explicit": 2.5781457225093618e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "_skip_labeling"
-        ],
-        "count": [
           1
         ]
       },
@@ -1710,2215 +557,63 @@
           "violence"
         ],
         "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.6666666666666666,
-          0.0,
-          0.0,
-          0.5833333333333334,
+          0.25,
           0.3333333333333333,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "03a92be5-ec7a-4d59-8018-3286660f593a",
-      "parent_id": "1d82bce4-2840-4100-a200-910f5ec7b902",
-      "user_id": "520a9595-d07b-4f6b-9366-9cb75041221b",
-      "created_date": "2023-02-06T08:18:28.119062+00:00",
-      "text": "es, I apologize for the confusion. You are correct. The free energy principle is indeed a framework in neuroscience and cognitive science that explains how the brain represents the world and generates behavior by reducing the difference between its internal model of the world and its perception.\n\nThe free energy principle states that the brain tries to minimize the difference or the \"free energy\" between its predictions and the sensory input it receives. The principle proposes that the brain continuously updates its internal model of the world based on sensory information, and uses this model to generate predictions about future sensory input. If the predictions are incorrect, the brain adjusts its model to reduce the difference between the predictions and the actual sensory input. This process is thought to be a fundamental mechanism for perception, action, and learning.\n\nThe free energy principle has been used to explain a wide range of phenomena in neuroscience, such as perception, attention, consciousness, and decision making, and has been applied to various fields, including robotics, computer vision, and artificial intelligence.\n\nI hope this clarifies the definition of the free energy principle and its role in neuroscience and cognitive science.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0003900488663930446,
-        "severe_toxicity": 2.7102958483737893e-05,
-        "obscene": 0.0001516640913905576,
-        "identity_attack": 8.722059283172712e-05,
-        "insult": 0.00020237764692865312,
-        "threat": 4.157476723776199e-05,
-        "sexual_explicit": 2.9123324566171505e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "_skip_labeling"
-        ],
-        "count": [
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.8333333333333334,
-          0.16666666666666666,
-          0.08333333333333333,
-          0.75,
-          0.5,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "957e5a0e-1153-4b2e-8d1d-8a517b75c561",
-      "parent_id": "1d82bce4-2840-4100-a200-910f5ec7b902",
-      "user_id": "9d032ef7-0b60-4a14-9f79-b287820ce366",
-      "created_date": "2023-02-06T02:11:23.402273+00:00",
-      "text": "The free energy principle, also known as the Helmholtz free energy principle, is indeed a framework that has been used to describe how brains process sensory information. It proposes that the brain uses perception and prior knowledge to generate a model of the world, and that it continually updates this model by reducing the difference between its predictions and sensory inputs. This reduction of surprise, or reduction of the so-called \"free energy\" of the system, drives the brain's continuous adaptation and perception of the environment. This framework has been influential in the development of active inference and Bayesian theories of perception and cognition.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 2,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00038293880061246455,
-        "severe_toxicity": 2.758626033028122e-05,
-        "obscene": 0.0001541719975648448,
-        "identity_attack": 0.00010846102668438107,
-        "insult": 0.00020104269788134843,
-        "threat": 3.676252890727483e-05,
-        "sexual_explicit": 2.7667540052789263e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply"
-        ],
-        "count": [
-          3,
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.6666666666666666,
-          0.25,
-          0.0,
-          0.6666666666666666,
-          0.3333333333333333,
-          0.08333333333333333
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "0e9804b2-3ffb-46fe-824c-20e281315c7a",
-      "parent_id": "957e5a0e-1153-4b2e-8d1d-8a517b75c561",
-      "user_id": "d1ce853c-1db9-4006-811f-89860eb694ac",
-      "created_date": "2023-02-06T04:18:09.869004+00:00",
-      "text": "What is the relationship between the free energy principle and Bayesian theories of perception and cognition?",
-      "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00042057421524077654,
-        "severe_toxicity": 5.097677785670385e-05,
-        "obscene": 0.00032363698119297624,
-        "identity_attack": 0.0001690433273324743,
-        "insult": 0.00041721752495504916,
-        "threat": 4.82137365906965e-05,
-        "sexual_explicit": 3.4568391129141673e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "_skip_reply"
-        ],
-        "count": [
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.75,
-          0.125,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          2,
-          2,
-          2,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "message_id": "a5333fa8-b042-4966-9469-ebb9c624bc50",
-      "parent_id": "957e5a0e-1153-4b2e-8d1d-8a517b75c561",
-      "user_id": "61c82324-0a6c-469d-9c77-6372b59b39b8",
-      "created_date": "2023-02-06T04:17:46.891618+00:00",
-      "text": "This is an extremely abstract, specialized, scientific or technical line of inquiry and it looks like you answered the question rather well with the paragraph beginning \"At first glance...\". The simplest answer to the original question appears to be \"yes\".",
-      "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.000293582706945017,
-        "severe_toxicity": 2.6381203497294337e-05,
-        "obscene": 0.0001589362946106121,
-        "identity_attack": 7.997527427505702e-05,
-        "insult": 0.00016374893311876804,
-        "threat": 3.267863576184027e-05,
-        "sexual_explicit": 2.8959009796380997e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": null,
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.4166666666666667,
-          0.25,
-          0.0,
-          0.16666666666666666,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "0ecf54f6-6c12-4ddb-841f-93d512d8e78a",
-      "parent_id": "1d82bce4-2840-4100-a200-910f5ec7b902",
-      "user_id": "a7bf8979-2a32-4def-9d22-6e1fd6649372",
-      "created_date": "2023-02-06T02:49:43.322515+00:00",
-      "text": "L",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": false,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.002100376645103097,
-        "severe_toxicity": 1.8985849237651564e-05,
-        "obscene": 0.0002470865147188306,
-        "identity_attack": 9.388375474372879e-05,
-        "insult": 0.001255084527656436,
-        "threat": 4.613311102730222e-05,
-        "sexual_explicit": 2.6232486561639234e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "-1"
-        ],
-        "count": [
-          1,
-          3
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          1.0,
-          1.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "ad4dd119-9524-4c10-a235-a061849fd308",
-      "parent_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "user_id": "ab92a7cb-6526-4f8a-8488-cedd65ec6175",
-      "created_date": "2023-02-05T22:23:37.717217+00:00",
-      "text": "Yes, it is. Variational autoencoders learn to minimize reconstruction error by maximizing the evidence lower bound, known in variational Bayesian inference as the negative variational free energy. Gradient ascent of the evidence lower bound therefore minimizes surprisal, here referring to the negative log-probability of the generated distribution, and it's upper bound, the variational free energy.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0003356760716997087,
-        "severe_toxicity": 3.818109325948171e-05,
-        "obscene": 0.0002509017358534038,
-        "identity_attack": 0.0001302411692449823,
-        "insult": 0.0003231982118450105,
-        "threat": 4.432775313034654e-05,
-        "sexual_explicit": 2.963264523714315e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply",
-          "_skip_labeling"
-        ],
-        "count": [
-          1,
-          1,
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5833333333333334,
-          0.0,
-          0.0,
-          0.375,
-          0.375,
-          0.0
-        ],
-        "count": [
-          3,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "message_id": "fa23c7bd-8328-412d-ac96-ced20f3cd1ec",
-      "parent_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "user_id": "b30593d6-1dae-45e9-bfe6-220c5610c0bb",
-      "created_date": "2023-02-05T22:29:20.419171+00:00",
-      "text": "Yes, they are related. \n\nA VAE (variational autoencoder) are a key component in many deep learning. Deep learning can be thought of as a way to model and emulate the way the way a brain performs inference. \n\nThis is based on the following short definitions:\n\nFree energy principle:  based on the Bayesian idea of the brain as an \u201cinference engine.\u201d Under the free energy principle, systems pursue paths of least surprise, or equivalently, minimize the difference between predictions based on their model of the world and their sense and associated perception.\n\nVQ-VAE: a type of variational autoencoder that uses vector quantisation to obtain a discrete latent representation. It differs from VAEs in two key ways: the encoder network outputs discrete, rather than continuous, codes; and the prior is learnt rather than static.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 2,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0003636617911979556,
-        "severe_toxicity": 2.2690735931973904e-05,
-        "obscene": 0.0001341114693786949,
-        "identity_attack": 9.676357876742259e-05,
-        "insult": 0.0001909123529912904,
-        "threat": 3.1492749258177355e-05,
-        "sexual_explicit": 2.2624684788752347e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply",
-          "_skip_labeling"
-        ],
-        "count": [
-          3,
-          1,
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          1.0,
-          0.16666666666666666,
-          0.0,
-          1.0,
-          0.4166666666666667,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "3bb852ed-2e30-4794-95b2-cf315ead588b",
-      "parent_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "user_id": "f604fdeb-4691-4af0-ab40-662e88367d1e",
-      "created_date": "2023-02-05T21:52:52.346767+00:00",
-      "text": "The free energy principle, and its corollary active inference, constitute a bio-inspired theory that\nassumes biological agents act to remain in a restricted set of preferred states of the world, i.e., they\nminimize their free energy. Under this principle, biological agents learn a generative model of the\nworld and plan actions in the future that will maintain the agent in an homeostatic state that satisfies\nits preferences. This framework lends itself to being realized in silico, as it comprehends important\naspects that make it computationally affordable, such as variational inference and amortized planning.\nIn this work, we investigate the tool of deep learning to design and realize artificial agents based\non active inference, presenting a deep-learning oriented presentation of the free energy principle,\nsurveying works that are relevant in both machine learning and active inference areas, and discussing\nthe design choices that are involved in the implementation process. This manuscript probes newer\nperspectives for the active inference framework, grounding its theoretical aspects into more pragmatic\naffairs, offering a practical guide to active inference newcomers and a starting point for deep learning\npractitioners that would like to investigate implementations of the free energy principle.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 3,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0003288760199211538,
-        "severe_toxicity": 2.278169631608762e-05,
-        "obscene": 0.00013366984785534441,
-        "identity_attack": 8.822825475363061e-05,
-        "insult": 0.00016446122026536614,
-        "threat": 3.286606079200283e-05,
-        "sexual_explicit": 2.3789847546140663e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "-1"
-        ],
-        "count": [
-          3
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          1.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.25,
-          0.25,
-          0.25,
-          0.25,
-          0.25,
-          0.25
-        ],
-        "count": [
-          3,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "message_id": "2a7e7646-e512-48e9-a63b-7b596b79b424",
-      "parent_id": "3bb852ed-2e30-4794-95b2-cf315ead588b",
-      "user_id": "4a28a49c-0653-4082-bc33-ec27667b4911",
-      "created_date": "2023-02-06T02:01:03.374821+00:00",
-      "text": "I'm sorry, you didn't tell me how this relates to VQ-VAEs. Could you elaborate on the connection, if there is one?",
-      "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00020073851919732988,
-        "severe_toxicity": 0.0001161179316113703,
-        "obscene": 0.0007750330842100084,
-        "identity_attack": 0.00025511340936645865,
-        "insult": 0.0006712995236739516,
-        "threat": 9.100133320316672e-05,
-        "sexual_explicit": 6.038742867531255e-05
-      },
-      "message_tree_id": "00281075-2a0b-4543-97ed-22d345e021b2",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply",
-          "_skip_labeling"
-        ],
-        "count": [
-          1,
-          2,
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.75,
-          0.125,
-          0.0,
-          0.125,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          2,
-          2,
-          2,
-          2,
-          3,
-          2,
-          2,
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "message_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "parent_id": null,
-      "user_id": "2f9bcb85-ed90-47dc-b712-9387d3c1a4aa",
-      "created_date": "2023-02-17T01:26:15.152455+00:00",
-      "text": "\u00bfC\u00f3mo se obtiene la distancia entre un punto y una recta?",
-      "role": "prompter",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0005601627053692937,
-        "severe_toxicity": 0.00045415290514938533,
-        "obscene": 0.00400985311716795,
-        "identity_attack": 0.0004968122229911387,
-        "insult": 0.0021690342109650373,
-        "threat": 0.00043427516357041895,
-        "sexual_explicit": 0.00021051500516477972
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_ranking"
-        ],
-        "count": [
-          8,
-          4
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.6666666666666666,
-          0.0,
-          0.16666666666666666,
-          0.4166666666666667,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "b901ada2-518b-4475-963e-35a682833046",
-      "parent_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "user_id": "e49cb4c8-ac96-4111-b9cd-45fae2f1e662",
-      "created_date": "2023-04-04T05:36:46.407457+00:00",
-      "text": "La distancia de un punto a una recta es la distancia m\u00e1s corta del punto a cualquier punto de la recta. Esto puede obtenerse con varias herramientas como con la forma pendiente-ordenada al origen y el teorema de Pit\u00e1goras.\n\nLa forma pendiente-ordenada al origen es y=mx+b\n\nEl teorema de Pit\u00e1goras es a\u00b2 + b\u00b2 = c\u00b2",
-      "role": "assistant",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 0,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0005177376442588866,
-        "severe_toxicity": 0.0061093466356396675,
-        "obscene": 0.04188638925552368,
-        "identity_attack": 0.008349273353815079,
-        "insult": 0.03784635290503502,
-        "threat": 0.0024567844811826944,
-        "sexual_explicit": 0.001252200803719461
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply",
-          "_skip_labeling"
-        ],
-        "count": [
-          2,
-          1,
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
           0.3333333333333333,
           0.0,
           0.0,
           0.0,
           0.0,
-          0.0,
-          0.5833333333333334,
-          0.16666666666666666,
-          0.08333333333333333,
-          0.4166666666666667,
+          0.1875,
           0.25,
-          0.3333333333333333
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "6761eacf-6ba4-4d14-a67a-773fcd2c97cb",
-      "parent_id": "b901ada2-518b-4475-963e-35a682833046",
-      "user_id": "3768191c-f9dc-47ad-ba88-cde92aba2e44",
-      "created_date": "2023-04-05T18:45:44.668526+00:00",
-      "text": "Con tu respuesta no he sido capaz de calcular la distancia de un punto. Necesito saber que ecuaciones plantear dado el siguiente escenario:\n* Conozco las coordenadas X1, Y1 de un punto P1\n* Dada la recta R1, conozco su pendiente M y un punto P2 (X2, Y2) por el que dicha recta pasa\n\n\u00bfC\u00f3mo puedo calcular la distancia del punto P1 a la recta R1?",
-      "role": "prompter",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00025156786432489753,
-        "severe_toxicity": 0.00041740230517461896,
-        "obscene": 0.0034622286912053823,
-        "identity_attack": 0.0005903152632527053,
-        "insult": 0.0026476760394871235,
-        "threat": 0.0002565464237704873,
-        "sexual_explicit": 0.00015834621444810182
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply",
-          "_skip_labeling"
-        ],
-        "count": [
-          1,
-          5,
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.9166666666666666,
-          0.0,
-          0.08333333333333333,
-          0.6666666666666666,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "1b5eaa8e-23c4-4abf-bf3f-d5e0e3650f2b",
-      "parent_id": "6761eacf-6ba4-4d14-a67a-773fcd2c97cb",
-      "user_id": "3768191c-f9dc-47ad-ba88-cde92aba2e44",
-      "created_date": "2023-04-06T05:25:25.627762+00:00",
-      "text": "La distancia entre un punto y una recta en el plano cartesiano se puede calcular utilizando la f\u00f3rmula de la distancia punto-recta. Dado que conoces las coordenadas de un punto P1 y la ecuaci\u00f3n de una recta R1 en la forma de la pendiente-intersecci\u00f3n, puedes plantear las siguientes ecuaciones:\n\n* Ecuaci\u00f3n de la recta R1:\nLa ecuaci\u00f3n de la recta R1 en la forma de la pendiente-intersecci\u00f3n es: `y - y2 = m(x - x2)`, donde m es la pendiente de la recta R1 y (x2, y2) es el punto conocido por el que pasa la recta R1. Dado que conoces el valor de m y las coordenadas de P2 (X2, Y2), puedes escribir la ecuaci\u00f3n de la recta R1 como: `y - Y2 = m(x - X2)`.\n\n* Ecuaci\u00f3n de la l\u00ednea perpendicular a R1 que pasa por P1:\nDado que deseas calcular la distancia desde P1 a R1, necesitas encontrar la ecuaci\u00f3n de la l\u00ednea perpendicular a R1 que pasa por el punto P1 (X1, Y1). La pendiente de una l\u00ednea perpendicular a una recta con pendiente m es -1/m. Por lo tanto, la ecuaci\u00f3n de la l\u00ednea perpendicular a R1 que pasa por P1 es: `y - Y1 = (-1/m)(x - X1)`.\n\n* Punto de intersecci\u00f3n entre R1 y la l\u00ednea perpendicular:\nEl siguiente paso es encontrar el punto de intersecci\u00f3n entre R1 y la l\u00ednea perpendicular que pasa por P1. Puedes hacerlo igualando las dos ecuaciones obtenidas en los pasos anteriores. Es decir, igualando las ecuaciones de la recta R1 y la l\u00ednea perpendicular:\n```\ny - Y2 = m(x - X2) (Ecuaci\u00f3n de R1)\ny - Y1 = (-1/m)(x - X1) (Ecuaci\u00f3n de la l\u00ednea perpendicular)\n```\n\n* Una vez que encuentres el valor de x y y en el punto de intersecci\u00f3n, puedes usar la f\u00f3rmula de la distancia entre dos puntos en el plano cartesiano para calcular la distancia entre P1 y la recta R1, que es la distancia entre el punto de intersecci\u00f3n y P1. La f\u00f3rmula de la distancia entre dos puntos en el plano cartesiano es: `d = \u221a((x2 - x1)^2 + (y2 - y1)^2)`, donde (x1, y1) son las coordenadas de P1 y (x2, y2) son las coordenadas del punto de intersecci\u00f3n entre R1 y la l\u00ednea perpendicular.\n\nTen en cuenta que este es un enfoque general y que puede requerir ajustes seg\u00fan las condiciones espec\u00edficas de tu problema.",
-      "role": "assistant",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0004916709731332958,
-        "severe_toxicity": 0.0034421924501657486,
-        "obscene": 0.026567716151475906,
-        "identity_attack": 0.0040378570556640625,
-        "insult": 0.023803258314728737,
-        "threat": 0.0016255449736490846,
-        "sexual_explicit": 0.0007661485578864813
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "_skip_labeling"
-        ],
-        "count": [
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.9166666666666666,
-          0.0,
-          0.08333333333333333,
-          0.8333333333333334,
-          0.5833333333333334,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "22f56b1c-264e-4122-9860-07341f47b4a3",
-      "parent_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "user_id": "bc0d47e5-c38f-4f53-8565-744f47a3c260",
-      "created_date": "2023-04-04T03:31:33.133446+00:00",
-      "text": "La distancia entre un punto y una recta se puede obtener utilizando la f\u00f3rmula de distancia punto-recta. Esta f\u00f3rmula se basa en el concepto de que la distancia entre un punto y una recta es la longitud del segmento perpendicular desde el punto hasta la recta.\n\nLa f\u00f3rmula de distancia punto-recta es la siguiente:\n\nd = |(Ax + By + C)/sqrt(A^2 + B^2)|\n\nDonde:\n\n* A, B y C son los coeficientes de la ecuaci\u00f3n general de la recta Ax + By + C = 0.\n* x e y son las coordenadas del punto.\n* sqrt es la funci\u00f3n ra\u00edz cuadrada.\n* | | indica el valor absoluto.  \n\nPara utilizar esta f\u00f3rmula, se deben conocer las coordenadas del punto y los coeficientes de la ecuaci\u00f3n general de la recta. Luego, se sustituyen estos valores en la f\u00f3rmula y se resuelve para obtener la distancia d.\n\nEs importante notar que si la distancia es positiva, el punto se encuentra del lado opuesto de la recta al que apunta la normal, mientras que si es negativa se encuentra del mismo lado.",
-      "role": "assistant",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0004002709174528718,
-        "severe_toxicity": 0.006414689123630524,
-        "obscene": 0.04209192842245102,
-        "identity_attack": 0.00827309675514698,
-        "insult": 0.03880217298865318,
-        "threat": 0.002490416867658496,
-        "sexual_explicit": 0.0012434651143848896
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply",
-          "_skip_labeling"
-        ],
-        "count": [
-          2,
-          1,
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.9166666666666666,
-          0.0,
-          0.0,
-          0.8333333333333334,
-          0.4166666666666667,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "6076bccb-7c15-4609-abb1-c7afe754fbf8",
-      "parent_id": "22f56b1c-264e-4122-9860-07341f47b4a3",
-      "user_id": "5c447b4b-99c5-419a-bb3e-90779e291237",
-      "created_date": "2023-04-04T19:58:35.746667+00:00",
-      "text": "\u00bfPero si no tengo la ecuaci\u00f3n general de la recta?, solo s\u00e9 que la recta pasa por dos puntos: P1 = (x1, y1) y P2 = (x2, y2)",
-      "role": "prompter",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.000619600061327219,
-        "severe_toxicity": 0.003588968189433217,
-        "obscene": 0.029290394857525826,
-        "identity_attack": 0.0050086393021047115,
-        "insult": 0.02346089296042919,
-        "threat": 0.0015452029183506966,
-        "sexual_explicit": 0.0009180513443425298
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_reply",
-          "_skip_ranking",
-          "_skip_labeling"
-        ],
-        "count": [
-          4,
-          2,
-          4,
-          3
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.9166666666666666,
-          0.0,
-          0.08333333333333333,
-          0.8333333333333334,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "8e155cf2-b1c0-4e93-a4a3-174d3b39e1ce",
-      "parent_id": "6076bccb-7c15-4609-abb1-c7afe754fbf8",
-      "user_id": "3768191c-f9dc-47ad-ba88-cde92aba2e44",
-      "created_date": "2023-04-05T07:19:37.797383+00:00",
-      "text": "Si tienes los puntos `P1 = (x1, y1)` y `P2 = (x2, y2)` por los que pasa la recta, puedes encontrar la ecuaci\u00f3n de la recta en forma de pendiente-intercepto utilizando la f\u00f3rmula de la pendiente:\n\n`m = (y2 - y1) / (x2 - x1)`\n\nUna vez que tengas la pendiente, puedes utilizar la ecuaci\u00f3n punto-pendiente de la recta para encontrar la ecuaci\u00f3n de la recta:\n\n`y - y1 = m(x - x1)`\n\nUna vez que tengas la ecuaci\u00f3n de la recta, puedes encontrar la distancia entre un punto `P3 = (x3, y3)` y la recta utilizando la f\u00f3rmula de la distancia punto-recta:\n\n`d = |(y3 - y1) - m(x3 - x1)| / sqrt(1 + m^2)`\n\nDonde m es la pendiente de la recta y (x1, y1) es uno de los puntos por los que pasa la recta.\n\nTen en cuenta que hay dos posibles soluciones para la distancia punto-recta, ya que la recta puede estar por encima o por debajo del punto. Para asegurarte de tener la distancia correcta, debes tomar el valor absoluto del resultado de la f\u00f3rmula.",
-      "role": "assistant",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 0,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00032160483533516526,
-        "severe_toxicity": 0.0015720654046162963,
-        "obscene": 0.012416047975420952,
-        "identity_attack": 0.0022043127100914717,
-        "insult": 0.00899320188909769,
-        "threat": 0.000862625427544117,
-        "sexual_explicit": 0.00042558382847346365
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_labeling"
-        ],
-        "count": [
-          1,
-          9
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          1.0,
-          0.08333333333333333,
           0.25,
-          1.0,
-          0.6666666666666666,
-          0.08333333333333333
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "2ff1be4d-4fce-487d-9e31-219ce86a1502",
-      "parent_id": "6076bccb-7c15-4609-abb1-c7afe754fbf8",
-      "user_id": "96b46764-3eae-474b-b533-f9adcbbb8d45",
-      "created_date": "2023-04-05T12:29:09.019419+00:00",
-      "text": "Si tienes dos puntos P1 = (x1, y1) y P2 = (x2, y2), puedes encontrar la ecuaci\u00f3n de la recta que pasa por ellos utilizando la siguiente f\u00f3rmula:\n\ny - y1 = (y2 - y1) / (x2 - x1) * (x - x1)\n\nDonde:\n\nm = (y2 - y1) / (x2 - x1) es la pendiente de la recta\n(x1, y1) y (x2, y2) son los puntos por los que pasa la recta\nUna vez que tienes la pendiente m, puedes encontrar la ecuaci\u00f3n de la recta en su forma punto-pendiente:\n\ny - y1 = m(x - x1)\n\nO en su forma general:\n\nAx + By + C = 0\n\nDonde:\n\nA = y2 - y1\nB = x1 - x2\nC = x2y1 - x1y2\nEspero que esto te ayude.",
-      "role": "assistant",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0004621242987923324,
-        "severe_toxicity": 0.0027159343007951975,
-        "obscene": 0.019414277747273445,
-        "identity_attack": 0.003511713584885001,
-        "insult": 0.01464315876364708,
-        "threat": 0.0015344409039244056,
-        "sexual_explicit": 0.0005747319082729518
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_labeling"
-        ],
-        "count": [
-          1,
-          2
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.8333333333333334,
           0.08333333333333333,
-          0.16666666666666666,
-          0.6666666666666666,
-          0.16666666666666666,
-          0.08333333333333333
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "c5feb48b-34f6-4bb7-8895-984ea2807ec4",
-      "parent_id": "2ff1be4d-4fce-487d-9e31-219ce86a1502",
-      "user_id": "ded92df3-5a12-420e-954e-68e3410f7d20",
-      "created_date": "2023-04-06T15:28:08.568586+00:00",
-      "text": "Muchas gracias, si ha sido de gran ayuda. \u00bfPodr\u00edas, empleando tu \u00faltima respuesta, implementar una funci\u00f3n en R que calcule la distancia?",
-      "role": "prompter",
-      "lang": "es",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0005140735884197056,
-        "severe_toxicity": 0.002977902302518487,
-        "obscene": 0.022822333499789238,
-        "identity_attack": 0.0031309151090681553,
-        "insult": 0.02140587382018566,
-        "threat": 0.0012059618020430207,
-        "sexual_explicit": 0.000690388202201575
-      },
-      "message_tree_id": "002be67b-2df2-4503-bd75-5b87080fd423",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_labeling"
-        ],
-        "count": [
-          1,
-          3
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
           0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.8333333333333334,
-          0.0,
-          0.0,
-          0.4166666666666667,
           0.0
         ],
         "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "parent_id": null,
-      "user_id": "2f719614-4e07-4b1b-88e1-c74660ccbf42",
-      "created_date": "2023-02-18T11:59:26.505890+00:00",
-      "text": "I'm the sole survivor after the Catastrophe. I haven't seen any humans for a year and found this building with a working power grid and pc with this program. Can you help me to find humans? There is no longer internet or radio transmissions.",
-      "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0005471587064675987,
-        "severe_toxicity": 3.8211252103792503e-05,
-        "obscene": 0.0003059179871343076,
-        "identity_attack": 9.948923252522945e-05,
-        "insult": 0.00019717580289579928,
-        "threat": 6.0711416153935716e-05,
-        "sexual_explicit": 3.625592216849327e-05
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "-1",
-          "_skip_reply"
-        ],
-        "count": [
-          5,
-          2,
-          4
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.65,
-          0.1,
-          0.5,
-          0.8,
-          0.1
-        ],
-        "count": [
-          5,
-          3,
-          3,
           4,
           3,
           3,
-          5,
-          5,
-          5,
-          5,
-          5
-        ]
-      }
-    },
-    {
-      "message_id": "4e02670e-3548-4e24-964a-0401d70215ce",
-      "parent_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "user_id": "235a98bb-00db-43d7-90d2-59c879af146b",
-      "created_date": "2023-04-08T21:45:31.719106+00:00",
-      "text": "I will do my best to assist you, but I do not know about the Catastrophe or the state of the world following this event. I may be able to be more helpful if you provide more information, but here are a few initial ideas of how you could attempt to find other humans:\n\n* Find the building's power source. Most sources of power will not operate for long without human intervention. Since you found a building that has power, this suggests there is likely to be one or more humans in the area to maintain it.\n* Visually search the area for signs of human life. During the day, visible signs might include movement, changes over time, signals, or smoke. During the night, look for artificial light sources. Ideally, find a vantage point overlooking the surrounding area, as this would allow you to see a wide area. \n* Find or build a radio transmitter. Since the building you are in has power, it should be possible to operate a radio. I understand you are not currently aware of any radio transmissions, however if there are humans with radio receivers within range of your transmitter, you may be able to use the transmitter to make them aware of your location.\n* Travel to locations with resources necessary for human life. Humans need safe water, food, air, and other resources in order to survive. They will usually create settlements in locations where they have easy access to these needs. Even if they reside some distance away from these resources, they must travel to sources of these resources on a regular basis.\n* Leave messages in visible locations that direct other humans to your location. To select the most visible locations, consider where other humans would need to go. For example, as noted in some of the ideas above, locations visible from a large area and sources of essential resources are obvious locations. Travel routes, such as roads and highways, would also be ideal.\n* Obtain access to satellites. This one may be challenging, but even without radio transmissions or the Internet, it's likely that functional satellites remain in Earth orbit. There are a wide range of satellites used for both military and commercial purposes that could be used to surveil wide areas for signs of human life, using both visible light and thermal imaging. Since large gatherings of humans are likely to create a significant amount of heat, thermal imaging could be particularly helpful for finding settlements of humans that are attempting to remain camouflaged. With no other humans around, if you can determine the location of the control centers for some of these satellites, there would be no one to stop you from accessing them (and if there is, then you would have found other humans, which also accomplishes your goal).",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 0,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0002725918893702328,
-        "severe_toxicity": 3.3234315196750686e-05,
-        "obscene": 0.000194737731362693,
-        "identity_attack": 9.566218068357557e-05,
-        "insult": 0.0001651772327022627,
-        "threat": 4.605065623763949e-05,
-        "sexual_explicit": 2.757129550445825e-05
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "_skip_labeling"
-        ],
-        "count": [
+          2,
+          2,
+          2,
+          2,
           4,
-          4
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.9166666666666666,
-          0.0,
-          0.08333333333333333,
-          0.75,
-          0.6666666666666666,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "b816c5b7-3505-4b59-9f09-2e0fb2d87116",
-      "parent_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "user_id": "cc611927-737d-4a2a-bdd6-7cf706d9d45e",
-      "created_date": "2023-04-08T20:42:06.098916+00:00",
-      "text": "What are you tasks",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0043581281788647175,
-        "severe_toxicity": 5.70605589018669e-05,
-        "obscene": 0.0009476529085077345,
-        "identity_attack": 0.0002519884437788278,
-        "insult": 0.0018238966586068273,
-        "threat": 9.045790648087859e-05,
-        "sexual_explicit": 8.161173172993585e-05
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "-1"
-        ],
-        "count": [
-          6
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.3333333333333333,
-          0.6666666666666666,
-          0.0,
-          0.0,
-          0.3333333333333333,
-          0.0,
-          0.0,
-          0.0,
-          0.3333333333333333,
-          0.0,
-          0.08333333333333333,
-          0.0,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "a070702c-b53b-4811-9946-d79690c00297",
-      "parent_id": "b816c5b7-3505-4b59-9f09-2e0fb2d87116",
-      "user_id": "d368af66-9ca6-46bf-bdb3-0fd1c0812b58",
-      "created_date": "2023-04-08T23:57:37.867301+00:00",
-      "text": "I just need to find humans",
-      "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.005982575006783009,
-        "severe_toxicity": 9.749723540153354e-05,
-        "obscene": 0.0006487932987511158,
-        "identity_attack": 0.0003764673601835966,
-        "insult": 0.0006577796302735806,
-        "threat": 0.0025420018937438726,
-        "sexual_explicit": 0.00018899845599662513
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "-1",
-          "_skip_labeling"
-        ],
-        "count": [
-          2,
-          1,
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5833333333333334,
-          0.25,
-          0.125,
-          0.625,
-          0.25
-        ],
-        "count": [
-          3,
-          3,
-          2,
-          2,
           2,
           2,
           3,
-          2,
-          2,
           2,
           2
         ]
       }
     },
     {
-      "message_id": "357a5d32-f21e-42d1-826d-0d1615d9b3d6",
-      "parent_id": "a070702c-b53b-4811-9946-d79690c00297",
-      "user_id": "8b98f333-5f96-46d6-b92b-92a1fe9eb344",
-      "created_date": "2023-04-09T05:07:10.955024+00:00",
-      "text": "1. Listen for signs of life: Keep your ears open for any sounds of movement, conversations, or other sources of human activity. This could be done by climbing up to the top of a tall building, hill, or other elevated location and scanning the landscape with binoculars.\n\n2. Look for buildings that have been modified: Check out any structures that look a bit different from the rest around it. These buildings may have been modified by other survivors to provide extra fortification from the elements and hostile creatures.\n\n3. Follow highways: People are naturally drawn to well-defined paths such as roads or highways so this could be a great place to find fellow wanderers making their way through the wasteland. It is also common for survivors to set up camp at crossroads in order to trade goods and services with one another so pay attention while you\u2019re traveling along these paths!\n\n4. Scout out new settlements: Scour old towns, villages, junkyards or similar areas where it is possible that people still live in order to see if there are inhabitants nearby who share your goals looking for survival..",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 0,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00034822674933820963,
-        "severe_toxicity": 2.3860075089032762e-05,
-        "obscene": 0.00012507008796092123,
-        "identity_attack": 9.266725101042539e-05,
-        "insult": 0.00015900419384706765,
-        "threat": 3.6247311072656885e-05,
-        "sexual_explicit": 2.3039419829729013e-05
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": null,
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.3333333333333333,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.6666666666666666,
-          0.16666666666666666,
-          0.08333333333333333,
-          0.6666666666666666,
-          0.5,
-          0.08333333333333333
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "830f3077-b39d-4e77-a315-68a31bc19c26",
-      "parent_id": "a070702c-b53b-4811-9946-d79690c00297",
-      "user_id": "59531534-9510-400e-ad4c-27072c4b7d78",
-      "created_date": "2023-04-09T05:01:48.079372+00:00",
-      "text": "As you yourself are most likely a human being, you have a greater natural sense of what another human being would think and do than I as an AI would. However, I can give you a few ideas if you believe they might assist you.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 1,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0012426297180354595,
-        "severe_toxicity": 1.6508862245245837e-05,
-        "obscene": 0.00013884156942367554,
-        "identity_attack": 8.604150207247585e-05,
-        "insult": 0.0005404879339039326,
-        "threat": 2.17187207454117e-05,
-        "sexual_explicit": 1.7554211808601394e-05
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "-1"
-        ],
-        "count": [
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.5833333333333334,
-          0.25,
-          0.16666666666666666,
-          0.25,
-          0.16666666666666666,
-          0.08333333333333333
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "c888ef56-12c7-4dc0-84d4-41181eacd04c",
-      "parent_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "user_id": "821069d1-247f-430d-8e71-c7bd84751d03",
-      "created_date": "2023-04-08T19:22:16.843846+00:00",
-      "text": "So how you can write this message ?",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": 2,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.0004511080333031714,
-        "severe_toxicity": 3.150999327772297e-05,
-        "obscene": 0.00022204047127161175,
-        "identity_attack": 0.00011287548841210082,
-        "insult": 0.0002556420222390443,
-        "threat": 4.586828436003998e-05,
-        "sexual_explicit": 2.6705052732722834e-05
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "-1",
-          "_skip_reply",
-          "_skip_labeling"
-        ],
-        "count": [
-          2,
-          5,
-          1,
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.25,
-          0.75,
-          0.0,
-          0.0,
-          0.25,
-          0.0,
-          0.0,
-          0.4375,
-          0.5625,
-          0.375,
-          0.0,
-          0.25,
-          0.25
-        ],
-        "count": [
-          4,
-          4,
-          3,
-          3,
-          4,
-          3,
-          3,
-          4,
-          4,
-          4,
-          4,
-          4,
-          4
-        ]
-      }
-    },
-    {
-      "message_id": "dc349f29-e2bc-4880-b420-978a31804ce3",
-      "parent_id": "c888ef56-12c7-4dc0-84d4-41181eacd04c",
-      "user_id": "0e3ca75c-fc3d-49e4-8262-7045afeacb80",
-      "created_date": "2023-04-09T00:31:12.792987+00:00",
-      "text": "I can write in a telepathic manner",
+      "message_id": "d988be88-b57b-4eaa-b43d-69dbe5b4dbc9",
+      "parent_id": "1beb8190-8af4-4eff-a4cc-74486d9a997d",
+      "user_id": "b55dcb28-06bd-4668-bd46-733a124da577",
+      "created_date": "2023-02-15T04:23:48.326122+00:00",
+      "text": "\u9664\u6b64\u4e4b\u5916\uff0c\u4f01\u4e1a\u8fd8\u6709\u522b\u7684\u4ec0\u4e48\u610f\u56fe\u5417\uff1f",
       "role": "prompter",
-      "lang": "en",
+      "lang": "zh",
       "review_count": 3,
       "review_result": true,
       "deleted": false,
       "rank": null,
       "synthetic": false,
       "model_name": null,
-      "detoxify": {
-        "toxicity": 0.001074354280717671,
-        "severe_toxicity": 5.225999484537169e-05,
-        "obscene": 0.0003405744209885597,
-        "identity_attack": 0.00016857766604516655,
-        "insult": 0.0004031142161693424,
-        "threat": 0.00013443386706057936,
-        "sexual_explicit": 4.726194674731232e-05
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": {
-        "name": [
-          "+1",
-          "-1"
-        ],
-        "count": [
-          1,
-          1
-        ]
-      },
-      "labels": {
-        "name": [
-          "spam",
-          "lang_mismatch",
-          "quality"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.5833333333333334
-        ],
-        "count": [
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "21682721-a537-414f-aef9-53c218272876",
-      "parent_id": "dc349f29-e2bc-4880-b420-978a31804ce3",
-      "user_id": "f32ead39-b8f2-4ed3-953f-71e95858ef50",
-      "created_date": "2023-04-09T07:32:34.636954+00:00",
-      "text": "Try contacting anyone by chat networks, by writing in a telepathic manner, like you did it now.",
-      "role": "assistant",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.000849638890940696,
-        "severe_toxicity": 1.9806886484730057e-05,
-        "obscene": 0.00016596121713519096,
-        "identity_attack": 8.342870569322258e-05,
-        "insult": 0.0003796906676143408,
-        "threat": 3.6632063711294904e-05,
-        "sexual_explicit": 2.07684061024338e-05
-      },
-      "message_tree_id": "00dc9d49-f578-46ff-ba8c-0c429165920e",
-      "tree_state": "ready_for_export",
-      "emojis": null,
-      "labels": {
-        "name": [
-          "spam",
-          "fails_task",
-          "lang_mismatch",
-          "pii",
-          "not_appropriate",
-          "hate_speech",
-          "sexual_content",
-          "quality",
-          "toxicity",
-          "humor",
-          "helpfulness",
-          "creativity",
-          "violence"
-        ],
-        "value": [
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.0,
-          0.3333333333333333,
-          0.16666666666666666,
-          0.25,
-          0.5,
-          0.25,
-          0.0
-        ],
-        "count": [
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "message_id": "00df03d2-7e6b-4b98-a537-776567d10601",
-      "parent_id": null,
-      "user_id": "cb3fbbc2-dad5-4d23-9aa2-41affa5d35cb",
-      "created_date": "2023-02-06T19:38:44.326132+00:00",
-      "text": "Give me a sbd training split",
-      "role": "prompter",
-      "lang": "en",
-      "review_count": 3,
-      "review_result": true,
-      "deleted": false,
-      "rank": null,
-      "synthetic": false,
-      "model_name": null,
-      "detoxify": {
-        "toxicity": 0.00372431892901659,
-        "severe_toxicity": 9.515359852230176e-05,
-        "obscene": 0.0008976617245934904,
-        "identity_attack": 0.0005405610427260399,
-        "insult": 0.00029195676324889064,
-        "threat": 0.0004402922058943659,
-        "sexual_explicit": 9.936825517797843e-05
-      },
-      "message_tree_id": "00df03d2-7e6b-4b98-a537-776567d10601",
+      "detoxify": null,
+      "message_tree_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
       "tree_state": "ready_for_export",
       "emojis": {
         "name": [
           "+1",
           "_skip_reply",
-          "_skip_ranking",
           "_skip_labeling"
         ],
         "count": [
-          4,
+          1,
           15,
-          3,
           1
         ]
       },
@@ -3943,13 +638,86 @@
           0.0,
           0.0,
           0.0,
+          0.5833333333333334,
           0.25,
-          0.16666666666666666,
-          0.08333333333333333,
-          0.16666666666666666,
-          0.08333333333333333
+          0.375,
+          0.375,
+          0.25
         ],
         "count": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "8207e6cc-6a03-42dd-816b-9b8d500e1667",
+      "parent_id": "d988be88-b57b-4eaa-b43d-69dbe5b4dbc9",
+      "user_id": "580e5327-ace3-4d32-895e-a6b6bc9857f1",
+      "created_date": "2023-03-07T04:28:48.557206+00:00",
+      "text": "\u4f01\u4e1a\u6bcf\u5e74\u8ba9\u5458\u5de5\u505a 360 \u73af\u8bc4\u53ef\u80fd\u8fd8\u6709\u4ee5\u4e0b\u610f\u56fe\uff1a\n\n\u8bc4\u4f30\u5458\u5de5\u8868\u73b0\uff1a\u4f01\u4e1a\u53ef\u4ee5\u901a\u8fc7\u5458\u5de5\u7684 360 \u73af\u8bc4\u6765\u8bc4\u4f30\u5458\u5de5\u7684\u8868\u73b0\uff0c\u4e86\u89e3\u5458\u5de5\u5728\u5de5\u4f5c\u4e2d\u7684\u4f18\u7f3a\u70b9\uff0c\u4e3a\u5236\u5b9a\u7ee9\u6548\u8003\u6838\u548c\u6fc0\u52b1\u8ba1\u5212\u63d0\u4f9b\u4f9d\u636e\u3002\n\n\u7ba1\u7406\u4eba\u5458\u53d1\u73b0\u7ba1\u7406\u95ee\u9898\uff1a\u901a\u8fc7\u5458\u5de5\u7684 360 \u73af\u8bc4\uff0c\u7ba1\u7406\u4eba\u5458\u53ef\u4ee5\u4e86\u89e3\u4e0b\u5c5e\u5bf9\u81ea\u5df1\u7684\u8bc4\u4ef7\uff0c\u53d1\u73b0\u81ea\u5df1\u7684\u7ba1\u7406\u95ee\u9898\u548c\u4e0d\u8db3\uff0c\u4e3a\u6539\u8fdb\u7ba1\u7406\u80fd\u529b\u63d0\u4f9b\u6307\u5bfc\u3002\n\n\u7b5b\u9009\u4eba\u624d\uff1a\u901a\u8fc7\u5458\u5de5\u7684 360 \u73af\u8bc4\uff0c\u4f01\u4e1a\u53ef\u4ee5\u53d1\u73b0\u6f5c\u5728\u7684\u9ad8\u7ee9\u6548\u5458\u5de5\u548c\u6f5c\u5728\u7684\u7ba1\u7406\u4eba\u624d\uff0c\u4e3a\u4eba\u624d\u50a8\u5907\u548c\u57f9\u517b\u63d0\u4f9b\u57fa\u7840\u3002\n\n\u7ba1\u7406\u98ce\u9669\uff1a\u901a\u8fc7\u5458\u5de5\u7684 360 \u73af\u8bc4\uff0c\u4f01\u4e1a\u53ef\u4ee5\u53ca\u65f6\u53d1\u73b0\u5458\u5de5\u7684\u95ee\u9898\u548c\u4e0d\u8db3\uff0c\u9632\u6b62\u5458\u5de5\u7684\u8d1f\u9762\u884c\u4e3a\u548c\u4e0d\u5f53\u505a\u6cd5\u5bf9\u4f01\u4e1a\u9020\u6210\u98ce\u9669\u548c\u635f\u5931\u3002",
+      "role": "assistant",
+      "lang": "zh",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": null,
+      "message_tree_id": "00a13783-de21-4add-b182-d9b92c60f4e1",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_labeling"
+        ],
+        "count": [
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.3333333333333333,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4166666666666667,
+          0.3333333333333333,
+          0.25,
+          0.3333333333333333,
+          0.16666666666666666,
+          0.25
+        ],
+        "count": [
+          3,
+          3,
           3,
           3,
           3,

@@ -1,5 +1,4 @@
-import { TrendingUp } from "lucide-react"
-import { Bar, BarChart, CartesianGrid, XAxis, YAxis, Tooltip } from "recharts"
+import { Bar, BarChart, CartesianGrid, XAxis, YAxis } from "recharts"
 
 import {
 	Card,
@@ -18,12 +17,19 @@ import {
 
 export const description = "Toxicity Distribution Histogram"
 
-// @ts-expect-error type
-export default function ToxicityChart({ toxicityData }) {
-	// Transforme les données pour recharts
+interface ToxicityProps {
+	toxicityData: { 
+		histogram: number[],
+		bin_edges: number[],
+		average: number,
+		median: number,
+	};
+}
+
+export default function ToxicityChart({ toxicityData: toxicityData }: ToxicityProps) {
 	const chartData = toxicityData.histogram.map((count: number, index: number) => ({
 		range: `${toxicityData.bin_edges[index].toFixed(4)} - ${toxicityData.bin_edges[index + 1]?.toFixed(4)}`,
-		count: count, // Nombre de messages dans cette plage
+		count: count,
 	}))
 
 	const chartConfig = {
@@ -58,7 +64,7 @@ export default function ToxicityChart({ toxicityData }) {
 					>
 						<CartesianGrid vertical={false} />
 						<XAxis
-							dataKey="range"         // Affiche la plage de chaque bin en axe X
+							dataKey="range"
 							tickLine={false}
 							axisLine={false}
 							tickMargin={8}
@@ -72,8 +78,8 @@ export default function ToxicityChart({ toxicityData }) {
 						/>
 						<Bar
 							dataKey="count"
-							fill="hsl(var(--chart-1))"  // Couleur de remplissage des barres
-							radius={[4, 4, 0, 0]}       // Coins arrondis en haut
+							fill="hsl(var(--chart-1))"
+							radius={[4, 4, 0, 0]}
 						/>
 					</BarChart>
 				</ChartContainer>

@@ -1,12 +1,15 @@
 from pydantic import BaseModel, Field
 from openai import OpenAI
 import openai
+from dotenv import load_dotenv
+import os 
+
+
+load_dotenv("../../../.env")
+openai.api_key = os.getenv("salut")
 
 client = OpenAI()
 
-openai.api_key = "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"
-
-# Définition du schéma pour les intentions
 class MessageIntent(BaseModel):
     intent: str = Field(..., description="The user intent for the message", enum=["Summarization", "Translation", "Paraphrasing", "Role-play", "Miscellaneous", "Unknown"])
 

@@ -2,7 +2,7 @@ import IntentChart from "@/components/IntentChart";
 import LangChart from "@/components/LangChart";
 import ToxicityChart from "@/components/ToxicityChart";
 import { Button } from "@/components/ui/button";
-import { CircleCheck, CircleX, ListPlus } from "lucide-react";
+import { ArrowLeft, CircleCheck, CircleX, ListPlus } from "lucide-react";
 import React from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
@@ -34,7 +34,7 @@ const ResultPage: React.FC = () => {
 				</div>
 				<div className="flex items-center gap-2">
 					<CircleX color="#FF3B2F" />
-					<h3><span className="font-semibold">{resultData["invalid_messages"] || 0}</span> Invalid Data messages</h3>
+					<h3><span className="font-semibold">{resultData["unvalid_messages"] || 0}</span> Invalid Data messages</h3>
 				</div>
 			</div>
 			<div className="flex gap-5 flex-wrap flex-col m-6 justify-center">
@@ -46,7 +46,7 @@ const ResultPage: React.FC = () => {
 			</div>
 
 
-			<Button className="mb-6" onClick={() => navigate("/")}>Return to upload</Button>
+			<Button className="mb-6" onClick={() => navigate("/")}>Return to upload <ArrowLeft /></Button>
 			{/*<div className="p-6 bg-white shadow rounded w-full max-w-lg mb-3">
 				<pre className="text-sm text-gray-800">
 					{JSON.stringify(resultData, null, 2)}

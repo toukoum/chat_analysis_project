@@ -1,5 +1,3 @@
-import * as React from "react"
-import { TrendingUp } from "lucide-react"
 import { Label, Pie, PieChart } from "recharts"
 
 import {
@@ -13,8 +11,6 @@ import {
 import {
 	ChartConfig,
 	ChartContainer,
-	ChartLegend,
-	ChartLegendContent,
 	ChartTooltip,
 	ChartTooltipContent,
 } from "@/components/ui/chart"
@@ -40,15 +36,15 @@ const colorsIntent: { [key: string]: string } = {
 	"Unknown": "hex(#ccc)",
 }
 
+interface IntentProps {
+  intentData: { [key: string]: number };
+}
 
-
-
-export default function Component({ intentData }) {
-	// Créer un tableau de données pour le graphique à partir de intentData
+export default function IntentChart({ intentData: intentData }: IntentProps) {
 	const chartData = Object.keys(intentData).map((intent) => ({
-		intent: intent,              // Nom de l'intention
-		count: intentData[intent],    // Nombre d'occurrences de l'intention
-		fill: colorsIntent[intent],  // Utiliser la couleur de chartConfig ou une couleur par défaut si l'intention est manquante
+		intent: intent,
+		count: intentData[intent],
+		fill: colorsIntent[intent],
 	}))
 
 	// Calculer le nb de catégories d'intentions
