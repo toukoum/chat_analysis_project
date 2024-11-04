@@ -1,0 +1,28 @@
+
+services:
+
+  backend:
+    build: ./backend
+    container_name: backend
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    networks:
+      - analysis-network
+  
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    env_file:
+      - .env
+    ports:
+      - "3000:3000"
+    networks:
+      - analysis-network
+
+networks:
+  analysis-network:
+    driver: bridge

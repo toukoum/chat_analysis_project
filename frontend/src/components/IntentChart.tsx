@@ -24,7 +24,6 @@ const chartConfig = {
 	"paraphrasing": { label: "Paraphrasing", color: "hsl(var(--chart-3))" },
 	"roleplay": { label: "Role-play", color: "hsl(var(--chart-4))" },
 	"miscellaneous": { label: "Miscellaneous", color: "hsl(var(--chart-5))" },
-	"unknown": { label: "Unknown", color: "hex(#ccc)" },
 } satisfies ChartConfig
 
 const colorsIntent: { [key: string]: string } = {
@@ -33,7 +32,6 @@ const colorsIntent: { [key: string]: string } = {
 	"Paraphrasing": "hsl(var(--chart-3))",
 	"Role-play": "hsl(var(--chart-4))",
 	"Miscellaneous": "hsl(var(--chart-5))",
-	"Unknown": "hex(#ccc)",
 }
 
 interface IntentProps {
@@ -50,8 +48,8 @@ export default function IntentChart({ intentData: intentData }: IntentProps) {
 	// Calculer le nb de catégories d'intentions
 	const totalIntent = chartData.length
 
-	const unknownIntents = intentData["Unknown"] || 0;
-	const totalClassified = chartData.reduce((acc, { count }) => acc + count, 0) - unknownIntents;
+	const unknownIntents = intentData["Miscellaneous"] || 0;
+	const totalClassified = chartData.reduce((acc, { count }) => acc + count, 0);
 
 
 	return (
@@ -115,7 +113,7 @@ export default function IntentChart({ intentData: intentData }: IntentProps) {
           Total classified intents: { totalClassified }
         </div>
         <div className="leading-none text-muted-foreground">
-          with { unknownIntents } unknown intents
+          with { unknownIntents } miscellaneous intents
         </div>
       </CardFooter>
 		</Card>
