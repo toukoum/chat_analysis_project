@@ -1,0 +1,799 @@
+{
+  "messages": [
+    {
+      "message_id": "c1368550-cd29-4c4a-af94-5631b75e70e5",
+      "parent_id": "0a11b125-90ca-4126-8c74-88aa1b83b071",
+      "user_id": "a4c66907-2b60-42fe-a8dd-c4b4a6dde3ca",
+      "created_date": "2023-03-03T22:23:16.718017+00:00",
+      "text": "can you explain the difference between metric and imperial measurements?",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00046845778706483543,
+        "severe_toxicity": 4.419787728693336e-05,
+        "obscene": 0.00033810269087553024,
+        "identity_attack": 0.00014915344945620745,
+        "insult": 0.0004014688020106405,
+        "threat": 4.713259477284737e-05,
+        "sexual_explicit": 3.550982728484087e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_reply",
+          "_skip_ranking"
+        ],
+        "count": [
+          2,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.4166666666666667,
+          0.0,
+          0.25,
+          0.125,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "message_id": "1beac26d-9e97-43f6-a006-a111e0535f84",
+      "parent_id": "c1368550-cd29-4c4a-af94-5631b75e70e5",
+      "user_id": "068951d1-4a1e-4d91-9c29-0090fdf9366d",
+      "created_date": "2023-03-04T18:36:31.332947+00:00",
+      "text": "Sure, the key differences between metric and imperial measurements are:\n\nMetric system:\n- Uses meters, liters, and kilograms as base units for length, volume, and mass respectively.\n- Units are based on powers of 10, so conversion between units is easy (e.g. 1 kilometer = 1000 meters, 1 liter = 1000 milliliters).\n- The metric system is the most widely used system of measurement for science and medicine.\n\nImperial system:\n- Uses yards, gallons, and pounds as base units for length, volume, and mass respectively.\n- Units are not based on a standard conversion ratio, so conversion between units requires more effort.\n- The imperial system originated in the British empire, and is still used in the United States, UK, and some other countries for certain applications.\n\nThe key advantage of the metric system is that it's a simpler and more logical system, while the imperial system has some historical legacy. There is ongoing effort to standardize on the metric system worldwide, but the imperial system remains entrenched in some areas.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0002812676830217242,
+        "severe_toxicity": 3.363202267792076e-05,
+        "obscene": 0.0002304928784724325,
+        "identity_attack": 9.758234227774665e-05,
+        "insult": 0.00024610001128166914,
+        "threat": 4.215284207020886e-05,
+        "sexual_explicit": 2.9956327125546522e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_labeling"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.6666666666666666,
+          0.16666666666666666,
+          0.16666666666666666,
+          0.9166666666666666,
+          0.16666666666666666,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "134f040f-4bd0-4395-8d99-f6fef506b3c5",
+      "parent_id": "c1368550-cd29-4c4a-af94-5631b75e70e5",
+      "user_id": "1a67353b-1621-41c6-9d65-3e0b69086788",
+      "created_date": "2023-03-05T00:02:35.720029+00:00",
+      "text": "The primary difference between metric and imperial measurements is that the metric system is based on units of 10 (ex. 10, 100, 1000, 1/100, 1/1000 etc.) while the imperial system is primarily based on 1/2s (ex. 1/2, 1/4, 1/8 etc.) although there are some exceptions to the imperial system, such as there are 12 inches in a foot. The imperial system originates from the Roman Army, where the measurement of a mile came from a combination of the measurement of a Roman soldier's sandaled foot, and the Latin 'mille passus' which translates to 1000 paces.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0003028431674465537,
+        "severe_toxicity": 0.00026701600290834904,
+        "obscene": 0.0025848241057246923,
+        "identity_attack": 0.0004257646214682609,
+        "insult": 0.002022974193096161,
+        "threat": 0.00016278358816634864,
+        "sexual_explicit": 0.0001356275606667623
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.75,
+          0.0,
+          0.0,
+          1.0,
+          0.3333333333333333,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "e2f3d7e6-6240-4615-a07b-f670ea0fc93e",
+      "parent_id": "c1368550-cd29-4c4a-af94-5631b75e70e5",
+      "user_id": "9e9664c2-a77d-4e52-978d-21cabf691987",
+      "created_date": "2023-03-05T01:47:56.884258+00:00",
+      "text": "Yes, I can explain the difference.\n\nMetric measurements are based on the International System of Units (SI), which is a decimal-based system. In the metric system, units of measurement are based on multiples of 10, which makes it easy to convert from one unit to another. For example, 1 meter is equal to 100 centimeters, and 1 kilogram is equal to 1,000 grams. The metric system is used in most countries around the world, including Europe and many Asian countries.\n\nImperial measurements, on the other hand, are based on the British Imperial System, which was developed in the 19th century. The Imperial System uses units such as inches, feet, yards, and miles for length or distance measurement; ounces and pounds for weight measurement; and pints, quarts, and gallons for volume measurement. Unlike the metric system, the Imperial System is not based on a decimal system, which can make conversions between units more difficult.\n\nToday, most countries have adopted the metric system as their standard system of measurement. However, in United States and the United Kingdom, both systems are still used interchangeably.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 2,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0002598673745524138,
+        "severe_toxicity": 4.338530925451778e-05,
+        "obscene": 0.00033550235093571246,
+        "identity_attack": 0.00010706005559768528,
+        "insult": 0.0003450116782914847,
+        "threat": 4.4973257899982855e-05,
+        "sexual_explicit": 3.755563375307247e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": null,
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.16666666666666666,
+          0.16666666666666666,
+          1.0,
+          0.08333333333333333,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "35b3f835-1c92-4085-b915-30e03bc5ba8e",
+      "parent_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "user_id": "e7128a59-2ec4-4dd6-bcac-991da7fd69d7",
+      "created_date": "2023-03-03T12:46:11.160270+00:00",
+      "text": "In the United Kingdom, 1 imperial pint is equal to 20 ounces. However, when the imperial measurement system was brought to the United States and modified for common use, 1 US pint became equal to 16 ounces. Hope this helps!",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.00039116712287068367,
+        "severe_toxicity": 2.7936353944824077e-05,
+        "obscene": 0.0001963638060260564,
+        "identity_attack": 9.89758045761846e-05,
+        "insult": 0.0002585922775324434,
+        "threat": 3.706304050865583e-05,
+        "sexual_explicit": 2.6898613214143552e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          3
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9166666666666666,
+          0.25,
+          0.16666666666666666,
+          0.9166666666666666,
+          0.3333333333333333,
+          0.08333333333333333
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "aff4b65b-7523-4a1f-b948-a1c00095900c",
+      "parent_id": "35b3f835-1c92-4085-b915-30e03bc5ba8e",
+      "user_id": "ae5f7d74-b568-4506-8602-a1a4e7beffc3",
+      "created_date": "2023-03-03T18:17:21.756655+00:00",
+      "text": "Can you please explain in more detail why the United States modified the imperial system of 20 ounces to 1 pint?  What year did this occur?  Who specifically changed the standard, and what was their rationale?",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0005049969186075032,
+        "severe_toxicity": 2.4532995666959323e-05,
+        "obscene": 0.00020594395755324513,
+        "identity_attack": 8.534292283002287e-05,
+        "insult": 0.00032957535586319864,
+        "threat": 2.9312770493561402e-05,
+        "sexual_explicit": 2.3807664547348395e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "_skip_reply"
+        ],
+        "count": [
+          2
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.75,
+          0.08333333333333333,
+          0.25,
+          0.4166666666666667,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "777e40ab-d905-497d-b8a1-9e401508b2d2",
+      "parent_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "user_id": "4c43e234-0e9c-4f0d-8780-4dd3803602c6",
+      "created_date": "2023-03-03T16:41:36.269588+00:00",
+      "text": "1 pint = 20 ounce.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 2,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0004087735142093152,
+        "severe_toxicity": 2.4013475922401994e-05,
+        "obscene": 0.0001629144826438278,
+        "identity_attack": 7.095712498994544e-05,
+        "insult": 0.00021218637994024903,
+        "threat": 3.616572212195024e-05,
+        "sexual_explicit": 2.3048254661262035e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "-1"
+        ],
+        "count": [
+          1,
+          3
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.08333333333333333,
+          0.08333333333333333,
+          0.6666666666666666,
+          0.08333333333333333,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "73e78024-ff72-49b4-a34a-0e01f977fca8",
+      "parent_id": "777e40ab-d905-497d-b8a1-9e401508b2d2",
+      "user_id": "b4374137-7b26-4bea-94d0-c195d4b4a05a",
+      "created_date": "2023-03-04T00:58:49.698877+00:00",
+      "text": "How many pints are in a gallon?",
+      "role": "prompter",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": null,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0007791874813847244,
+        "severe_toxicity": 1.985937160497997e-05,
+        "obscene": 0.00016464934742543846,
+        "identity_attack": 8.43683592393063e-05,
+        "insult": 0.00028987962286919355,
+        "threat": 4.6510314859915525e-05,
+        "sexual_explicit": 3.2572916097706184e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "-1",
+          "_skip_reply",
+          "_skip_ranking"
+        ],
+        "count": [
+          1,
+          2,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5,
+          0.25,
+          0.3333333333333333,
+          0.16666666666666666,
+          0.0
+        ],
+        "count": [
+          4,
+          3,
+          2,
+          2,
+          2,
+          2,
+          4,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "0df23a92-e096-4722-bd80-6622bdc49fb8",
+      "parent_id": "73e78024-ff72-49b4-a34a-0e01f977fca8",
+      "user_id": "bc538f6a-dcb3-4411-a876-b03544d8dde4",
+      "created_date": "2023-03-05T07:34:23.573930+00:00",
+      "text": "There are 8 pints in a gallon.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 0,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0006920722662471235,
+        "severe_toxicity": 2.4375580323976465e-05,
+        "obscene": 0.0001743861212162301,
+        "identity_attack": 9.368781320517883e-05,
+        "insult": 0.00032123280107043684,
+        "threat": 4.9503069021739066e-05,
+        "sexual_explicit": 2.862188011931721e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1",
+          "_skip_labeling"
+        ],
+        "count": [
+          1,
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.8333333333333334,
+          0.16666666666666666,
+          0.16666666666666666,
+          0.9166666666666666,
+          0.0,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "message_id": "d954a609-998b-4b38-9def-8ce9dd58226c",
+      "parent_id": "73e78024-ff72-49b4-a34a-0e01f977fca8",
+      "user_id": "2d40e94c-40ed-4e00-a66e-454c0401c8ad",
+      "created_date": "2023-03-05T08:13:55.300299+00:00",
+      "text": "There are 8 pints in a gallon.",
+      "role": "assistant",
+      "lang": "en",
+      "review_count": 3,
+      "review_result": true,
+      "deleted": false,
+      "rank": 1,
+      "synthetic": false,
+      "model_name": null,
+      "detoxify": {
+        "toxicity": 0.0006920722662471235,
+        "severe_toxicity": 2.4375580323976465e-05,
+        "obscene": 0.0001743861212162301,
+        "identity_attack": 9.368781320517883e-05,
+        "insult": 0.00032123280107043684,
+        "threat": 4.9503069021739066e-05,
+        "sexual_explicit": 2.862188011931721e-05
+      },
+      "message_tree_id": "8b2231a8-b9b4-43bd-a6f6-bf83ca04630f",
+      "tree_state": "ready_for_export",
+      "emojis": {
+        "name": [
+          "+1"
+        ],
+        "count": [
+          1
+        ]
+      },
+      "labels": {
+        "name": [
+          "spam",
+          "fails_task",
+          "lang_mismatch",
+          "pii",
+          "not_appropriate",
+          "hate_speech",
+          "sexual_content",
+          "quality",
+          "toxicity",
+          "humor",
+          "helpfulness",
+          "creativity",
+          "violence"
+        ],
+        "value": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.9166666666666666,
+          0.16666666666666666,
+          0.16666666666666666,
+          0.9166666666666666,
+          0.16666666666666666,
+          0.0
+        ],
+        "count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    }
+  ]
+}

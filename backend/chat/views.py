@@ -12,8 +12,10 @@ MAX_THREAD = 100
 MAX_RETRIES = 3
 
 class ChatAnalysisView(APIView):
+    """
+    API endpoint that allows chat messages to be analyzed.
+    """
     serializer_class = ChatMessageSerializer
-
     def post(self, request, *args, **kwargs):
         messages = request.data.get("messages", [])
 

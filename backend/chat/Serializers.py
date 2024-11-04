@@ -1,5 +1,8 @@
 from rest_framework import serializers
 
+"""
+Very Basic serializer for chat messages
+"""
 class DetoxifySerializer(serializers.Serializer):
     toxicity = serializers.FloatField()
 

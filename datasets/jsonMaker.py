@@ -13,7 +13,7 @@ def main():
     number_of_messages = int(sys.argv[1])
     output_file = sys.argv[2]
     
-    ds = load_dataset("OpenAssistant/oasst2", split=f"train[100:110]")
+    ds = load_dataset("OpenAssistant/oasst2", split=f"train[70000:70010]")
     messages = [dict(ds[i]) for i in range(len(ds))]
     
     with open(output_file, "w") as json_file:
